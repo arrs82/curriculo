@@ -1,6 +1,6 @@
 # Currículo Profissional
 
-https://alessandroroberto.com.br
+https://www.alessandroroberto.com.br
 
 ## Informações
 Este é um repositório do meu currículo profissional utilizando linguagens em markdown, html, css e java script, através do MkDocs Material Theme.
