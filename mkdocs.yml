@@ -1,13 +1,13 @@
 # Project information
 site_name: Currículo Profissional
-#site_url: https://www.alessandroroberto.com.br
+#site_url: http://arrs82.github.io/
 site_author: Alessandro Roberto dos Reis Santos
 site_description: >-
   Currículo Profissional
 
 # Repository
-#repo_name: fconhkd.github.io
-repo_url: https://github.com/arrs82/curriculo
+#repo_name: arrs82.github.io
+#repo_url: https://github.com/arrs82/curriculo
 #edit_uri: edit/main/docs
 edit_uri_template: 'blob/main/docs/{path}'
 
