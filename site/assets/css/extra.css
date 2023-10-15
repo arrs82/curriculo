@@ -1,0 +1,52 @@
+@import "extensions/tabbed.css";
+
+/* Estilos para imagens com a classe ".left-image" */
+img.left-image {
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .14), 0 1px 5px 0 rgba(0, 0, 0, .12), 0 3px 1px -2px rgba(0, 0, 0, .2);
+  border-radius: .2rem;
+  display: block;
+  margin: 20px 20px 20px 0; /* Adicione margem à direita para manter a imagem à esquerda */
+  vertical-align: middle; /* Alinha verticalmente com outras imagens */
+}
+
+/* Estilos para imagens com a classe ".center-image" */
+img.center-image {
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .14), 0 1px 5px 0 rgba(0, 0, 0, .12), 0 3px 1px -2px rgba(0, 0, 0, .2);
+  border-radius: .2rem;
+  display: block;
+  margin: 20px auto; /* Centraliza a imagem horizontalmente */
+  vertical-align: middle; /* Alinha verticalmente com outras imagens */
+}
+
+/* Estilos para imagens com a classe ".right-image" */
+img.right-image {
+  float: right; /* Alinha a imagem à direita */
+  margin-left: 20px; /* Adicione uma margem à esquerda para espaçamento */
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .14), 0 1px 5px 0 rgba(0, 0, 0, .12), 0 3px 1px -2px rgba(0, 0, 0, .2); /* Adiciona sombra */
+  border-radius: .2rem; /* Adiciona bordas arredondadas */
+  vertical-align: middle; /* Alinha verticalmente com outras imagens */
+}
+
+/* Limpar floats após imagens */
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Adicione a propriedade clear ao estilo do subtítulo (por exemplo, h2) */
+h2 {
+  clear: both;
+}
+
+/* Advertências clássicas */
+.md-typeset .admonition,
+.md-typeset details {
+  border-width: 0;
+  border-left-width: 4px;
+}
+
+
+
+
+

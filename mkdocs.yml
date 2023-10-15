@@ -1,0 +1,172 @@
+# Project information
+site_name: Currículo Profissional
+#site_url: https://www.alessandroroberto.com.br
+site_author: Alessandro Roberto dos Reis Santos
+site_description: >-
+  Currículo Profissional
+
+# Repository
+#repo_name: fconhkd.github.io
+repo_url: https://github.com/arrs82/curriculo
+#edit_uri: edit/main/docs
+edit_uri_template: 'blob/main/docs/{path}'
+
+# Copyright
+copyright: © 2023 Curriculo Profissional - Todos os direitos reservados e que Deus seja sempre louvado!
+
+# Page tree
+nav:
+        - Apresentação: index.md
+        - Dados Pessoais: dados-pessoais.md
+        - Objetivos Profissionais: objetivos.md
+        - Formação Acadêmica: formacao-academica.md
+        - Cursos Extracurriculares: cursos-extracurriculares.md
+        - Informática: informatica.md
+        - Língua Estrangeira: lingua-estrangeira.md
+        - Experiência Profissional: experiencia-profissional.md
+        - Projetos de Infraestrutura: projetos-infra.md
+        - Portfólio de Criação: portfolio-criacao.md
+        - Sobre: sobre.md
+        #- Documentos Pessoais: documentos-pessoais.md
+        #- Ícones e Utilitários: icones.md 
+              
+# Configuration
+theme:
+        name: material
+        custom_dir: overrides
+        language: pt-BR
+        icon:
+                logo: fontawesome/solid/user-tie
+        logo: assets/images/logo-curriculo.png
+        favicon: assets/images/favicons/favicon.png
+        features:
+                - announce.dismiss
+                # - content.action.edit
+                # - content.action.view
+                - content.code.annotate
+                - content.code.copy
+                - content.tabs.link
+                - content.tooltips
+                # - header.autohide
+                - navigation.expand
+                - navigation.footer
+                # - navigation.indexes
+                - navigation.instant
+                # - navigation.prune
+                - navigation.sections
+                # - navigation.tabs
+                # - navigation.tabs.sticky
+                - navigation.top
+                - navigation.tracking
+                - search.highlight
+                - search.share
+                - search.suggest
+                - toc.follow
+                # - toc.integrate
+        palette:
+                - scheme: default
+                  primary: blue grey
+                  accent: indigo
+                  toggle:
+                    icon: material/toggle-switch
+                    name: Switch to dark mode
+                - scheme: slate
+                  primary: blue grey
+                  accent: indigo
+                  toggle:
+                    icon: material/toggle-switch-off-outline
+                    name: Switch to light mode
+        font:
+                text: Roboto
+                code: Roboto Mono
+
+# Customization
+extra:
+        analytics:
+                provider: google
+                property: G-GCRKKC1EG7
+        social:
+                - icon: fontawesome/brands/instagram
+                  link: https://www.instagram.com/aleha.santos/
+                - icon: fontawesome/brands/youtube
+                  link: https://www.youtube.com/@aleha.santos
+                - icon: fontawesome/brands/linkedin
+                  link: https://www.linkedin.com/in/alessandroroberto82
+                #- icon: fontawesome/brands/facebook
+                #  link: https://www.facebook.com/fconhkd
+                #- icon: fontawesome/brands/github
+                #  link: https://github.com/arrs82
+                - icon: fontawesome/brands/whatsapp
+                  link: https://wa.me/5512988678750
+                  
+        caption: true
+        lazy_load: true
+        align: center
+        generator: false
+
+# CSS e Javascript
+extra_css:
+    - 'assets/css/extra.css'
+    - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/styles/default.min.css
+
+extra_javascript:
+    - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/highlight.min.js
+    - assets/javascripts/highlight.js
+    - assets/javascripts/ipinfo.js
+    
+# Plugins
+plugins:
+        - search:
+                lang: pt
+        - minify:
+                minify_html: true
+        - git-revision-date-localized:
+                # enabled: !ENV [CI, false]
+                enable_creation_date: true
+                fallback_to_build_date: false
+                type: timeago
+
+# Extensions
+markdown_extensions:
+        - abbr
+        - admonition
+        - attr_list
+        - def_list
+        - footnotes
+        - md_in_html
+        #- toc:
+        #        permalink: true
+        - pymdownx.arithmatex:
+                generic: true
+        - pymdownx.betterem:
+                smart_enable: all
+        - pymdownx.caret
+        - pymdownx.details
+        - pymdownx.emoji:
+                emoji_generator: !!python/name:materialx.emoji.to_svg
+                emoji_index: !!python/name:materialx.emoji.twemoji
+        - pymdownx.highlight:
+                anchor_linenums: true
+                line_spans: __span
+                pygments_lang_class: true
+        - pymdownx.inlinehilite
+        - pymdownx.snippets
+        - pymdownx.keys
+        - pymdownx.magiclink:
+                repo_url_shorthand: true
+                user: arrs82
+                repo: mkdocs-material-template
+        - pymdownx.mark
+        - pymdownx.smartsymbols
+        - pymdownx.superfences:
+                custom_fences:
+                - name: mermaid
+                  class: mermaid
+                  format: !!python/name:pymdownx.superfences.fence_code_format
+        - pymdownx.tabbed:
+                alternate_style: true                 
+        - pymdownx.tasklist:
+                custom_checkbox: true
+        - pymdownx.tilde
+        
+
