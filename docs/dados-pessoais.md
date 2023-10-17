@@ -2,7 +2,7 @@
 ![Alessandro](assets/images/alessandro/alessandro-mic.png#leftshadow){width="25%" .left-image}
 
 
-=== "Dados / Endereço /Contato :material-card-account-phone-outline:"
+=== "Dados / Endereço / Contato :material-card-account-phone-outline:"
 
     * Brasileiro, divorciado, 41 anos, habilitado (AB).
     * **Endereço:**

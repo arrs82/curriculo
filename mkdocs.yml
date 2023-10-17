@@ -9,7 +9,7 @@ site_description: >-
 #repo_name: arrs82.github.io
 #repo_url: https://github.com/arrs82/curriculo
 #edit_uri: edit/main/docs
-edit_uri_template: 'blob/main/docs/{path}'
+#edit_uri_template: 'blob/main/docs/{path}'
 
 # Copyright
 copyright: © 2023 Curriculo Profissional - Todos os direitos reservados e que Deus seja sempre louvado!
