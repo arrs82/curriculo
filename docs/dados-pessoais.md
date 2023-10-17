@@ -23,7 +23,7 @@
 === "PCD (Informações e Laudo PCD) :fontawesome-solid-wheelchair:"
 
     *  **CID M96.1 / M51.1 / G55.1**
-    * <p style="text-align: justify;"> **Observação:** Deficiência física decorrente e adquirida através de acidente de trabalho, não havendo qualquer necessidade de condições especiais e/ou nenhuma utilização de próteses ou qualquer artifício que porventura possa e venha comprometer a minha mobilidade relacionada à minha deficiencia física de coluna lombar.</p>
+    * <p style="text-align: justify;"> **Observação:** Deficiência física decorrente e adquirida através de acidente de trabalho, não havendo qualquer necessidade de condições especiais e/ou nenhuma utilização de próteses ou qualquer artifício que porventura possa e venha comprometer a minha mobilidade relacionada à minha deficiência física de coluna lombar.</p>
     * **Lei de Cotas para Pessoas com Deficiência (8.213/91)** :material-arrow-right-box: [Clique aqui](https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm){:target="_blank"} e saiba mais.
     ---
     !!! info " :fontawesome-solid-wheelchair: **Laudo PCD - Alessandro Roberto dos Reis Santos**"
