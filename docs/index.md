@@ -9,12 +9,8 @@
 
     ??? tip ":fontawesome-solid-people-roof: A minha inspiração :fontawesome-solid-photo-film:"
         <center>**FAMÍLIA**</center>
-        ![Mamãe e eu](assets/images/alessandro/mamae-eu.png#leftshadow){width="53%" .left-image align=left}
-        ![Daiane e eu](assets/images/alessandro/daiane-eu.png#rightshadow){width="43%" .right-image align=right}
-        ![Jade e eu](assets/images/alessandro/jade-eu.png#leftshadow){width="48%" .left-image align=left}
-        ![Eu e meu amor](assets/images/alessandro/eu-nice.png#rightshadow){width="48%" .right-image align=right}
-        ![Lolla](assets/images/alessandro/lolla.png#centershadow){width="100%" .center-image align=right}
-
+        ![Família](assets/images/alessandro/familia.png){width="100%"}
+        
 === "Apresentação Profissional :material-human-male-board:"
 
     <p style="text-align: justify;">Bacharel em administração de empresas, técnico em redes de computadores e informática, técnico em mecânica industrial, profissional polivalente com amplo conhecimento e sólida experiência vivenciada em empresas e órgãos públicos governamentais, atuando em ambientes pedagógicos (docente de cursos técnicos em administração e logística), em departamentos administrativos e de tecnologia da informação , bem como detentor de experiências em indústrias dos ramos de processos de fabricação, em específico a departamentos de usinagem, ferramentaria, qualidade e geração de utilidades com ênfase na cadeia produtiva de empresas dos segmentos aeronáuticos, automotivos, farmacêuticos, médicos e de higiene pessoal da região metropolitana do Vale do Paraíba, em específico na cidade de São José dos Campos/SP.</p>

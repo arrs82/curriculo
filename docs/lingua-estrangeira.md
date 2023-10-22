@@ -7,9 +7,9 @@
 
 |Língua|Leitura|Escrita|Conversação|
 |---|:---:|:---:| :---:|
-|![Inglês](assets/images/ingles.png#leftshadow){width="11%" .left-image}|:white_check_mark:|:x:|:x:|
-|![Espanhol](assets/images/espanhol.png#leftshadow){width="11%" .left-image}|:white_check_mark:|:x:|:x:|
-|![Português](assets/images/portugues.png#leftshadow){width="11%" .left-image}|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+|![Inglês](assets/images/ingles.png){width="11%"}|:white_check_mark:|:x:|:x:|
+|![Espanhol](assets/images/espanhol.png){width="11%"}|:white_check_mark:|:x:|:x:|
+|![Português](assets/images/portugues.png){width="11%"}|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 
 !!! Quote "Confúcio"
     _"O que sabemos, saber que o sabemos. Aquilo que não sabemos, saber que não o sabemos: eis o verdadeiro saber."_
