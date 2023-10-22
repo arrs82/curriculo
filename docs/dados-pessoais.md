@@ -9,12 +9,12 @@
     * **Bairro:** Morada do Sol 
     * **Cidade:** São José dos Campos - SP 
     * **CEP:** 12237-576
-    * :simple-googlemaps: [Google Maps](https://www.google.com/maps/d/embed?mid=1jyKY2d8Bm94XTHxT_CXWcC6Ibl47fK8&ehbc=2E312F"){:target="_blank"} (Endereço Pessoal)
+    * :material-google-maps: [Google Maps](https://www.google.com/maps/d/embed?mid=1jyKY2d8Bm94XTHxT_CXWcC6Ibl47fK8&ehbc=2E312F"){:target="_blank"} (Endereço Pessoal)
     * :material-whatsapp: [(12) 98867-8750](https://wa.me/5512988678750){:target="_blank"} (Pessoal)
     * :material-whatsapp: [(11) 95998-7312](https://wa.me/5511959987312){:target="_blank"} (Recado com filha)
     * :material-email: [alessandro.coringa@yahoo.com.br](mailto:alessandro.coringa@yahoo.com.br)
     * :material-email: [alessandroreis5s@icloud.com](mailto:alessandroreis5s@icloud.com)
-    * :simple-github:: [arrs82](https://github.com/arrs82){:target="_blank"}
+    * :simple-github: [arrs82](https://github.com/arrs82){:target="_blank"}
     * :fontawesome-brands-youtube: [@aleha.santos](https://www.youtube.com/@aleha.santos){:target="_blank"} 
     * :material-instagram: [@aleha.santos](https://www.instagram.com/aleha.santos/){:target="_blank"} 
     * :material-linkedin: [alessandroroberto82](https://www.linkedin.com/in/alessandroroberto82/){:target="_blank"}
