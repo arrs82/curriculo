@@ -14,9 +14,11 @@
 
     * **Assistente / Analista de Treinamento & Desenvolvimento**
     * **Assistente / Analista de Marketing**
-    * **Assistente / Analista de Recursos Humanos**
     * **Assistente / Analista de Facilities**
+    * **Assistente / Analista de Recursos Humanos**
     * **Assistente / Analista Financeiro**
+    * **Assistente / Analista Fiscal**
+    * **Assistente / Analista de Departamento Pessoal**
     * **Assistente / Analista Administrativo**
 
 === "Industrial :fontawesome-solid-industry:"

@@ -16,7 +16,7 @@
 |---|:---:|:---:| :---:|
 |:fontawesome-solid-computer: Informática|:x:|:x:|:white_check_mark:|
 |:material-ip-network: Redes|:x:|:x:|:white_check_mark:|
-|:octicons-terminal-16: DOS|:x:|:white_check_mark:|:x:|
+|:octicons-terminal-16: PowerShell|:x:|:white_check_mark:|:x:|
 |:fontawesome-brands-dev: DevOps|:white_check_mark:|:x:|:x:|
 |:octicons-cloud-16: Cloud Storage|:white_check_mark:|:x:|:x:|
 |:simple-windows11: Windows 10/11|:x:|:x:|:white_check_mark:|
