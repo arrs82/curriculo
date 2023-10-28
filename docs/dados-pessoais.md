@@ -4,7 +4,7 @@
 
 === "Dados / Endereço / Contato :material-card-account-phone-outline:"
 
-    * Brasileiro, divorciado, 41 anos, habilitado (AB).
+    * Brasileiro, divorciado, 41 anos, habilitado (AB)
     * **Endereço:** Rua Icatu, nº. 2030 - Bloco 2, apartamento 207   
     * **Bairro:** Morada do Sol 
     * **Cidade:** São José dos Campos - SP 
