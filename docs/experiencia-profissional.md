@@ -51,7 +51,7 @@
 
 **Modalidade:** Contrato RPA (autônomo)
 
-**Atribuições:** <p style="text-align: justify;">Atuante como docente de cursos técnicos tendo como cliente principal os alunos da rede pública do ensino médio, em que o escopo e a missão fora a de repassar e transmitir conhecimentos técnicos de conceitos e disciplinas específicas dos cursos técnicos de Administração e de Logística juntamente com exemplos empíricos vivenciados no passado e atuais acerca de cada curso, ambos voltados e em congruência  com a situação sócio-econômica atual do município de Jacareí e da região metropolitana do Vale do Paraíba.</p>
+**Atribuições:** <p style="text-align: justify;">Atuante como docente de cursos técnicos tendo como cliente principal os alunos da rede pública do ensino médio, em que o escopo e a missão fora a de repassar e transmitir conhecimentos técnicos de conceitos e disciplinas específicas dos cursos técnicos de Administração e de Logística juntamente com exemplos empíricos vivenciados no passado e atuais acerca de cada curso, ambos voltados e em congruência com a situação sócioeconômica atual do município de Jacareí e da região metropolitana do Vale do Paraíba.</p>
 
 **Competências técnicas/comportamentais desenvolvidas:**
 
