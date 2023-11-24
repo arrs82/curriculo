@@ -25,14 +25,14 @@
     </div>
 
     !!! info "Observações"
-        :material-video-vintage: Vídeo apresentação gravada na data do dia de **24/11/2023**;
+        :material-video-vintage: Vídeo apresentação gravada na data do dia de **24/11/2023**
 
         ---
 
         **Currículo Profissional**
 
-        www.alessandroroberto.com.br
-
+        [www.alessandroroberto.com.br](https://www.alessandroroberto.com.br/){:target="_blank"}
+        
 === "Meu Futuro :material-rocket-launch-outline:"
 
     <p style="text-align: justify;">Em minha vida pessoal almejo sim casar-me novamente com uma excelente mulher, deter muita saúde e disposição física, bem como deter condições financeiras de adquirir uma chácara em um local bacana para festas e confraternizações familiares e curtir muito a minha família.</p>
