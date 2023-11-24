@@ -20,7 +20,18 @@
 
 === "Vídeo Apresentação :octicons-video-16:"
 
-    :material-video-vintage: Em construção...
+     <div style="text-align: center;">
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/kVET2zMUfes" title="Vídeo Apresentação - Alessandro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+
+    !!! info "Observações"
+        :material-video-vintage: Vídeo apresentação gravada na data do dia de **24/11/2023**;
+
+        ---
+
+        **Currículo Profissional**
+
+        www.alessandroroberto.com.br
 
 === "Meu Futuro :material-rocket-launch-outline:"
 
