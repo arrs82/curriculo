@@ -3,10 +3,10 @@
 
 === "TI :fontawesome-solid-network-wired:"
 
+    * **Assistente / Analista de Segurança da Informação**
     * **Assistente / Analista de Infraestrutura**
     * **Assistente / Analista de Service Desk**
     * **Assistente / Analista de DevOps**
-    * **Assistente / Analista de Segurança da Informação**
     * **Técnico de Suporte**
     * **Técnico de Informática**
     

@@ -32,4 +32,4 @@
 === "Pretensão Salarial :fontawesome-solid-sack-dollar:"
 
     * **R$3.300,00** (negociável) **+ Benefícios**;
-    * **Disponibilidade imediata** :fontawesome-solid-right-left: Diurno - Noturno - Híbrido - Home Office.
+    * **Disponibilidade imediata:** Diurno - Noturno - Híbrido - Home Office.

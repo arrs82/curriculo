@@ -176,7 +176,7 @@
 
 * Powertrain (Usinagem);
 * Injetora de Plásticos (Injetoras/Pintura/Ferramentaria);
-* Utilidades (Casas de Bombas/ETA-ETE/Complexo SJC/SP).
+* Utilidades (Casas de Bombas/ETA-ETE/Complexo SJC-SP).
 
 **Modalidade:** CLT
 
