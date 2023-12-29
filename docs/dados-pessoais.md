@@ -20,16 +20,28 @@
     * :material-linkedin: [alessandroroberto82](https://www.linkedin.com/in/alessandroroberto82/){:target="_blank"}
     * :material-microsoft-internet-explorer: [https://www.alessandroroberto.com.br](https://www.alessandroroberto.com.br){:target="_blank"}
 
-=== "PCD (Informações e Laudo PCD) :fontawesome-solid-wheelchair:"
+=== "PCD (Laudo PCD e informações) :fontawesome-solid-wheelchair:"
 
-    *  **CID M96.1 / M51.1 / G55.1**
-    * <p style="text-align: justify;"> **Observação:** Deficiência física decorrente e adquirida através de acidente de trabalho, não havendo qualquer necessidade de condições especiais e/ou nenhuma utilização de próteses ou qualquer artifício que porventura possa e venha comprometer a minha mobilidade relacionada à minha deficiência física de coluna lombar.</p>
-    * **Lei de Cotas para PCD (Lei 8.213/91 - Artigos 89 a 93)** :material-arrow-right-box: [Clique aqui](https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm){:target="_blank"} e saiba mais.
-    ---
     !!! info " :fontawesome-solid-wheelchair: **Laudo PCD - Alessandro Roberto dos Reis Santos**"
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/PCD-DOCUMENTACAO-ARRS.pdf){:download="PCD-DOCUMENTACAO-ARRS.pdf"} para análise e apreciação.
-     
+
+    !!! info ":fontawesome-solid-wheelchair: **Informações acerca de minha deficiência**"
+        <p style="text-align: justify;"> Deficiência física decorrente e adquirida através de acidente de trabalho, não havendo qualquer necessidade de condições especiais e/ou nenhuma utilização de próteses ou qualquer artifício que porventura possa e venha comprometer a minha mobilidade relacionada à minha deficiência física de coluna lombar.</p>
+
+    !!! info ":fontawesome-solid-book-medical: **CID - Classificação Internacional de Doenças e Problemas Relacionados com a Saúde**"
+        * **CID M96.1:** Síndrome pós-laminectomia não classificada em outra parte.
+        * **CID M51.1:** Transtornos de discos lombares e de outros discos intervertebrais com radiculopatia.
+        * **CID G55.1:** Compressões das raízes e dos plexos nervosos em transtornos dos discos intervertebrais.
+
+    !!! info ":octicons-law-16: **Lei de Cotas para PCD (Lei 8.213/91 - Artigos 89 a 93)**"
+        :material-arrow-right-box: [Clique aqui](https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm){:target="_blank"} e saiba mais.
+
+    ??? danger "**Importante**"
+        <p style="text-align: justify;"> Impelindo-me com muito apreço e respeito a você, gostaria de dizer-lhe que sou sim PCD e sabemos disso, mas nem por isso irei **"rifar"** a minha condição de PCD perante a Lei a você empresa, recrutadores (as) e headhunters, pois tenho uma história, tenho uma bagagem, detenho experiências profissionais, detenho uma formação acadêmica a zelar e principalmente conhecimentos acerca do que envolve o meu ser, em específico ao Alessandro profissional, portanto quando digo que não irei **"rifar"** a minha condição de PCD, independente de todo o contexto aqui em meu perfil e minhas necessidades pessoais, digo-lhe isso  referindo-me que jamais não vender-me-ei ou aceitar a qualquer proposta de salário e benefícios que não esteja fora do padrão e escopo atual do mercado de trabalho em nossa região e país, até porque detenho muitas necessidades financeiras pessoais como qualquer indivíduo e profissional. **#ficaadica** </p>   
+
+    
 === "Pretensão Salarial :fontawesome-solid-sack-dollar:"
 
-    * **R$3.300,00** (negociável) **+ Benefícios**;
-    * **Disponibilidade imediata:** Diurno - Noturno - Híbrido - Home Office.
+    !!! info "**Pretensão Salarial**"
+        * **R$3.300,00** (negociável) **+ Benefícios**;
+        * **Disponibilidade imediata:** Diurno - Noturno - Híbrido - Home Office.
