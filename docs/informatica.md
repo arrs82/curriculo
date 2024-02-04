@@ -52,5 +52,5 @@
 |:simple-adobedreamweaver: Dreamweaver|:white_check_mark:|:x:|:x:|
 |:simple-adobeacrobatreader: Acrobat|:x:|:x:|:white_check_mark:|
 
-!!! Quote "Confúcio"
+!!! Quote "Confúcio" 
     _"O que sabemos, saber que o sabemos. Aquilo que não sabemos, saber que não o sabemos: eis o verdadeiro saber."_
