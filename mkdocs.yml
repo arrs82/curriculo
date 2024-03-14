@@ -27,7 +27,7 @@ nav:
         - Projetos de Infraestrutura: projetos-infra.md
         - Portfólio de Criação: portfolio-criacao.md
         - Sobre: sobre.md
-        - Documentos Pessoais: documentos-pessoais.md
+        #- Documentos Pessoais: documentos-pessoais.md
         #- Ícones e Utilitários: icones.md 
               
 # Configuration
