@@ -5,7 +5,7 @@
 === "Dados / Endereço / Contato :material-card-account-phone-outline:"
 
     !!! info " **Dados / Endereço / Contato**"
-        * Brasileiro, divorciado, 41 anos, habilitado (AB)
+        * Brasileiro, divorciado, 42 anos, habilitado (AB)
         * **Endereço:** Rua Icatu, nº. 2030 - Bloco 2, apartamento 207   
         * **Bairro:** Morada do Sol 
         * **Cidade:** São José dos Campos - SP 
@@ -17,9 +17,11 @@
         * :material-email: [alessandroreis5s@icloud.com](mailto:alessandroreis5s@icloud.com)
         * :simple-github: [arrs82](https://github.com/arrs82){:target="_blank"}
         * :fontawesome-brands-youtube: [@aleha.santos](https://www.youtube.com/@aleha.santos){:target="_blank"} 
-        * :material-instagram: [@aleha.santos](https://www.instagram.com/aleha.santos/){:target="_blank"} 
+        * :material-instagram: [@aleha.santos](https://www.instagram.com/aleha.santos/){:target="_blank"}
+        * :material-facebook: [aleha.santos82](https://web.facebook.com/aleha.santos82){:target="_blank"} 
         * :material-linkedin: [alessandroroberto82](https://www.linkedin.com/in/alessandroroberto82/){:target="_blank"}
-        * :material-microsoft-internet-explorer: [https://www.alessandroroberto.com.br](https://www.alessandroroberto.com.br){:target="_blank"}
+        * :fontawesome-brands-x-twitter: [alessandro_sjc](https://x.com/alessandro_sjc){:target="_blank"}
+        * :material-microsoft-internet-explorer: [www.alessandroroberto.com.br](https://www.alessandroroberto.com.br){:target="_blank"}
 
 === "PCD (Laudo PCD e informações) :fontawesome-solid-wheelchair:"
 
@@ -45,6 +47,6 @@
 
 === "Pretensão Salarial :fontawesome-solid-sack-dollar:"
 
-    !!! info "**Pretensão Salarial**"
-        * **R$3.300,00** (negociável) **+ Benefícios**;
+    !!! info "**Pretensão Salarial (Modalidade CLT)**"
+        * Entre **R$ 2.500,00** a **R$ 3.300,00** (negociável) **+ Pacote de Benefícios**;
         * **Disponibilidade imediata:** Diurno - Noturno - Híbrido - Home Office.

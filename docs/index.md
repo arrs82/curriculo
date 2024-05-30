@@ -3,9 +3,9 @@
 
 === "Apresentação Pessoal :material-human-male-board:"
     
-    <p style="text-align: justify;">Olá, me chamo Alessandro Roberto, cristão, tenho 41 anos de idade, nascido, criado e residente em São José dos Campos/SP, morador da zona sul da cidade, filho único de uma mãe maravilhosa, divorciado, pai de duas filhas e avô de uma menina linda e abençoada.</p> 
-    <p style="text-align: justify;">Minha primogênita chama-se Daiane e tem 24 anos, com formação em Direito e atuante na área, além de já ser casada com um excelente esposo e marido, os quais já me proporcionaram ser avô de uma neta linda chamada Jade e que já tem quase 1 aninho de idade.</p> 
-    <p style="text-align: justify;">Minha segunda filha que é a minha caçula de 5 aninhos, chama-se Lolla e ela tem 4 patinhas, uma buldoguinha francesa dócil, meiga e linda de cinco anos de idade que todos os dias me traz muitas alegrias com a sua compania.</p>
+    <p style="text-align: justify;">Olá, me chamo Alessandro Roberto, cristão, tenho 42 anos de idade, nascido, criado e residente em São José dos Campos/SP, morador da zona sul da cidade, filho único de uma mãe maravilhosa, divorciado, pai de duas filhas e avô de uma menina linda e abençoada.</p> 
+    <p style="text-align: justify;">Minha primogênita chama-se Daiane e tem 25 anos, com formação em Direito e atuante na área, além de já ser casada com um excelente esposo, os quais já me proporcionaram ser avô de uma neta linda chamada Jade e que já tem 1 e meio de idade.</p> 
+    <p style="text-align: justify;">Minha segunda filha que é a minha caçula de 6 aninhos, chama-se Lolla e ela tem 4 patinhas, uma buldoguinha francesa dócil, meiga e linda que todos os dias me traz muitas alegrias com a sua companhia.</p>
 
     ??? tip ":fontawesome-solid-people-roof: A minha inspiração :fontawesome-solid-photo-film:"
         <center>**FAMÍLIA**</center>

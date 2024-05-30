@@ -88,12 +88,14 @@ extra:
         social:
                 - icon: fontawesome/brands/instagram
                   link: https://www.instagram.com/aleha.santos/
+                - icon: fontawesome/brands/facebook
+                  link: https://facebook.com/aleha.santos82
                 - icon: fontawesome/brands/youtube
                   link: https://www.youtube.com/@aleha.santos
                 - icon: fontawesome/brands/linkedin
                   link: https://www.linkedin.com/in/alessandroroberto82
-                #- icon: fontawesome/brands/facebook
-                #  link: https://www.facebook.com/aleha.santos82
+                - icon: fontawesome/brands/x-twitter
+                  link: https://x.com/alessandro_sjc
                 #- icon: fontawesome/brands/github
                 #  link: https://github.com/arrs82
                 - icon: fontawesome/brands/whatsapp

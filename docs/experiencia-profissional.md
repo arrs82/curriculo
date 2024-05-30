@@ -34,6 +34,11 @@
 * Trabalho em equipe;
 * Resiliência.
 
+!!! info " **Perfil Profissiográfico Previdenciário (PPP) - Tecnologia da Informação/Suporte Técnico**"
+    * **Profissioagrafia / Descrição das Atividades Laborais**
+        
+        [:fontawesome-regular-file-pdf: Download](documentos/pdf/PPP-ASSISTENTE-DE-SUPORTE-TECNICO.pdf){:download="PPP-ASSISTENTE-DE-SUPORTE-TECNICO.pdf"} para análise e apreciação.
+
 ---
 ## **Proz Educação**
 
@@ -287,7 +292,7 @@
 
 [https://ferrusmol.com.br](https://ferrusmol.com.br/){:target="_blank"}
 
-> :material-badge-account-horizontal-outline: Entrada: 10/2000 :fontawesome-regular-handshake: Saída: 05/2002
+> :material-badge-account-horizontal-outline: Entrada: 10/2000 :fontawesome-regular-handshake: Saída: 05/2001
 
 **Cargo:** Operador de Torno Automático
 
@@ -356,14 +361,20 @@
 
 **Modalidade:** CLT
 
-**Atribuições:** <p style="text-align: justify;">Atuação com o cargo de **Auxiliar Administrativo** com funções desenvolvidas de: Aprendiz SENAI, assistente de recursos humanos, assistente de departamento pessoal, auxiliar administrativo e estagiário em indústrias da região.</p>
+**Atribuições:** <p style="text-align: justify;">Atuação com o cargo de **Auxiliar Administrativo**, com em experiência empírica em: Tratação de documentações diversos; Preenchimento de documentações eletrônicas em ambiente *MS Office*; Preparação e análise de contratos diversos, bem como relatórios, memorandos internos e planilhas eletrônicas em ambiente *MS Office*; Análise e acompanhamento de processos administrativos via sistema interno; Atendimento de clientes e/ou fornecedores; Execução de rotinas diárias e apoio em Recursos Humanos e Departamento Pessoal via sistemas interno e externo; Prestação de apoio em demandas logísticas.</p>
 
 **Competências técnicas/comportamentais desenvolvidas:**
 
-* Aprendiz administrativo;
+* Rotinas administrativas correlatas;
+* Atendimentos a clientes internos e externos;
 * Relacionamento interpessoal;
 * Comunicação verbal e escrita;
 * Equilíbrio emocional;
 * Trabalho em equipe;
 * Resiliência; 
 * Criatividade.
+
+!!! info " **Perfil Profissiográfico Previdenciário (PPP) - Administrativo**"
+    * **Profissiografia / Descrição das Atividades Laborais**
+        
+        [:fontawesome-regular-file-pdf: Download](documentos/pdf/PPP-AUXILIAR-ADMINISTRATIVO.pdf){:download="PPP-AUXILIAR-ADMINISTRATIVO.pdf"} para análise e apreciação.
