@@ -2,9 +2,7 @@
 ![Alessandro](assets/images/alessandro/alessandro-mic.png#leftshadow){width="25%" .left-image}
 
 ---
-
 ## **Grupo Card**
-
 ![Card](assets/images/experiencia-logo-card.png){width="30%"}
 
 [https://www.grupocard.com.br](https://www.grupocard.com.br/){:target="_blank"}
@@ -38,10 +36,8 @@
     * **Profissioagrafia / Descrição das Atividades Laborais**
         
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/PPP-ASSISTENTE-DE-SUPORTE-TECNICO.pdf){:download="PPP-ASSISTENTE-DE-SUPORTE-TECNICO.pdf"} para análise e apreciação.
-
 ---
 ## **Proz Educação**
-
 ![Proz](assets/images/experiencia-logo-proz.png){width="30%"}
 
 [https://prozeducacao.com.br](https://prozeducacao.com.br/){:target="_blank"}
@@ -69,15 +65,17 @@
 * Criatividade;
 * Liderança institucional e pedagógica.
 
+!!! info " **Contrato de Prestação de Serviços (RPA) - Docência em Administração e Logística**"
+    * **Contrato RPA (Autônomo/Docência) - E.E. PEI Profº "Dorothoveo Gaspar Vianna" (Jacareí - SP)**
+    
+        [:fontawesome-regular-file-pdf: Download](documentos/pdf/CONTRATO-RPA-AUTONOMO-DOCENCIA-PROZ.pdf){:download="CONTRATO-RPA-AUTONOMO-DOCENCIA-PROZ.pdf"} para análise e apreciação.
 ---
-
 ## **Johnson & Johnson**
-
 ![Johnson](assets/images/experiencia-logo-johnson.png){width="33%"}
 
 [https://www.jnjbrasil.com.br](https://www.jnjbrasil.com.br/){:target="_blank"}
 
-> :material-badge-account-horizontal-outline: Entrada: 03/2015 :fontawesome-regular-handshake: Saída: 07/2022
+> :material-badge-account-horizontal-outline: Entrada: 03/2015 :fontawesome-regular-handshake: Saída: 06/2022
 
 **Cargo:** Operador de Produção Especializado
 
@@ -98,10 +96,12 @@
 * Trabalho em equipe;
 * Resiliência.
 
+!!! info " **Perfil Profissiográfico Previdenciário (PPP) - Embalagem/Suturas/Medical**"
+    * **Profissiografia / Descrição das Atividades Laborais**
+        
+        [:fontawesome-regular-file-pdf: Download](documentos/pdf/PPP-J&J.pdf){:download="PPP-J&J.pdf"} para análise e apreciação.
 ---
-
 ## **PMSJC**
-
 ![PMSJC](assets/images/experiencia-logo-pmsjc.png){width="23%"}
 
 [https://www.sjc.sp.gov.br](https://www.sjc.sp.gov.br/){:target="_blank"}
@@ -132,10 +132,12 @@
 * Trabalho em equipe;
 * Resiliência.
 
+!!! info " **Declaração de Estágio Supervisionado - Tecnologia da Informação/PMSJC**"
+    * **Declaração de Estágio Supervisionado - GP-Unidade de Gerenciamento do Programa-BID**
+    
+        [:fontawesome-regular-file-pdf: Download](documentos/pdf/ESTAGIARIO-TI-PMSJC.pdf){:download="ESTAGIARIO-TI-PMSJC.pdf"} para análise e apreciação.
 ---
-
 ## **PMSJC**
-
 ![PMSJC](assets/images/experiencia-logo-pmsjc.png){width="23%"}
 
 [https://www.sjc.sp.gov.br](https://www.sjc.sp.gov.br/){:target="_blank"}
@@ -160,10 +162,13 @@
 * Equilíbrio emocional;
 * Trabalho em equipe;
 * Resiliência.
+
+!!! info " **Declaração de Estágio Supervisionado - Administrativo/PMSJC**"
+    * **Declaração de Estágio Supervisionado - SGAF-DSI-DPA-Supervisão de Protocolo**
+    
+        [:fontawesome-regular-file-pdf: Download](documentos/pdf/ESTAGIARIO-ADMINISTRATIVO-PMSJC.pdf){:download="ESTAGIARIO-ADMINISTRATIVO-PMSJC.pdf"} para análise e apreciação.
 ---
-
 ## **General Motors**
-
 ![GM](assets/images/experiencia-logo-gm.png){width="27%"}
 
 [https://www.gm.com](https://www.gm.com/){:target="_blank"}
@@ -216,10 +221,16 @@
 * Criatividade;
 * Liderança e coordenação.
 
+!!! info " **Perfil Profissiográfico Previdenciário (PPP) - Usinagem/Injetoras/Ferramentaria/Utilidades/ETA-ETE**"
+    * **Profissiografia / Descrição das Atividades Laborais**
+        
+        [:fontawesome-regular-file-pdf: Download](documentos/pdf/PPP-GM.pdf){:download="PPP-GM.pdf"} para análise e apreciação.
+    ---
+    * **Declaração S.A. Liderança Injetoras - GM-SJC / Descrição das Atividades Laborais**
+        
+        [:fontawesome-regular-file-pdf: Download](documentos/pdf/EXPERIENCIA-LIDERANCA-INJETORAS-GM.pdf){:download="EXPERIENCIA-LIDERANCA-INJETORAS-GM.pdf"} para análise e apreciação.
 ---
-
 ## **Magnaghi Friuli Aerospace**
-
 ![Friuli](assets/images/experiencia-logo-friuli.png){width="35%"}
 
 [https://www.magroup.net](https://www.magroup.net/){:target="_blank"}
@@ -254,10 +265,12 @@
 * Criatividade;
 * Liderança e coordenação.
 
+!!! info " **Perfil Profissiográfico Previdenciário (PPP) - Ajustagem Mecânica**"
+    * **Profissiografia / Descrição das Atividades Laborais**
+        
+        [:fontawesome-regular-file-pdf: Download](documentos/pdf/PPP-AJUSTADOR-MECANICO.pdf){:download="PPP-AJUSTADOR-MECANICO.pdf"} para análise e apreciação.
 ---
-
 ## **Precitech Inova**
-
 ![Precitech](assets/images/experiencia-logo-precitech.png){width="33%"}
 
 [https://pffinova.com.br](https://pffinova.com.br/){:target="_blank"}
@@ -284,10 +297,12 @@
 * Resiliência;
 * Criatividade.
 
+!!! info " **Perfil Profissiográfico Previdenciário (PPP) - Ferramentaria e Usinagem**"
+    * **Profissiografia / Descrição das Atividades Laborais**
+        
+        [:fontawesome-regular-file-pdf: Download](documentos/pdf/PPP-AJUSTADOR-FERRAMENTEIRO.pdf){:download="PPP-AJUSTADOR-FERRAMENTEIRO.pdf"} para análise e apreciação.
 ---
-
 ## **Ferrusmol**
-
 ![Ferrusmol](assets/images/experiencia-logo-ferrusmol.png){width="33%"}
 
 [https://ferrusmol.com.br](https://ferrusmol.com.br/){:target="_blank"}
@@ -314,10 +329,12 @@
 * Resiliência;
 * Criatividade.
 
+!!! info " **Perfil Profissiográfico Previdenciário (PPP) - Usinagem**"
+    * **Profissiografia / Descrição das Atividades Laborais**
+        
+        [:fontawesome-regular-file-pdf: Download](documentos/pdf/PPP-TORNEIRO-MECANICO.pdf){:download="PPP-TORNEIRO-MECANICO.pdf"} para análise e apreciação.
 ---
-
 ## **ITA/CTA**
-
 ![ITA-CTA](assets/images/experiencia-logo-ita.png){width="33%"}
 
 [http://www.ita.br](http://www.ita.br/){:target="_blank"}
@@ -345,10 +362,12 @@
 * Resiliência;
 * Criatividade.
 
+!!! info " **Atestado de Estágio Supervisionado - Divisão de Engenharia Mecânica-Aeronáutica**"
+    * **Atestado/Declaração de Estágio Supervisionado - Pesquisador - ITA/CTA**
+    
+        [:fontawesome-regular-file-pdf: Download](documentos/pdf/ESTAGIARIO-ITA-CTA.pdf){:download="ESTAGIARIO-ITA-CTA.pdf"} para análise e apreciação.
 ---
-
 ## **Fundhas**
-
 ![Fundhas](assets/images/experiencia-logo-fundhas.png){width="33%"}
 
 [https://fundhas.org.br](https://fundhas.org.br/){:target="_blank"}
@@ -361,7 +380,7 @@
 
 **Modalidade:** CLT
 
-**Atribuições:** <p style="text-align: justify;">Atuação com o cargo de **Auxiliar Administrativo**, com em experiência empírica em: Tratação de documentações diversos; Preenchimento de documentações eletrônicas em ambiente *MS Office*; Preparação e análise de contratos diversos, bem como relatórios, memorandos internos e planilhas eletrônicas em ambiente *MS Office*; Análise e acompanhamento de processos administrativos via sistema interno; Atendimento de clientes e/ou fornecedores; Execução de rotinas diárias e apoio em Recursos Humanos e Departamento Pessoal via sistemas interno e externo; Prestação de apoio em demandas logísticas.</p>
+**Atribuições:** <p style="text-align: justify;">Atuação com o cargo de **Auxiliar Administrativo**, com em experiência empírica em: Tratação de documentações diversos; Preenchimento de documentações eletrônicas em ambiente MS Office; Preparação e análise de contratos diversos, bem como relatórios, memorandos internos e planilhas eletrônicas em ambiente MS Office; Análise e acompanhamento de processos administrativos via sistema interno; Atendimento de clientes e/ou fornecedores; Execução de rotinas diárias e apoio em Recursos Humanos com ênfase em recrutamento, seleção, treinamento e desenvolvimento; Execução de rotinas diárias e apoio em Departamento Pessoal com a utilização de sistemas interno e externo, com ênfase em admissão, demissão, férias e benefícios legais amparados à legislação trabalhista e convenção coletiva de categoria vigente à época; Prestação de atendimento e apoio em demandas logísticas.</p>
 
 **Competências técnicas/comportamentais desenvolvidas:**
 
@@ -374,7 +393,7 @@
 * Resiliência; 
 * Criatividade.
 
-!!! info " **Perfil Profissiográfico Previdenciário (PPP) - Administrativo**"
+!!! info " **Perfil Profissiográfico Previdenciário (PPP) - Administrativo (Recursos Humanos/Departamento Pessoal)**"
     * **Profissiografia / Descrição das Atividades Laborais**
         
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/PPP-AUXILIAR-ADMINISTRATIVO.pdf){:download="PPP-AUXILIAR-ADMINISTRATIVO.pdf"} para análise e apreciação.
