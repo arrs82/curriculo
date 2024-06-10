@@ -39,3 +39,67 @@
     <p style="text-align: justify;">Em minha vida pessoal almejo sim casar-me novamente com uma excelente mulher, deter muita saúde e disposição física, bem como deter condições financeiras de adquirir uma chácara em um local bacana para festas e confraternizações familiares e curtir muito a minha família.</p>
     
     <p style="text-align: justify;">Profissionalmente me projeto para daqui mais ou menos uns 6 anos, estar formado com a minha segunda graduação em Redes de Computadores juntamente com a minha pós-graduação em Segurança da Informação, estudar e aperfeiçoar-se em meu inglês e se Deus permitir, quem sabe estar atuando na área de TI em uma excelente empresa e continuar a aprender coisas novas e a estudar sempre, pois tudo que faço em minha vida, faço com muita paixão e afinco.</p>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ícone do WhatsApp</title>
+    <style>
+        /* Estilos para o ícone do WhatsApp */
+        .whatsapp-icon {
+            position: fixed;
+            bottom: -15px; /* Posiciona para baixo */
+            right: -5px;
+            /* Largura e altura da imagem */
+            width: 80px; /* Ajuste conforme necessário */
+            height: auto; /* Ajuste conforme necessário */
+        }
+
+        /* Animação de tremor para o ícone */
+        @keyframes shake {
+            0% { transform: translateY(0); }
+            25% { transform: translateY(-3px); }
+            50% { transform: translateY(0); }
+            75% { transform: translateY(3px); }
+            100% { transform: translateY(0); }
+        }
+
+        /* Aplicando a animação ao ícone */
+        .shake {
+            animation: shake 0.2s infinite; /* Reduzido para 0.2s para tornar o tremor mais rápido */
+        }
+    </style>
+</head>
+<body>
+    <!-- Ícone do WhatsApp como imagem PNG -->
+    <a href="https://api.whatsapp.com/send?phone=12988678750" target="_blank" class="whatsapp-icon">
+        <img src="../assets/images/whatsapp-icone.png" alt="Ícone do WhatsApp" id="whatsapp-image">
+    </a>
+
+    <script>
+        var image = document.getElementById('whatsapp-image');
+        var isShaking = false;
+
+        setInterval(function() {
+            if (!isShaking) {
+                image.classList.add('shake');
+                isShaking = true;
+                setTimeout(function() {
+                    image.classList.remove('shake');
+                    isShaking = false;
+                }, 2000); // Tremer por 2 segundos
+            }
+        }, 7000); // 7 segundos (2 segundos de tremor + 5 segundos de pausa)
+    </script>
+</body>
+</html>
+
+
+
+
+
+
+
+
