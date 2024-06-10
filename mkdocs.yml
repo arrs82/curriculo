@@ -16,7 +16,7 @@ copyright: © 2024 Curriculo Profissional - Todos os direitos reservados e que D
 
 # Page tree
 nav:
-        - Apresentação: index.md
+        - Apresentação Pessoal: index.md
         - Dados Pessoais: dados-pessoais.md
         - Objetivos Profissionais: objetivos.md
         - Formação Acadêmica: formacao-academica.md

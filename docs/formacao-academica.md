@@ -179,7 +179,7 @@
         **TCC:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/TCC-ARRS-TI.pdf){:download="TCC-ARRS-TI.pdf"}
                 
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/zoRBj7__u_4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/zoRBj7__u_4" title="Trabalho de Conclusão de Curso - SENAI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
            
 === "Técnico em Mecânica :fontawesome-solid-user-graduate:"
