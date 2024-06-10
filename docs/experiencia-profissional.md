@@ -1,9 +1,10 @@
 # **Alessandro Roberto dos Reis Santos**
 
-<!DOCTYPE html><html lang="pt-BR"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Exemplo de Imagem com Efeito de Órbita</title><style>.circle-mask{position:relative;width:350px;height:350px;overflow:hidden;display:flex;justify-content:center;align-items:center;margin-bottom:-80px;margin-top:-20px}.satelite{position:absolute;width:305px;height:305px;background-image:url(../assets/images/lupa.png);background-size:cover;border-radius:50%;animation:orbitSatelite 2s linear infinite;transform-origin:center center;animation-play-state:paused;top:35%;left:32%;transform:translate(-50%,-50%) rotate(90deg) translateX(50px) translateY(30%) rotate(-90deg);transition:transform 0.3s ease}.circle-mask:hover .satelite{animation-play-state:running}@keyframes orbitSatelite{0%{transform:translate(-50%,-50%) rotate(28deg) translateX(13px) translateY(9%) rotate(-34deg)}100%{transform:translate(-50%,-50%) rotate(388deg) translateX(13px) translateY(9%) rotate(-394deg)}}.circle-mask img{width:70%;height:70%;object-fit:cover;cursor:pointer}.circle-mask:hover img{transform:scale(1.1)}.apresentacao{position:absolute;width:255px;height:331px;background-image:url(../assets/images/experiencia-profissional.png);background-size:cover;top:38%;left:29%;transform:translate(-50%,-50%);transition:transform 0.5s ease;z-index:-1}.circle-mask:hover .apresentacao{transform:translate(17%,-50%)}</style></head><body><div class="circle-mask"><img src="../assets/images/curriculo.png" alt="curriculo" style="transform: translateY(-21%) translateX(-27%);"><div class="satelite"></div><div class="apresentacao"></div></div></body></html>
+<!DOCTYPE html><html lang="pt-BR"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Exemplo de Imagem com Efeito de Órbita</title><style>.circle-mask{position:relative;width:350px;height:350px;overflow:hidden;display:flex;justify-content:center;align-items:center;margin-bottom:-110px;margin-top:-20px}.satelite{position:absolute;width:305px;height:305px;background-image:url(../assets/images/lupa.png);background-size:cover;border-radius:50%;animation:orbitSatelite 2s linear infinite;transform-origin:center center;animation-play-state:paused;top:35%;left:32%;transform:translate(-50%,-50%) rotate(90deg) translateX(50px) translateY(30%) rotate(-90deg);transition:transform 0.3s ease}.circle-mask:hover .satelite{animation-play-state:running}@keyframes orbitSatelite{0%{transform:translate(-50%,-50%) rotate(28deg) translateX(13px) translateY(9%) rotate(-34deg)}100%{transform:translate(-50%,-50%) rotate(388deg) translateX(13px) translateY(9%) rotate(-394deg)}}.circle-mask img{width:70%;height:70%;object-fit:cover;cursor:pointer}.circle-mask:hover img{transform:scale(1.1)}.apresentacao{position:absolute;width:255px;height:331px;background-image:url(../assets/images/experiencia-profissional.png);background-size:cover;top:38%;left:29%;transform:translate(-50%,-50%);transition:transform 0.5s ease;z-index:-1}.circle-mask:hover .apresentacao{transform:translate(17%,-50%)}</style></head><body><div class="circle-mask"><img src="../assets/images/curriculo.png" alt="curriculo" style="transform: translateY(-21%) translateX(-27%);"><div class="satelite"></div><div class="apresentacao"></div></div></body></html>
 
+## **Experiência Profissional**
 ---
-## **Grupo Card**
+### **Grupo Card**
 ![Card](assets/images/experiencia-logo-card.png){width="30%"}
 
 [https://www.grupocard.com.br](https://www.grupocard.com.br/){:target="_blank"}
@@ -38,7 +39,7 @@
         
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/PPP-ASSISTENTE-DE-SUPORTE-TECNICO.pdf){:download="PPP-ASSISTENTE-DE-SUPORTE-TECNICO.pdf"} para análise e apreciação.
 ---
-## **Proz Educação**
+### **Proz Educação**
 ![Proz](assets/images/experiencia-logo-proz.png){width="30%"}
 
 [https://prozeducacao.com.br](https://prozeducacao.com.br/){:target="_blank"}
@@ -71,7 +72,7 @@
     
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/CONTRATO-RPA-AUTONOMO-DOCENCIA-PROZ.pdf){:download="CONTRATO-RPA-AUTONOMO-DOCENCIA-PROZ.pdf"} para análise e apreciação.
 ---
-## **Johnson & Johnson**
+### **Johnson & Johnson**
 ![Johnson](assets/images/experiencia-logo-johnson.png){width="33%"}
 
 [https://www.jnjbrasil.com.br](https://www.jnjbrasil.com.br/){:target="_blank"}
@@ -102,7 +103,7 @@
         
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/PPP-J&J.pdf){:download="PPP-J&J.pdf"} para análise e apreciação.
 ---
-## **PMSJC**
+### **PMSJC**
 ![PMSJC](assets/images/experiencia-logo-pmsjc.png){width="23%"}
 
 [https://www.sjc.sp.gov.br](https://www.sjc.sp.gov.br/){:target="_blank"}
@@ -138,7 +139,7 @@
     
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/ESTAGIARIO-TI-PMSJC.pdf){:download="ESTAGIARIO-TI-PMSJC.pdf"} para análise e apreciação.
 ---
-## **PMSJC**
+### **PMSJC**
 ![PMSJC](assets/images/experiencia-logo-pmsjc.png){width="23%"}
 
 [https://www.sjc.sp.gov.br](https://www.sjc.sp.gov.br/){:target="_blank"}
@@ -169,7 +170,7 @@
     
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/ESTAGIARIO-ADMINISTRATIVO-PMSJC.pdf){:download="ESTAGIARIO-ADMINISTRATIVO-PMSJC.pdf"} para análise e apreciação.
 ---
-## **General Motors**
+### **General Motors**
 ![GM](assets/images/experiencia-logo-gm.png){width="27%"}
 
 [https://www.gm.com](https://www.gm.com/){:target="_blank"}
@@ -231,7 +232,7 @@
         
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/EXPERIENCIA-LIDERANCA-INJETORAS-GM.pdf){:download="EXPERIENCIA-LIDERANCA-INJETORAS-GM.pdf"} para análise e apreciação.
 ---
-## **Magnaghi Friuli Aerospace**
+### **Magnaghi Friuli Aerospace**
 ![Friuli](assets/images/experiencia-logo-friuli.png){width="35%"}
 
 [https://www.magroup.net](https://www.magroup.net/){:target="_blank"}
@@ -271,7 +272,7 @@
         
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/PPP-AJUSTADOR-MECANICO.pdf){:download="PPP-AJUSTADOR-MECANICO.pdf"} para análise e apreciação.
 ---
-## **Precitech Inova**
+### **Precitech Inova**
 ![Precitech](assets/images/experiencia-logo-precitech.png){width="33%"}
 
 [https://pffinova.com.br](https://pffinova.com.br/){:target="_blank"}
@@ -303,7 +304,7 @@
         
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/PPP-AJUSTADOR-FERRAMENTEIRO.pdf){:download="PPP-AJUSTADOR-FERRAMENTEIRO.pdf"} para análise e apreciação.
 ---
-## **Ferrusmol**
+### **Ferrusmol**
 ![Ferrusmol](assets/images/experiencia-logo-ferrusmol.png){width="33%"}
 
 [https://ferrusmol.com.br](https://ferrusmol.com.br/){:target="_blank"}
@@ -335,7 +336,7 @@
         
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/PPP-TORNEIRO-MECANICO.pdf){:download="PPP-TORNEIRO-MECANICO.pdf"} para análise e apreciação.
 ---
-## **ITA/CTA**
+### **ITA/CTA**
 ![ITA-CTA](assets/images/experiencia-logo-ita.png){width="33%"}
 
 [http://www.ita.br](http://www.ita.br/){:target="_blank"}
@@ -368,7 +369,7 @@
     
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/ESTAGIARIO-ITA-CTA.pdf){:download="ESTAGIARIO-ITA-CTA.pdf"} para análise e apreciação.
 ---
-## **Fundhas**
+### **Fundhas**
 ![Fundhas](assets/images/experiencia-logo-fundhas.png){width="33%"}
 
 [https://fundhas.org.br](https://fundhas.org.br/){:target="_blank"}
