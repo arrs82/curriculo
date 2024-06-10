@@ -177,13 +177,11 @@
 
     !!! note tip "Trabalho de Conclusão de Curso - Escola SENAI "Santos Dumont""
         **TCC:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/TCC-ARRS-TI.pdf){:download="TCC-ARRS-TI.pdf"}
-        
-        ---
-        **TCC:** [:simple-youtube: YouTube](https://youtu.be/Lh4tBYPhngE?list=PLD1Y6l4XaYY3Aj6yvVVlRGzEYZUEO981I){:target="_blank"}
-        <div style="text-align: center;">
-        <iframe width="640" height="360" src="https://www.youtube.com/embed/Lh4tBYPhngE?list=PLD1Y6l4XaYY3Aj6yvVVlRGzEYZUEO981I" title="TRABALHO DE CONCLUSÃO DE CURSO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        </div>
-    
+                
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/zoRBj7__u_4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+           
 === "Técnico em Mecânica :fontawesome-solid-user-graduate:"
 
     ## **Mecânica**

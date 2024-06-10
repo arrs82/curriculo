@@ -9,68 +9,54 @@
 ---
 
 ### **Projetos Corporativos**
-
-!!! note tip ":material-video-vintage: Projeto Corporativo"
-    <div style="text-align: center;">
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/d9q-HkLwt44?list=PLD1Y6l4XaYY3Aj6yvVVlRGzEYZUEO981I" title="PROJETO - TREINAMENTO - WIREFLEX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    ---
-    </div>
+!!! note tip ":material-video-vintage: Treinamento Wireflex"
     **Observações:** Projeto gravado com equipamento Canon EOS 80D, fazendo a utilização de roteiros, de chroma-key e do pacote Adobe para a edição áudio/visual juntamente com a inserção de efeitos e cenários diversos.
-
-!!! note tip ":material-video-vintage: Projeto Corporativo"
-    <div style="text-align: center;">
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/LAT4mzGdrFk?list=PLD1Y6l4XaYY3Aj6yvVVlRGzEYZUEO981I" title="APRESENTAÇÃO PIPE EMPREENDEDOR - EMPRESA TECCER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    ---
-    </div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/d9q-HkLwt44" title="Treinamento Wireflex" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+---
+!!! note tip ":material-video-vintage: Apresentação PIPE Empreendedor: Empresa TECCER"
     **Observações:** Para a realização do projeto foram utilizados roteiros e o pacote Adobe para a edição áudio/visual juntamente com a inserção de efeitos.
-
-!!! note tip ":material-video-vintage: Projeto Corporativo"
-    <div style="text-align: center;">
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/LI4QvzJth60?list=PLD1Y6l4XaYY3Aj6yvVVlRGzEYZUEO981I" title="24º Aniversário da Comunidade Evangélica Universal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    ---
-    </div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/LAT4mzGdrFk" title="Apresentação PIPE Empreendedor: Empresa TECCER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+---
+!!! note tip ":material-video-vintage: 24º Aniversário da Comunidade Evangélica Universal"
     **Observações:** Para a realização do projeto foram utilizados roteiros e o pacote Adobe para a edição áudio/visual juntamente com a inserção de efeitos.
-
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/LI4QvzJth60" title="24º Aniversário da Comunidade Evangélica Universal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 ---
 
 ### **Projetos Escolares**
-
-!!! note tip ":material-video-vintage: Projeto Escolar"
-    <div style="text-align: center;">
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/Lh4tBYPhngE?list=PLD1Y6l4XaYY3Aj6yvVVlRGzEYZUEO981I" title="TRABALHO DE CONCLUSÃO DE CURSO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    ---
-    </div>
+!!! note tip ":material-video-vintage: Trabalho de Conclusão de Curso - SENAI"
     **Observações:** Projeto gravado com equipamento Canon EOS 80D, fazendo a utilização de roteiros, de chroma-key e do pacote Adobe para a edição áudio/visual juntamente com a inserção de efeitos e cenários diversos.
-
-!!! note tip ":material-video-vintage: Projeto Escolar"
-    <div style="text-align: center;">
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/ezZMislsSBY?list=PLD1Y6l4XaYY3Aj6yvVVlRGzEYZUEO981I" title="PROJETO DE PLANEJAMENTO DE INFRAESTRUTURA DE REDES" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    ---
-    </div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/zoRBj7__u_4" title="Trabalho de Conclusão de Curso - SENAI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+---
+!!! note tip ":material-video-vintage: Projeto de Planejamento de Infraestrutura de Redes"
     **Observações:** Para a realização do projeto foram utilizados roteiros, o pacote Adobe para a edição áudio/visual e o software Sketchup juntamente com a inserção de efeitos.
-
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/ezZMislsSBY" title="Projeto de Planejamento de Infraestrutura de Redes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 ---
 
 ### **Projetos Festivos**
-
-!!! note tip ":material-video-vintage: Projeto Festivo"
-    <div style="text-align: center;">
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/aKDiZ8OO3wo?list=PLD1Y6l4XaYY2btoQv-WYKCyFU8TScgUjy" title="Aniversário Enrico - Projeto 2301" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    ---
-    </div>
+!!! note tip ":material-video-vintage: Aniversário Enrico"
     **Observações:** Para a realização do projeto foram utilizados roteiros e o pacote Adobe para a edição áudio/visual juntamente com a inserção de efeitos.
-
-!!! note tip ":material-video-vintage: Projeto Festivo"
-    <div style="text-align: center;">
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/K0F3COuN7mw?list=PLD1Y6l4XaYY2btoQv-WYKCyFU8TScgUjy" title="Aniversário - Lucas &amp; Letícia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    ---
-    </div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/aKDiZ8OO3wo" title="Aniversário Enrico" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+---   
+!!! note tip ":material-video-vintage: Aniversário Lucas & Letícia"
     **Observações:** Para a realização do projeto foram utilizados roteiros e o pacote Adobe para a edição áudio/visual juntamente com a inserção de efeitos.
-
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/K0F3COuN7mw" title="Aniversário Lucas & Letícia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 ---
 
 ### **Playlists Completas**
-
 !!! note tip ":material-video-vintage: Playlists Completas"
     * :fontawesome-brands-youtube: **Playlist 1** :material-arrow-right-box: [Clique aqui]( https://www.youtube.com/playlist?list=PLD1Y6l4XaYY3Aj6yvVVlRGzEYZUEO981I){:target="_blank"}
     * :fontawesome-brands-youtube: **Playlist 2** :material-arrow-right-box: [Clique aqui](https://www.youtube.com/playlist?list=PLD1Y6l4XaYY2btoQv-WYKCyFU8TScgUjy){:target="_blank"}
