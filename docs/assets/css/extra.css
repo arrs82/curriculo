@@ -75,11 +75,11 @@ h2 {
   z-index: 1; /* Ajuste o z-index conforme necessário */
 }
 
-/* CSS específico para alinhar todo conteúdo à esquerda */
 /* Estilos para o contêiner da imagem e texto */
 .image-with-text {
   display: flex; /* Usando flexbox para alinhar itens */
   align-items: center; /* Centralizar itens verticalmente */
+  margin-bottom: 20px; /* Espaçamento inferior */
 }
 
 /* Estilos para a imagem */
@@ -94,9 +94,23 @@ h2 {
 /* Estilos para o texto à direita da imagem */
 .text-right {
   text-align: justify; /* Texto justificado */
-  max-width: calc(100% - 220px); /* Largura máxima do texto (largura total - largura da imagem - margem) */
+  max-width: calc(100% - 240px); /* Largura máxima do texto (largura total - largura da imagem - margem) */
   word-wrap: break-word; /* Quebra de palavra para palavras longas */
 }
+
+/* Media query para dispositivos móveis com largura máxima de 768px */
+@media only screen and (max-width: 768px) {
+  .custom-image {
+      width: 100%; /* Defina a largura da imagem para ocupar toda a largura da tela em dispositivos menores */
+      max-width: none; /* Remova a largura máxima para que a imagem possa ocupar a largura total da tela */
+      margin-right: 0; /* Remova o espaçamento à direita da imagem */
+  }
+
+  .text-right {
+      max-width: 100%; /* Garanta que o texto ocupe toda a largura da tela em dispositivos menores */
+  }
+}
+
 
 
 
