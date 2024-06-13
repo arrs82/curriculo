@@ -76,6 +76,7 @@ h2 {
 }
 
 /* CSS específico para alinhar todo conteúdo à esquerda */
+/* Estilos para o contêiner da imagem e texto */
 .image-with-text {
   display: flex; /* Usando flexbox para alinhar itens */
   align-items: center; /* Centralizar itens verticalmente */
@@ -93,7 +94,10 @@ h2 {
 /* Estilos para o texto à direita da imagem */
 .text-right {
   text-align: justify; /* Texto justificado */
+  max-width: calc(100% - 220px); /* Largura máxima do texto (largura total - largura da imagem - margem) */
+  word-wrap: break-word; /* Quebra de palavra para palavras longas */
 }
+
 
 
 
