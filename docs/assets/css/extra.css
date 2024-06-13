@@ -83,7 +83,7 @@ h2 {
 
 /* Estilos para a imagem */
 .custom-image {
-  width: 200px; /* Largura inicial da imagem */
+  width: 300px; /* Largura inicial da imagem */
   max-width: 100%; /* Largura máxima igual à largura do contêiner pai */
   height: auto; /* Altura automática para manter proporções */
   margin-right: 20px; /* Espaçamento entre a imagem e o texto */
