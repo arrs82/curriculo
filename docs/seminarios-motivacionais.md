@@ -31,7 +31,7 @@
 
     **Certificado de seminário:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/CERTIFICADO-MOTIVANDO-TODOS-PARA-OS-NOVOS-DESAFIOS.pdf){:download="CERTIFICADO-MOTIVANDO-TODOS-PARA-OS-NOVOS-DESAFIOS.pdf"}
 
-    **Carga horária:** 2 horas e 45 minutos
+    **Carga horária:** 2 horas e 15 minutos
   
     ---
     <div class="image-with-text">
