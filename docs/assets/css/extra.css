@@ -76,9 +76,25 @@ h2 {
 }
 
 /* CSS específico para alinhar todo conteúdo à esquerda */
-body {
-  text-align: left;
+.image-with-text {
+  display: flex;
+  align-items: center;
 }
+
+.custom-image {
+  width: 250px; /* Definir a largura da imagem */
+  margin-right: 20px; /* Espaçamento entre a imagem e o texto */
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Adicionar sombra à imagem */
+}
+
+.text-right {
+  text-align: justify;
+}
+
+
+
+
+
 
 
 
