@@ -4,7 +4,7 @@
 
 ## **Introdução**
 
-<p style="text-align: justify;">Seminários motivacionais com o palestrante <a href="https://alfredorocha.com.br/" target="_blank">Alfredo Rocha</a>, excelente profissional e um ser humano maravilhoso e simples, sendo este riquíssimo conteúdo meramente para cunho didático e apenas para conhecimentos aqui em meu currículo a quem interessar, com treinamentos difundidos para empresas e profissionais diversos, que inclusive já tive o prazer de estar pessoalmente em um desses seminários e com o próprio palestrante, pois a mesma foi de grande valia para a minha vida pessoal, para o meu currículo e principalmente para a minha carreira profissional.</p>
+<p style="text-align: justify;">Seminários motivacionais com o palestrante <a href="https://alfredorocha.com.br/" target="_blank">Alfredo Rocha</a>, excelente profissional e um ser humano maravilhoso e simples, sendo este riquíssimo conteúdo meramente para cunho didático e apenas para conhecimentos aqui em meu currículo a quem interessar, com treinamentos difundidos para empresas e profissionais diversos, que inclusive já tive o prazer de estar pessoalmente em um desses seminários e com o próprio palestrante, pois o mesmo foi de grande valia para a minha vida pessoal, para o meu currículo e principalmente para a minha carreira profissional.</p>
 ---
 ## **Seminários Motivacionais**
 **Motivando Todos para a Missão**
