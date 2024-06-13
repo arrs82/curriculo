@@ -77,19 +77,25 @@ h2 {
 
 /* CSS específico para alinhar todo conteúdo à esquerda */
 .image-with-text {
-  display: flex;
-  align-items: center;
+  display: flex; /* Usando flexbox para alinhar itens */
+  align-items: center; /* Centralizar itens verticalmente */
 }
 
+/* Estilos para a imagem */
 .custom-image {
-  width: 250px; /* Definir a largura da imagem */
+  width: 200px; /* Largura inicial da imagem */
+  max-width: 100%; /* Largura máxima igual à largura do contêiner pai */
+  height: auto; /* Altura automática para manter proporções */
   margin-right: 20px; /* Espaçamento entre a imagem e o texto */
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Adicionar sombra à imagem */
 }
 
+/* Estilos para o texto à direita da imagem */
 .text-right {
-  text-align: justify;
+  text-align: justify; /* Texto justificado */
 }
+
+
 
 
 
