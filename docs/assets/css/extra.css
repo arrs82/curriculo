@@ -75,16 +75,24 @@ h2 {
   z-index: 1; /* Ajuste o z-index conforme necessário */
 }
 
+/* Estilos para o bloco note info */
+.???note.info {
+  border-left: 3px solid #007bff; /* Cor da borda */
+  background-color: #f0f0f0; /* Cor de fundo */
+  padding: 10px; /* Espaçamento interno */
+  margin-bottom: 20px; /* Espaçamento inferior */
+}
+
 /* Estilos para o contêiner da imagem e texto */
 .image-with-text {
   display: flex; /* Usando flexbox para alinhar itens */
   align-items: center; /* Centralizar itens verticalmente */
-  margin-bottom: 20px; /* Espaçamento inferior */
+  margin-top: 10px; /* Espaçamento superior */
 }
 
 /* Estilos para a imagem */
 .custom-image {
-  width: 200px; /* Largura inicial da imagem */
+  width: 300px; /* Largura inicial da imagem */
   max-width: 100%; /* Largura máxima igual à largura do contêiner pai */
   height: auto; /* Altura automática para manter proporções */
   margin-right: 20px; /* Espaçamento entre a imagem e o texto */
@@ -94,7 +102,7 @@ h2 {
 /* Estilos para o texto à direita da imagem */
 .text-right {
   text-align: justify; /* Texto justificado */
-  max-width: calc(100% - 240px); /* Largura máxima do texto (largura total - largura da imagem - margem) */
+  max-width: calc(100% - 340px); /* Largura máxima do texto (largura total - largura da imagem - margem) */
   word-wrap: break-word; /* Quebra de palavra para palavras longas */
 }
 
@@ -115,23 +123,3 @@ h2 {
       max-width: 100%; /* Garanta que o texto ocupe toda a largura do contêiner em dispositivos móveis */
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
