@@ -84,7 +84,7 @@ h2 {
 
 /* Estilos para a imagem */
 .custom-image {
-  width: 300px; /* Largura inicial da imagem */
+  width: 200px; /* Largura inicial da imagem */
   max-width: 100%; /* Largura máxima igual à largura do contêiner pai */
   height: auto; /* Altura automática para manter proporções */
   margin-right: 20px; /* Espaçamento entre a imagem e o texto */
@@ -100,16 +100,22 @@ h2 {
 
 /* Media query para dispositivos móveis com largura máxima de 768px */
 @media only screen and (max-width: 768px) {
+  .image-with-text {
+      flex-direction: column; /* Alinhar a imagem e o texto verticalmente em dispositivos móveis */
+  }
+
   .custom-image {
-      width: 100%; /* Defina a largura da imagem para ocupar toda a largura da tela em dispositivos menores */
-      max-width: none; /* Remova a largura máxima para que a imagem possa ocupar a largura total da tela */
+      width: 100%; /* Defina a largura da imagem para ocupar toda a largura do contêiner em dispositivos móveis */
+      max-width: none; /* Remova a largura máxima para que a imagem possa ocupar a largura total do contêiner */
       margin-right: 0; /* Remova o espaçamento à direita da imagem */
+      margin-bottom: 10px; /* Adicione espaçamento abaixo da imagem */
   }
 
   .text-right {
-      max-width: 100%; /* Garanta que o texto ocupe toda a largura da tela em dispositivos menores */
+      max-width: 100%; /* Garanta que o texto ocupe toda a largura do contêiner em dispositivos móveis */
   }
 }
+
 
 
 
