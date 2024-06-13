@@ -88,12 +88,13 @@ h2 {
   display: flex; /* Usando flexbox para alinhar itens */
   align-items: center; /* Centralizar itens verticalmente */
   margin-top: 10px; /* Espaçamento superior */
+  width: 100%; /* Largura total */
+  flex-wrap: nowrap; /* Não permitir que itens sejam ajustados */
 }
 
 /* Estilos para a imagem */
 .custom-image {
-  width: 300px; /* Largura inicial da imagem */
-  max-width: 100%; /* Largura máxima igual à largura do contêiner pai */
+  width: 335px; /* Largura inicial da imagem */
   height: auto; /* Altura automática para manter proporções */
   margin-right: 20px; /* Espaçamento entre a imagem e o texto */
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Adicionar sombra à imagem */
@@ -102,24 +103,33 @@ h2 {
 /* Estilos para o texto à direita da imagem */
 .text-right {
   text-align: justify; /* Texto justificado */
-  max-width: calc(100% - 340px); /* Largura máxima do texto (largura total - largura da imagem - margem) */
   word-wrap: break-word; /* Quebra de palavra para palavras longas */
+  flex-grow: 1; /* Ocupar o espaço restante no contêiner */
+  width: calc(100% - 320px); /* Ajustar a largura do texto */
 }
 
 /* Media query para dispositivos móveis com largura máxima de 768px */
 @media only screen and (max-width: 768px) {
   .image-with-text {
-      flex-direction: column; /* Alinhar a imagem e o texto verticalmente em dispositivos móveis */
+    display: grid; /* Usar grid layout para itens */
+    grid-template-columns: 1fr 1fr; /* Duas colunas iguais */
+    gap: 10px; /* Espaçamento entre colunas */
   }
 
   .custom-image {
-      width: 100%; /* Defina a largura da imagem para ocupar toda a largura do contêiner em dispositivos móveis */
-      max-width: none; /* Remova a largura máxima para que a imagem possa ocupar a largura total do contêiner */
-      margin-right: 0; /* Remova o espaçamento à direita da imagem */
-      margin-bottom: 10px; /* Adicione espaçamento abaixo da imagem */
+    width: 100%; /* Ajustar a largura da imagem para 100% da coluna */
+    margin-right: 0; /* Remover espaçamento à direita da imagem */
   }
 
   .text-right {
-      max-width: 100%; /* Garanta que o texto ocupe toda a largura do contêiner em dispositivos móveis */
+    width: 100%; /* Ajustar a largura do texto para 100% da coluna */
+    text-align: justify; /* Garanta que o texto esteja justificado */
+  }
+}
+
+/* Media query para o modo escuro */
+@media (prefers-color-scheme: dark) {
+  .custom-image {
+    box-shadow: none; /* Remover a sombra da imagem no modo escuro */
   }
 }

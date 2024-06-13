@@ -22,7 +22,7 @@
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/iZ755NZ3VLc" title="MOTIVANDO TODOS PARA A QUALIDADE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ---
-??? note info ":octicons-mortar-board-16: Certificado ONDEC - Motivando Todos para os Novos Desafios"
+??? note Success ":octicons-mortar-board-16: Certificado ONDEC - Motivando Todos para os Novos Desafios"
     [:fontawesome-regular-file-pdf: Download](documentos/pdf/CERTIFICADO-MOTIVANDO-TODOS-PARA-OS-NOVOS-DESAFIOS.pdf){:download="CERTIFICADO-MOTIVANDO-TODOS-PARA-OS-NOVOS-DESAFIOS.pdf"} para análise e apreciação.
 
     ---
