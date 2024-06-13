@@ -94,7 +94,7 @@ h2 {
 
 /* Estilos para a imagem */
 .custom-image {
-  width: 335px; /* Largura inicial da imagem */
+  width: 370px; /* Largura inicial da imagem */
   height: auto; /* Altura automática para manter proporções */
   margin-right: 20px; /* Espaçamento entre a imagem e o texto */
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Adicionar sombra à imagem */
@@ -105,7 +105,8 @@ h2 {
   text-align: justify; /* Texto justificado */
   word-wrap: break-word; /* Quebra de palavra para palavras longas */
   flex-grow: 1; /* Ocupar o espaço restante no contêiner */
-  width: calc(100% - 320px); /* Ajustar a largura do texto */
+  width: calc(100% - 390px); /* Ajustar a largura do texto */
+  font-size: 0.95em; /* Reduzir o tamanho da fonte */
 }
 
 /* Media query para dispositivos móveis com largura máxima de 768px */
@@ -119,17 +120,12 @@ h2 {
   .custom-image {
     width: 100%; /* Ajustar a largura da imagem para 100% da coluna */
     margin-right: 0; /* Remover espaçamento à direita da imagem */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Manter a sombra */
   }
 
   .text-right {
     width: 100%; /* Ajustar a largura do texto para 100% da coluna */
     text-align: justify; /* Garanta que o texto esteja justificado */
-  }
-}
-
-/* Media query para o modo escuro */
-@media (prefers-color-scheme: dark) {
-  .custom-image {
-    box-shadow: none; /* Remover a sombra da imagem no modo escuro */
+    font-size: 0.9em; /* Reduzir o tamanho da fonte */
   }
 }
