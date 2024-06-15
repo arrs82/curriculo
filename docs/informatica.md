@@ -9,9 +9,8 @@
 
 ---
 ## **Profeciência Profissional**
-
 |Competência Técnica|Básico|Intermediário|Avançado|
-|---|:---:|:---:| :---:|
+|---|:---:|:---:|:---:|
 |:fontawesome-solid-computer: Informática|:x:|:x:|:white_check_mark:|
 |:material-ip-network: Redes|:x:|:x:|:white_check_mark:|
 |:octicons-terminal-16: PowerShell|:x:|:white_check_mark:|:x:|
