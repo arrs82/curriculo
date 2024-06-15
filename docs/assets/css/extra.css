@@ -130,59 +130,6 @@ h2 {
   }
 }
 
-/* Estilos para tabelas responsivas em dispositivos móveis */
-@media only screen and (max-width: 768px) {
-  table {
-      width: 100% !important; /* Força a largura total */
-      max-width: 100% !important; /* Define a largura máxima como 100% */
-      display: block !important; /* Altera o comportamento de exibição para block */
-      overflow-x: hidden !important; /* Esconde a rolagem horizontal */
-  }
-  th, td {
-      font-size: 9px !important; /* Tamanho de fonte menor */
-      padding: 2px 4px !important; /* Espaçamento menor dentro das células */
-      white-space: nowrap !important; /* Evita que o conteúdo seja quebrado */
-      text-overflow: ellipsis; /* Adiciona reticências (...) para indicar que o texto foi cortado */
-      overflow: hidden; /* Esconde o conteúdo que não couber na célula */
-  }
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
