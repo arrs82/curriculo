@@ -6,7 +6,7 @@
 
 |Língua|Leitura|Escrita|Conversação|
 |---|:---:|:---:| :---:|
-|![Inglês](assets/images/ingles.png){width="7%"}|:white_check_mark:|:x:|:x:|
+|![Inglês](assets/images/ingles.png){width="7%"}|:white_check_mark:|:white_check_mark:|:x:|
 |![Espanhol](assets/images/espanhol.png){width="7%"}|:white_check_mark:|:x:|:x:|
 |![Português](assets/images/portugues.png){width="7%"}|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 
