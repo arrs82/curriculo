@@ -9,17 +9,17 @@
 ## **Seminários Motivacionais**
 **Motivando Todos para a Missão**
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/O9LZGAn3DBk" title="MOTIVANDO TODOS PARA A MISSÃO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/O9LZGAn3DBk?background=1?autoplay=1" title="MOTIVANDO TODOS PARA A MISSÃO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ---
 **Motivando Todos para as Mudanças**
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/36iOu9u-2Yo" title="MOTIVANDO TODOS PARA AS MUDANÇAS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/36iOu9u-2Yo?background=1?autoplay=1" title="MOTIVANDO TODOS PARA AS MUDANÇAS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ---
 **Motivando Todos para a Qualidade**
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/iZ755NZ3VLc" title="MOTIVANDO TODOS PARA A QUALIDADE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/iZ755NZ3VLc?background=1?autoplay=1" title="MOTIVANDO TODOS PARA A QUALIDADE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ---
 ??? note Success ":octicons-mortar-board-16: Seminário ONDEC - Motivando Todos para os Novos Desafios"

@@ -12,14 +12,14 @@ Projetos de infraestrutura desenvolvidos em ambientes acadêmico e doméstico (p
     
     ---
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/zoRBj7__u_4" title="Implementação de um Ambiente Seguro em Redes de Computadores" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/zoRBj7__u_4?background=1?autoplay=1" title="Implementação de um Ambiente Seguro em Redes de Computadores" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 ??? note Example ":fontawesome-solid-network-wired: Projeto de Planejamento de Infraestrutura de Redes"
     **Projeto:** [:simple-youtube: YouTube](https://youtu.be/ezZMislsSBY?list=PLD1Y6l4XaYY3Aj6yvVVlRGzEYZUEO981I){:target="_blank"}
 
     ---
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/ezZMislsSBY" title="Planejamento de Planejamento de Infraestrutura de Redes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/ezZMislsSBY?background=1?autoplay=1" title="Planejamento de Planejamento de Infraestrutura de Redes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 ??? note Example ":fontawesome-solid-network-wired: Projeto Proxmox doméstico!"
     ![pfSense](assets/images/proxmox.png){width="28%"}
