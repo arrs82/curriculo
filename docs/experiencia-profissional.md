@@ -179,9 +179,9 @@
 
 **Cargos:**
 
-* Programador e Operador de Centro de Usinagem CNC (6 anos);
+* Programador e Operador de Centro de Usinagem CNC (5 anos);
 * Preparador de Pintura (1 ano);
-* Coordenador de Times (6 meses);
+* Coordenador de Times (1 ano e 6 meses);
 * Operador de Utilidades ETA/ETE (2 anos).
 
 **Departamentos:** 
@@ -199,7 +199,7 @@
 </p>
 
 <p style="text-align: justify;">
-<strong>1 ano e 6 meses:</strong> Atuante no cargo e função de <strong> Coordenador</strong> , com escopo de "Facilitador de Times" na planta de injetoras de plásticos e componentes, nas áreas de injetoras e pintura, contemplando ainda atuação em atividades extracurriculares na área/departamento de ferramentaria, atuando como <strong> Ferramenteiro</strong>  com ênfase em inspeção, realizando e desenvolvendo trabalhos de manutenções corretivas e preventivas em moldes termodinâmicos de injeção plástica de para-choques (S-10, Blazer e veículos populares);
+<strong>1 ano e 6 meses:</strong> Atuante no cargo e função de <strong> Coordenador</strong>, com escopo de "Facilitador de Times" na planta de injetoras de plásticos e componentes, nas áreas de injetoras e pintura, com ênfase em segurança, no comprometimento e desenvolvimento das pessoas, na padronização de processos, na qualidade total de produtos e equipamentos, nos desperdícios de insumos e maquinários, no compromisso de todos com o meio ambiente, principalmente na melhoria contínua de tudo que engloba a planta e os procedimentos fabris, contemplando ainda atuação em atividades extracurriculares na área/departamento de ferramentaria, atuando como <strong> Ferramenteiro</strong>  com ênfase em inspeção, realizando e desenvolvendo trabalhos de manutenções corretivas e preventivas em moldes termodinâmicos de injeção plástica de para-choques (S-10, Blazer e veículos populares);
 </p>
 
 <p style="text-align: justify;">
