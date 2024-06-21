@@ -18,8 +18,6 @@
 
 <p style="text-align: justify;">Em segundo lugar, além da gratidão, tenho apreço e muita admiração por um ex-colega de trabalho, Fabiano Conrado, profissional extremamente inteligente e disciplinado para com tudo relacionado à Tecnologia da Informação, o qual se predispôs a me ensinar um pouco sobre <em>Dev</em>, em específico às linguagens de programação <em>Markdown</em> inserida nos repositórios do <a href="https://github.com" target="_blank"><em>GitHub</em></a>, mas pouco este que me foi e é de extrema importância e de imensa relevância para que eu conseguisse alcançar meu objetivo e intento neste projeto.</p>
 
-ALESSANDRO ROBERTO DOS REIS SANTOS
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
