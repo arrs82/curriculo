@@ -4,7 +4,7 @@
 
 ## **Apresentação Pessoal**
 <!-- Autoplay and Fullscreen are allowed.-->
-<!DOCTYPE html><html lang="pt-br"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Meu Player de Vídeo</title><style>.video-container{max-width:800px;margin:0 auto}.video-container video{width:100%;height:auto;display:block}</style></head><body><div class="video-container"><video id="meuVideo" controls controlsList="nodownload"><source src="assets/videos/apresentacao-pessoal.mp4" type="video/mp4">Seu navegador não suporta o vídeo.</video></div><script>document.addEventListener('DOMContentLoaded',function(){var video=document.getElementById('meuVideo');video.addEventListener('contextmenu',function(e){e.preventDefault()})});</script></body></html>
+<!DOCTYPE html><html lang="pt-br"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Meu Player de Vídeo</title><style>.video-container{position:relative;width:100%;max-width:800px;margin:0 auto;overflow:hidden;padding-top:56.25%}.video-container video{position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover}</style></head><body><div class="video-container"><video id="meuVideo" controls controlsList="nodownload" loading="lazy"><source src="assets/videos/apresentacao-pessoal.mp4" type="video/mp4"><source src="assets/videos/apresentacao-pessoal.webm" type="video/webm">Seu navegador não suporta o vídeo.</video></div><script>document.addEventListener('DOMContentLoaded',function(){var video=document.getElementById('meuVideo');video.addEventListener('contextmenu',function(e){e.preventDefault()})});</script></body></html>
 
 <!-- Ícone Whatsapp. -->
 <!DOCTYPE html>
