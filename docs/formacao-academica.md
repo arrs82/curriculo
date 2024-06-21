@@ -12,44 +12,44 @@
     [https://etep.edu.br](https://etep.edu.br/){:target="_blank"}
 
     **Diploma de curso superior:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/DIPLOMA-GRADUACAO-ARRS.pdf){:download="DIPLOMA-GRADUACAO-ARRS.pdf"}
-    
+
     ---
     ### **Introdução: Administração**
-    
+
     **Curso superior presencial (Bacharel) - Duração: 4 anos**
-    <p style="text-align: justify;">Formado em **Administração de Empresas** pelo Centro Universitário ETEP com sólidos conhecimentos vivenciados em ambiente acadêmico relacionados a: 
+    <p style="text-align: justify;">Formado em **Administração de Empresas** pelo Centro Universitário ETEP com sólidos conhecimentos vivenciados em ambiente acadêmico relacionados a:
 
     *  Administração e Gerenciamento de Operações e Processos;
-    *  Gestão e Gerenciamento de Projetos; 
-    *  Gestão e Liderança de Pessoas; 
-    *  Gestão de Qualidade (Melhoria Contínua); 
+    *  Gestão e Gerenciamento de Projetos;
+    *  Gestão e Liderança de Pessoas;
+    *  Gestão de Qualidade (Melhoria Contínua);
     *  Gestão de Marketing (Estratégias, Comunicação e Mídias Sociais);
-    *  Gestão de Logística (MRP/MRP2);  
-    *  Planejamento e Controle de Produção; 
-    *  Controle Estatístico de Processo; 
-    *  Métodos e Processos; 
-    *  Normas/Sistemas e Ferramentas de Qualidade/Processo; 
+    *  Gestão de Logística (MRP/MRP2);
+    *  Planejamento e Controle de Produção;
+    *  Controle Estatístico de Processo;
+    *  Métodos e Processos;
+    *  Normas/Sistemas e Ferramentas de Qualidade/Processo;
     *  Lean Manufacturing (Manufatura e processos enxutos/2 M’S – 2 S’s – REI);
-    *  Kaizen; 
-    *  TOC - Teoria das Restrições; 
-    *  Kanban; 
-    *  Justin Time; 
-    *  PDCA; 
-    *  FiFo; 
-    *  6S’s; 
-    *  TPM; 
-    *  5W2H; 
-    *  SWE; 
-    *  ABNT; 
+    *  Kaizen;
+    *  TOC - Teoria das Restrições;
+    *  Kanban;
+    *  Justin Time;
+    *  PDCA;
+    *  FiFo;
+    *  6S’s;
+    *  TPM;
+    *  5W2H;
+    *  SWE;
+    *  ABNT;
     *  FMEA;
-    *  PPCP; 
-    *  ISO 9000 e ISO 14000 (Auditoria Interna); 
+    *  PPCP;
+    *  ISO 9000 e ISO 14000 (Auditoria Interna);
     *  ME2 (monitoramento, avaliação e controle).</p>
 
     ### **Disciplinas: Administração**
 
     |Disciplinas cursadas e concluídas|Carga horária|
-    |---|:---:| 
+    |---|:---:|
     |Administração da Produção e Materiais|200h|
     |Administração de Marketing|100h|
     |Administração de Serviços|50h|
@@ -121,20 +121,20 @@
 
     !!! note tip "Trabalho de Conclusão de Curso - Centro Universitário ETEP"
         **TCC:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/TCC-ARRS-ADM.pdf){:download="TCC-ARRS-ADM.pdf"}
-   
+
 === "Técnico em Redes de Computadores :fontawesome-solid-user-graduate:"
     ## **Redes de Computadores**
     > :material-book-education-outline: Início: 01/2018 :fontawesome-solid-flag-checkered: Conclusão: 12/2019
 
     ![SENAI](assets/images/senai-logo.png){width="75%"}
-    
+
     [https://sp.senai.br/unidade/saojosedoscampos](https://sp.senai.br/unidade/saojosedoscampos/){:target="_blank"}
 
     **Certificado de curso técnico:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/CERTIFICADO-TECNICO-TI.pdf){:download="CERTIFICADO-TECNICO-TI.pdf"}
 
     ---
     ### **Introdução: Redes**
-    
+
     **Curso técnico presencial - Duração: 2 anos**
     <p style="text-align: justify;">Formado como **Técnico em Redes de Computadores** pela escola SENAI "Santos Dumont" com sólidos conhecimentos vivenciados em ambiente acadêmico relacionados a:
 
@@ -152,7 +152,7 @@
     ### **Disciplinas: Redes**
 
     |Disciplinas cursadas e concluídas|Carga horária|
-    |---|:---:| 
+    |---|:---:|
     |Administração de Dispositivos de Redes|75h|
     |Administração de Serviços de Gerenciamento e Segurança de Redes|75h|
     |Administraçao de Serviços de Redes Locais e Internet|75h|
@@ -177,56 +177,56 @@
 
     !!! note tip "Trabalho de Conclusão de Curso - Escola SENAI "Santos Dumont""
         **TCC:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/TCC-ARRS-TI.pdf){:download="TCC-ARRS-TI.pdf"}
-                
+
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/zoRBj7__u_4?background=1?autoplay=1" title="Trabalho de Conclusão de Curso - SENAI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
-           
+
 === "Técnico em Mecânica :fontawesome-solid-user-graduate:"
 
     ## **Mecânica**
     > :material-book-education-outline: Início: 01/2000 :fontawesome-solid-flag-checkered: Conclusão: 12/2001
 
     ![CEPHAS](assets/images/cephas-logo.png){width="28%"}
-    
+
     [https://cephas.org.br](https://cephas.org.br/){:target="_blank"}
 
     **Certificado de curso técnico:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/CERTIFICADO-TECNICO-MEC.pdf){:download="CERTIFICADO-TECNICO-MEC.pdf"}
-    
+
     ---
     ### **Introdução: Mecânica**
-    
+
     **Curso técnico presencial - Duração: 2 anos**
     <p style="text-align: justify;">Formado como **Técnico em Mecânica** pela escola CEPHAS - Colégio de Educação Profissional "Hélio Augusto de Souza"  com sólidos conhecimentos vivenciados em ambiente acadêmico relacionados a:
 
     * Planejamento e Controle de Produção;
-    * Métodos e Processos; 
-    * Metalografia (Cálculos e ensaios estruturais); 
-    * Automação (Eletro hidráulica, eletropneumática e PLC); 
-    * CNC (Programação via CAD-CAM); 
-    * AutoCAD; 
+    * Métodos e Processos;
+    * Metalografia (Cálculos e ensaios estruturais);
+    * Automação (Eletro hidráulica, eletropneumática e PLC);
+    * CNC (Programação via CAD-CAM);
+    * AutoCAD;
     * Normas/Sistemas e Ferramentas de Qualidade/Processo;
     * Lean Manufaturing (Manufatura e processos enxutos/2 M’S – 2 S’s – REI);
-    * Kaizen; 
-    * Kanban; 
-    * Justin Time; 
-    * PDCA; 
-    * FiFo; 
-    * 6S’s; 
-    * TPM; 
-    * 5W2H; 
-    * SWE; 
-    * ABNT; 
-    * FMEA; 
+    * Kaizen;
+    * Kanban;
+    * Justin Time;
+    * PDCA;
+    * FiFo;
+    * 6S’s;
+    * TPM;
+    * 5W2H;
+    * SWE;
+    * ABNT;
+    * FMEA;
     * ISO 9000 e ISO 14000;
-    * ME2 (Monitoramento, avaliação e controle); 
+    * ME2 (Monitoramento, avaliação e controle);
     * Metrologia (Utilização, manejo e  manutenção de instrumentos precisos de medição);
-    * Leitura e interpretação de desenhos técnico em geral. 
+    * Leitura e interpretação de desenhos técnico em geral.
 
     ### **Disciplinas: Mecânica**
 
     |Disciplinas cursadas e concluídas|Carga horária|
-    |---|:---:| 
+    |---|:---:|
     |Atividades em Projeto|100h|
     |Automação|160h|
     |Controle da Qualidade|60h|

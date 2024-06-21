@@ -26,7 +26,7 @@
 * _Wiki_ (Elaboração e desenvolvimento de documentação técnica no formato [_MkDocs_](https://squidfunk.github.io/mkdocs-material/){:target="_blank"});
 * Suporte de _hardware_ de TI;
 * Suporte técnico de _mobile_;
-* Suporte para _help desk_; 
+* Suporte para _help desk_;
 * Suporte de periféricos (impressoras - _notebooks - desktops - nobreaks_);
 * Infraestrutura e segurança de redes;
 * Relacionamento interpessoal;
@@ -36,7 +36,7 @@
 
 !!! info " **Perfil Profissiográfico Previdenciário (PPP) - Tecnologia da Informação/Suporte Técnico**"
     * **Profissioagrafia / Descrição das Atividades Laborais**
-        
+
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/PPP-ASSISTENTE-DE-SUPORTE-TECNICO.pdf){:download="PPP-ASSISTENTE-DE-SUPORTE-TECNICO.pdf"} para análise e apreciação.
 ---
 ### **Proz Educação**
@@ -63,13 +63,13 @@
 * Comunicação verbal e escrita;
 * Equilíbrio emocional;
 * Trabalho em equipe;
-* Resiliência; 
+* Resiliência;
 * Criatividade;
 * Liderança institucional e pedagógica.
 
 !!! info " **Contrato de Prestação de Serviços (RPA) - Docência em Administração e Logística**"
     * **Contrato RPA (Autônomo/Docência) - E.E. PEI Profº "Dorothoveo Gaspar Vianna" (Jacareí - SP)**
-    
+
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/CONTRATO-RPA-AUTONOMO-DOCENCIA-PROZ.pdf){:download="CONTRATO-RPA-AUTONOMO-DOCENCIA-PROZ.pdf"} para análise e apreciação.
 ---
 ### **Johnson & Johnson**
@@ -100,7 +100,7 @@
 
 !!! info " **Perfil Profissiográfico Previdenciário (PPP) - Embalagem/Suturas/Medical**"
     * **Profissiografia / Descrição das Atividades Laborais**
-        
+
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/PPP-J&J.pdf){:download="PPP-J&J.pdf"} para análise e apreciação.
 ---
 ### **PMSJC**
@@ -110,7 +110,7 @@
 
 > :material-badge-account-horizontal-outline: Entrada: 04/2016 :fontawesome-regular-handshake: Saída: 11/2016
 
-**Cargo:** Estagiário 
+**Cargo:** Estagiário
 
 **Departamento:** Tecnologia da Informação
 
@@ -136,7 +136,7 @@
 
 !!! info " **Declaração de Estágio Supervisionado - Tecnologia da Informação/PMSJC**"
     * **Declaração de Estágio Supervisionado - GP-Unidade de Gerenciamento do Programa-BID**
-    
+
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/ESTAGIARIO-TI-PMSJC.pdf){:download="ESTAGIARIO-TI-PMSJC.pdf"} para análise e apreciação.
 ---
 ### **PMSJC**
@@ -167,7 +167,7 @@
 
 !!! info " **Declaração de Estágio Supervisionado - Administrativo/PMSJC**"
     * **Declaração de Estágio Supervisionado - SGAF-DSI-DPA-Supervisão de Protocolo**
-    
+
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/ESTAGIARIO-ADMINISTRATIVO-PMSJC.pdf){:download="ESTAGIARIO-ADMINISTRATIVO-PMSJC.pdf"} para análise e apreciação.
 ---
 ### **General Motors**
@@ -184,7 +184,7 @@
 * Coordenador de Times (1 ano e 6 meses);
 * Operador de Utilidades ETA/ETE (2 anos).
 
-**Departamentos:** 
+**Departamentos:**
 
 * Powertrain (Usinagem);
 * Injetora de Plásticos (Injetoras/Pintura/Ferramentaria);
@@ -192,7 +192,7 @@
 
 **Modalidade:** CLT
 
-**Atribuições:** 
+**Atribuições:**
 
 <p style="text-align: justify;">
 <strong>6 anos:</strong> Atuante no cargo e função de <strong> Programador e Operador de Centro de Usinagem CNC</strong>  na planta powertrain, na área de motores e transmissões, contemplando atuação diária na inspeção visual e dimensional de girabrequins, carcaças e eixos-comando, com ampla participação na elaboração e planejamento de documentações técnicas, no que tange aos processos industriais de usinagem e montagem nas áreas de válvulas, eixos-comando, carcaça e girabrequim;
@@ -219,17 +219,17 @@
 * Comunicação verbal e escrita;
 * Equilíbrio emocional;
 * Trabalho em equipe;
-* Resiliência; 
+* Resiliência;
 * Criatividade;
 * Liderança e coordenação.
 
 !!! info " **Perfil Profissiográfico Previdenciário (PPP) - Usinagem/Injetoras/Ferramentaria/Utilidades/ETA-ETE**"
     * **Profissiografia / Descrição das Atividades Laborais**
-        
+
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/PPP-GM.pdf){:download="PPP-GM.pdf"} para análise e apreciação.
     ---
     * **Declaração S.A. Liderança Injetoras - GM-SJC / Descrição das Atividades Laborais**
-        
+
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/EXPERIENCIA-LIDERANCA-INJETORAS-GM.pdf){:download="EXPERIENCIA-LIDERANCA-INJETORAS-GM.pdf"} para análise e apreciação.
 ---
 ### **Magnaghi Friuli Aerospace**
@@ -239,12 +239,12 @@
 
 > :material-badge-account-horizontal-outline: Entrada: 06/2003 :fontawesome-regular-handshake: Saída: 06/2004
 
-**Cargos:** 
+**Cargos:**
 
 * Ajustador Mecânico III;
 * Líder/Encarregado de Produção.
 
-**Departamentos:** 
+**Departamentos:**
 
 * Ajustagem Mecânica;
 * Usinagem;
@@ -269,7 +269,7 @@
 
 !!! info " **Perfil Profissiográfico Previdenciário (PPP) - Ajustagem Mecânica**"
     * **Profissiografia / Descrição das Atividades Laborais**
-        
+
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/PPP-AJUSTADOR-MECANICO.pdf){:download="PPP-AJUSTADOR-MECANICO.pdf"} para análise e apreciação.
 ---
 ### **Precitech Inova**
@@ -301,7 +301,7 @@
 
 !!! info " **Perfil Profissiográfico Previdenciário (PPP) - Ferramentaria e Usinagem**"
     * **Profissiografia / Descrição das Atividades Laborais**
-        
+
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/PPP-AJUSTADOR-FERRAMENTEIRO.pdf){:download="PPP-AJUSTADOR-FERRAMENTEIRO.pdf"} para análise e apreciação.
 ---
 ### **Ferrusmol**
@@ -333,7 +333,7 @@
 
 !!! info " **Perfil Profissiográfico Previdenciário (PPP) - Usinagem**"
     * **Profissiografia / Descrição das Atividades Laborais**
-        
+
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/PPP-TORNEIRO-MECANICO.pdf){:download="PPP-TORNEIRO-MECANICO.pdf"} para análise e apreciação.
 ---
 ### **ITA/CTA**
@@ -366,7 +366,7 @@
 
 !!! info " **Atestado de Estágio Supervisionado - Divisão de Engenharia Mecânica-Aeronáutica**"
     * **Atestado/Declaração de Estágio Supervisionado - Pesquisador - ITA/CTA**
-    
+
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/ESTAGIARIO-ITA-CTA.pdf){:download="ESTAGIARIO-ITA-CTA.pdf"} para análise e apreciação.
 ---
 ### **Fundhas**
@@ -392,12 +392,12 @@
 * Comunicação verbal e escrita;
 * Equilíbrio emocional;
 * Trabalho em equipe;
-* Resiliência; 
+* Resiliência;
 * Criatividade.
 
 !!! info " **Perfil Profissiográfico Previdenciário (PPP) - Administrativo (Recursos Humanos/Departamento Pessoal)**"
     * **Profissiografia / Descrição das Atividades Laborais**
-        
+
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/PPP-AUXILIAR-ADMINISTRATIVO.pdf){:download="PPP-AUXILIAR-ADMINISTRATIVO.pdf"} para análise e apreciação.
 
 <!DOCTYPE html>

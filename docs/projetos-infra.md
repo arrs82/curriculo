@@ -9,7 +9,7 @@ Projetos de infraestrutura desenvolvidos em ambientes acadêmico e doméstico (p
 ## **Projetos de Infraestrutura**
 ??? note Example ":fontawesome-solid-network-wired: Implementação de um Ambiente Seguro em Redes de Compoutadores"
     **TCC:** [:simple-youtube: YouTube](https://youtu.be/Lh4tBYPhngE?list=PLD1Y6l4XaYY3Aj6yvVVlRGzEYZUEO981I){:target="_blank"}
-    
+
     ---
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/zoRBj7__u_4?background=1?autoplay=1" title="Implementação de um Ambiente Seguro em Redes de Computadores" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

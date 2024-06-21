@@ -19,7 +19,7 @@
 |:simple-windows11: Windows 10/11|:x:|:x:|:white_check_mark:|
 |:material-microsoft-dynamics-365: Office 365|:x:|:white_check_mark:|:x:|
 |:material-file-word: Word|:x:|:white_check_mark:|:x:|
-|:material-file-excel: Excel|:white_check_mark:|:x:|:x:| 
+|:material-file-excel: Excel|:white_check_mark:|:x:|:x:|
 |:material-file-powerpoint: Powerpoint|:x:|:x:|:white_check_mark:|
 |:simple-microsoftoutlook: Outlook|:x:|:white_check_mark:|:x:|
 |:material-microsoft-access: Access|:white_check_mark:|:x:|:x:|
@@ -31,7 +31,7 @@
 |:fontawesome-brands-linux: Linux|:x:|:white_check_mark:|:x:|
 |:simple-libreoffice: Libre Office|:x:|:white_check_mark:|:x:|
 |:simple-proxmox: Proxmox|:x:|:white_check_mark:|:x:|
-|:simple-virtualbox: Virtual Box|:x:|:white_check_mark:|:x:| 
+|:simple-virtualbox: Virtual Box|:x:|:white_check_mark:|:x:|
 |:material-freebsd: FreeBSD|:x:|:x:|:white_check_mark:|
 |:simple-pfsense: pfSense|:x:|:x:|:white_check_mark:|
 |:simple-kalilinux: Kali Linux|:white_check_mark:|:x:|:x:|
@@ -49,7 +49,7 @@
 |:simple-adobedreamweaver: Dreamweaver|:white_check_mark:|:x:|:x:|
 |:simple-adobeacrobatreader: Acrobat|:x:|:x:|:white_check_mark:|
 
-!!! Quote "Confúcio" 
+!!! Quote "Confúcio"
     _"O que sabemos, saber que o sabemos. Aquilo que não sabemos, saber que não o sabemos: eis o verdadeiro saber."_
 
 <!DOCTYPE html>

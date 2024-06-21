@@ -25,12 +25,12 @@
     > :material-book-education-outline: Início: 05/2014 :fontawesome-solid-flag-checkered: Conclusão: 07/2014
 
     ![SENAI](assets/images/senai-logo.png){width="75%"}
-    
+
     [https://sp.senai.br/unidade/saojosedoscampos](https://sp.senai.br/unidade/saojosedoscampos/){:target="_blank"}
 
     **Certificado de curso profissionalizante:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/CERTIFICADO-PROGRAMACAO-ARRS.pdf){:download="CERTIFICADO-PROGRAMACAO-ARRS.pdf"}
 
-    **Carga horária:** 120 horas 
+    **Carga horária:** 120 horas
 
 ??? Success ":octicons-mortar-board-16: Curso SENAI - Segurança no Trabalho em Alturas - NR 35"
 
@@ -49,7 +49,7 @@
     > :material-book-education-outline: Início: 10/2018 :fontawesome-solid-flag-checkered: Conclusão: 10/2018
 
     ![SENAI](assets/images/senai-logo.png){width="75%"}
-    
+
     [https://sp.senai.br/unidade/saojosedoscampos](https://sp.senai.br/unidade/saojosedoscampos/){:target="_blank"}
 
     **Certificado de curso profissionalizante:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/CERTIFICADO-TI-ARRS.pdf){:download="CERTIFICADO-TI-ARRS.pdf"}
@@ -63,10 +63,10 @@
     ![SENAI](assets/images/senai-logo.png){width="75%"}
 
     [https://sp.senai.br/unidade/saojosedoscampos](https://sp.senai.br/unidade/saojosedoscampos/){:target="_blank"}
-    
+
     **Certificado de curso profissionalizante:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/CERTIFICADO-EMPREENDEDORISMO-ARRS.pdf){:download="CERTIFICADO-EMPREENDEDORISMO-ARRS.pdf"}
 
-    **Carga horária:** 20 horas  
+    **Carga horária:** 20 horas
 
 ??? Success ":octicons-mortar-board-16: Curso SENAI - Finanças Pessoais"
 
@@ -75,7 +75,7 @@
     ![SENAI](assets/images/senai-logo.png){width="75%"}
 
     [https://sp.senai.br/unidade/saojosedoscampos](https://sp.senai.br/unidade/saojosedoscampos/){:target="_blank"}
-    
+
     **Certificado de curso profissionalizante:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/CERTIFICADO-FINANCAS-ARRS.pdf){:download="CERTIFICADO-FINANCAS-ARRS.pdf"}
 
     **Carga horária:** 14 horas
@@ -89,7 +89,7 @@
     [https://sp.senai.br/unidade/saojosedoscampos](https://sp.senai.br/unidade/saojosedoscampos/){:target="_blank"}
 
     [https://sebrae.com.br](https://sebrae.com.br/sites/PortalSebrae){:target="_blank"}
-    
+
     **Certificado de curso profissionalizante (SENAI):** [:fontawesome-regular-file-pdf: Download](documentos/pdf/CERTIFICADO-VIDEOMAKER-SENAI-ARRS.pdf){:download="CERTIFICADO-VIDEOMAKER-SENAI-ARRS.pdf"}
 
     **Certificado de curso profissionalizante (SEBRAE):** [:fontawesome-regular-file-pdf: Download](documentos/pdf/CERTIFICADO-VIDEOMAKER-SEBRAE-ARRS.pdf){:download="CERTIFICADO-VIDEOMAKER-SEBRAE-ARRS.pdf"}

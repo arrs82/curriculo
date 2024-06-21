@@ -6,9 +6,9 @@
 
     !!! info " **Dados / Endereço / Contato**"
         * Brasileiro, divorciado, 42 anos, habilitado (AB)
-        * **Endereço:** Rua Icatu, nº. 2030 - Bloco 2, apartamento 207   
-        * **Bairro:** Morada do Sol 
-        * **Cidade:** São José dos Campos - SP 
+        * **Endereço:** Rua Icatu, nº. 2030 - Bloco 2, apartamento 207
+        * **Bairro:** Morada do Sol
+        * **Cidade:** São José dos Campos - SP
         * **CEP:** 12237-576
         * :material-google-maps: [Google Maps](https://www.google.com/maps/d/embed?mid=1jyKY2d8Bm94XTHxT_CXWcC6Ibl47fK8&ehbc=2E312F"){:target="_blank"} (Endereço/Localização)
         * :material-whatsapp: [(12) 98867-8750](https://wa.me/5512988678750){:target="_blank"} (Pessoal)
@@ -16,9 +16,9 @@
         * :material-email: [alessandro.coringa@yahoo.com.br](mailto:alessandro.coringa@yahoo.com.br)
         * :material-email: [alessandroreis5s@icloud.com](mailto:alessandroreis5s@icloud.com)
         * :simple-github: [arrs82](https://github.com/arrs82){:target="_blank"}
-        * :fontawesome-brands-youtube: [@aleha.santos](https://www.youtube.com/@aleha.santos){:target="_blank"} 
+        * :fontawesome-brands-youtube: [@aleha.santos](https://www.youtube.com/@aleha.santos){:target="_blank"}
         * :material-instagram: [@aleha.santos](https://www.instagram.com/aleha.santos/){:target="_blank"}
-        * :material-facebook: [aleha.santos82](https://web.facebook.com/aleha.santos82){:target="_blank"} 
+        * :material-facebook: [aleha.santos82](https://web.facebook.com/aleha.santos82){:target="_blank"}
         * :material-linkedin: [alessandroroberto82](https://www.linkedin.com/in/alessandroroberto82/){:target="_blank"}
         * :fontawesome-brands-x-twitter: [alessandro_sjc](https://x.com/alessandro_sjc){:target="_blank"}
         * :material-microsoft-internet-explorer: [www.alessandroroberto.com.br](https://www.alessandroroberto.com.br){:target="_blank"}
@@ -27,7 +27,7 @@
 
     !!! info " **Laudo PCD e informações**"
         * **Laudo PCD - Alessandro Roberto dos Reis Santos**
-            
+
             [:fontawesome-regular-file-pdf: Download](documentos/pdf/PCD-DOCUMENTACAO-ARRS.pdf){:download="PCD-DOCUMENTACAO-ARRS.pdf"} para análise e apreciação.
         ---
         * **Informações acerca de minha deficiência**
@@ -42,7 +42,7 @@
             CID G55.1: Compressões das raízes e dos plexos nervosos em transtornos dos discos intervertebrais.
         ---
         * **Lei de Cotas para PCD (Lei 8.213/91 - Artigos 89 a 93)**
-        
+
             [Clique aqui](https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm){:target="_blank"} e saiba mais.
 
 === "Pretensão Salarial :fontawesome-solid-sack-dollar:"

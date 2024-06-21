@@ -32,7 +32,7 @@
     **Certificado de seminário:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/CERTIFICADO-MOTIVANDO-TODOS-PARA-OS-NOVOS-DESAFIOS.pdf){:download="CERTIFICADO-MOTIVANDO-TODOS-PARA-OS-NOVOS-DESAFIOS.pdf"}
 
     **Carga horária:** 2 horas e 15 minutos
-  
+
     ---
     <div class="image-with-text">
     <img src="/assets/images/eu-ar.png" alt="Eu e o Alfredo Rocha" class="custom-image">
@@ -40,7 +40,7 @@
         Seminário **"Motivando Todos para os Novos Desafios"** na cidade de São José dos Campos - SP na data do dia **28 de Maio de 2011**.
     </div>
     </div>
-    
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>

@@ -10,7 +10,7 @@
     * **Assistente / Analista de DevOps**
     * **Técnico de Suporte**
     * **Técnico de Informática**
-    
+
 === "Administrativo :material-file-document-edit-outline:"
 
     * **Assistente / Analista de Treinamento & Desenvolvimento**
@@ -53,7 +53,7 @@
     * **Editor de Criação (Direção - Edição - Tratamento)**
     * **Assistente / Analista de Mídias Sociais**
     ---
-    !!! info ":material-video-vintage: **Prestador de Serviços**" 
+    !!! info ":material-video-vintage: **Prestador de Serviços**"
         <p style="text-align: justify;">
         Atuante como **prestador de serviços** em restrospectivas animadas de aniversários, casamentos, confraternizações, empresarial, filhos do coração, etc.
         </p>

@@ -48,7 +48,7 @@
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/aKDiZ8OO3wo?background=1?autoplay=1" title="Aniversário Enrico" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
----   
+---
 !!! note tip ":material-video-vintage: Aniversário Miriã"
     **Observações:** Para a realização do projeto foram utilizados roteiros e o pacote Adobe para a edição áudio/visual juntamente com a inserção de efeitos.
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
