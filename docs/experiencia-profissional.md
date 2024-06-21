@@ -179,9 +179,8 @@
 
 **Cargos:**
 
-* Programador e Operador de Centro de Usinagem CNC (5 anos);
-* Preparador de Pintura (1 ano);
-* Coordenador de Times (1 ano e 6 meses);
+* Programador e Operador de Centro de Usinagem CNC (6 anos);
+* Preparador de Pintura/Coordenador de Times (1 ano e 6 meses);
 * Operador de Utilidades ETA/ETE (2 anos).
 
 **Departamentos:**
