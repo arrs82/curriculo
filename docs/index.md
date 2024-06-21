@@ -4,7 +4,7 @@
 
 ## **Apresentação Pessoal**
 <!-- Autoplay and Fullscreen are allowed.-->
-<!DOCTYPE html><html lang="pt-br"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Vídeo Automático</title></head><body><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"><iframe id="meuVideo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="../assets/videos/apresentacao-pessoal.mp4" title="Apresentação Pessoal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></body></html>
+<!DOCTYPE html><html lang="pt-br"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Vídeo Automático</title><style>body{margin:0;padding:0}.video-container{position:relative;padding-bottom:56.25%;height:0;overflow:hidden}.video-container iframe{position:absolute;top:0;left:0;width:100%;height:100%}</style></head><body><div class="video-container"><iframe id="meuVideo" src="../assets/videos/apresentacao-pessoal.mp4" title="Apresentação Pessoal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><script>document.addEventListener("DOMContentLoaded",function(){var video=document.getElementById("meuVideo");video.play();var isMobile=/iPhone|iPad|iPod|Android/i.test(navigator.userAgent);if(isMobile){video.addEventListener("play",function(){video.removeAttribute("controls")})}});</script></body></html>
 
 <!-- Ícone Whatsapp. -->
 <!DOCTYPE html>
