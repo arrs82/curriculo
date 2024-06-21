@@ -4,7 +4,7 @@
 
 ## **Apresentação Pessoal**
 <!-- Autoplay and Fullscreen are allowed.-->
-<!DOCTYPE html><html lang="pt-br"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Meu Player de Vídeo</title><style>.video-container{position:relative;width:100%;max-width:800px;margin:0 auto;overflow:hidden;padding-top:56.25%}.video-container video{position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover}</style></head><body><div class="video-container"><video id="meuVideo" controls loading="lazy" playsinline><source src="assets/videos/apresentacao-pessoal.mp4" type="video/mp4">Seu navegador não suporta o vídeo.</video></div></body></html>
+<!DOCTYPE html><html lang="pt-br"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Vídeo Automático</title></head><body><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"><iframe id="meuVideo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="../assets/videos/apresentacao-pessoal.mp4" title="Apresentação Pessoal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></body></html>
 
 <!-- Ícone Whatsapp. -->
 <!DOCTYPE html>
