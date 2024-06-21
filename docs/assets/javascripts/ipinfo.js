@@ -11,7 +11,7 @@ fetch(ipAddressService)
   })
   .then(function(data) {
     var ipAddress = data.ip;
-    
+
     // Faça uma solicitação ao IPinfo para obter informações de geolocalização
     fetch('https://ipinfo.io/' + ipAddress + '/json?token=' + apiKey)
       .then(function(response) {
@@ -28,9 +28,3 @@ fetch(ipAddressService)
   .catch(function(error) {
     console.error('Erro ao obter endereço IP do visitante:', error);
   });
-
-
-
-
-
-  

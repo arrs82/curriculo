@@ -29,8 +29,8 @@ nav:
         - Seminários Motivacionais: seminarios-motivacionais.md
         - Sobre: sobre.md
         #- Documentos Pessoais: documentos-pessoais.md
-        #- Ícones e Utilitários: icones.md 
-              
+        #- Ícones e Utilitários: icones.md
+
 # Configuration
 theme:
         name: material
@@ -101,7 +101,7 @@ extra:
                 #  link: https://github.com/arrs82
                 - icon: fontawesome/brands/whatsapp
                   link: https://wa.me/5512988678750
-                  
+
         caption: true
         lazy_load: true
         align: center
@@ -116,7 +116,7 @@ extra_javascript:
     - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/highlight.min.js
     - assets/javascripts/highlight.js
     - assets/javascripts/ipinfo.js
-    
+
 # Plugins
 plugins:
         - search:
@@ -167,9 +167,7 @@ markdown_extensions:
                   class: mermaid
                   format: !!python/name:pymdownx.superfences.fence_code_format
         - pymdownx.tabbed:
-                alternate_style: true                 
+                alternate_style: true
         - pymdownx.tasklist:
                 custom_checkbox: true
         - pymdownx.tilde
-        
-
