@@ -32,7 +32,7 @@
 !!! note tip ":material-video-vintage: Trabalho de Conclusão de Curso - SENAI"
     **Observações:** Projeto gravado com equipamento Canon EOS 80D, fazendo a utilização de roteiros, de chroma-key e do pacote Adobe para a edição áudio/visual juntamente com a inserção de efeitos e cenários diversos.
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/zoRBj7__u_4?background=1?autoplay=1" title="Trabalho de Conclusão de Curso - SENAI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/Lh4tBYPhngE?background=1?autoplay=1" title="Trabalho de Conclusão de Curso - SENAI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ---
 !!! note tip ":material-video-vintage: Projeto de Planejamento de Infraestrutura de Redes"
