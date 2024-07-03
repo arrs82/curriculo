@@ -56,6 +56,14 @@
 </div>
 ---
 
+### **Projetos Pessoais**
+!!! note tip ":material-video-vintage: Apresentação online - Senac/SJC"
+    **Observações:** Para a realização do projeto foram utilizados uma webcam C920, roteiros, MS Office e o pacote Adobe para a edição áudio/visual juntamente com a inserção de efeitos.
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/CY1wZuUu2FY?background=1?autoplay=1" title="Aniversário Enrico" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+---
+
 ### **Playlists Completas**
 !!! note tip ":material-video-vintage: Playlists Completas"
     * :fontawesome-brands-youtube: **Playlist 1** :material-arrow-right-box: [Clique aqui]( https://www.youtube.com/playlist?list=PLD1Y6l4XaYY3Aj6yvVVlRGzEYZUEO981I){:target="_blank"}
