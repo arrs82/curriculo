@@ -24,9 +24,14 @@ nav:
         - Informática: informatica.md
         - Língua Estrangeira: lingua-estrangeira.md
         - Experiência Profissional: experiencia-profissional.md
-        - Projetos de Infraestrutura: projetos-infra.md
-        - Portfólio de Criação: portfolio-criacao.md
         - Seminários Motivacionais: seminarios-motivacionais.md
+        - Portfólio de Criação: portfolio-criacao.md
+        #- Projetos de Infraestrutura:
+                # - Proxmox: projetos-infra/proxmox.md
+                # - Pfsense: projetos-infra/pfsense.md
+                # - Plex: projetos-infra/plex.md
+                # - Linux: projetos-infra/linux.md
+                # - Tutoriais: projetos-infra/tutoriais.md
         - Sobre: sobre.md
         #- Documentos Pessoais: documentos-pessoais.md
         #- Ícones e Utilitários: icones.md
@@ -49,12 +54,12 @@ theme:
                 - content.tabs.link
                 - content.tooltips
                 # - header.autohide
-                - navigation.expand
+                # - navigation.expand
                 - navigation.footer
                 # - navigation.indexes
                 - navigation.instant
                 # - navigation.prune
-                - navigation.sections
+                # - navigation.sections
                 # - navigation.tabs
                 # - navigation.tabs.sticky
                 - navigation.top

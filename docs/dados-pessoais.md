@@ -48,7 +48,7 @@
 === "Pretensão Salarial :fontawesome-solid-sack-dollar:"
 
     !!! info "**Pretensão Salarial (Modalidade CLT)**"
-        * Entre **R$ 2.500,00** a **R$ 3.300,00** (negociável) **+ Pacote de Benefícios**;
+        * Entre **R$ 2.700,00** a **R$ 3.500,00** (negociável) **+ Pacote de Benefícios**;
         * **Disponibilidade imediata:** Diurno - Noturno - Híbrido - Home Office.
 
 <!DOCTYPE html>
