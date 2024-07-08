@@ -26,7 +26,7 @@ nav:
         - Experiência Profissional: experiencia-profissional.md
         - Seminários Motivacionais: seminarios-motivacionais.md
         - Portfólio de Criação: portfolio-criacao.md
-        #- Projetos de Infraestrutura:
+        #- Projetos de Infraestrutura: projetos-infra.md
                 # - Proxmox: projetos-infra/proxmox.md
                 # - Pfsense Firewall: projetos-infra/pfsense-firewall.md
                 # - Plex Media Server: projetos-infra/plex-media-server.md
@@ -60,7 +60,7 @@ theme:
                 # - navigation.indexes
                 - navigation.instant
                 # - navigation.prune
-                # - navigation.sections
+                - navigation.sections
                 # - navigation.tabs
                 # - navigation.tabs.sticky
                 - navigation.top
