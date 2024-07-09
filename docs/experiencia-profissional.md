@@ -17,7 +17,7 @@
 
 **Modalidade:** CLT
 
-**Atribuições:** <p style="text-align: justify;">Integrante de equipe de suporte técnico/TI atuante com autonomia e diretamente no negócio da empresa ante às necessidades dos representantes do Grupo Card, prestando suporte orientado ao _troubleshooting_ dos mesmos, tendo como missão única e principal atender e superar as necessidades de nossos clientes finais, contemplando ainda ampla participação na elaboração e desenvolvimento de toda a documentação técnica da empresa no formato [_MkDocs_](https://squidfunk.github.io/mkdocs-material/){:target="_blank"}.</p>
+**Atribuições:** <p style="text-align: justify;">Integrante de equipe de suporte técnico/TI atuante com autonomia e diretamente no negócio da empresa ante às necessidades dos representantes e dos colaboradores do Grupo Card, prestando suporte orientado ao _troubleshooting_ dos mesmos, tendo como missão única e principal atender e superar as necessidades de nossos colaboradores internos e clientes finais, com ênfase em suporte técnico de _hardware_, _mobile_ e de periféricos diversos, além de experiência empírica em cabeamento estruturado _(EIA/TIA)_, contemplando ainda ampla participação na elaboração de toda a documentação técnica da empresa em ambiente de desenvolvimento de programação, como: _Markdown (MkDocs), HTML, CSS, Java Script e Git_.</p>
 
 **Competências técnicas/comportamentais desenvolvidas:**
 

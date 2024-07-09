@@ -10,19 +10,19 @@
 
 ### **Projetos Corporativos**
 !!! note tip ":material-video-vintage: Treinamento Wireflex"
-    **Observações:** Projeto gravado com equipamento Canon EOS 80D, fazendo a utilização de roteiros, de chroma-key e do pacote Adobe para a edição áudio/visual juntamente com a inserção de efeitos e cenários diversos.
+    **Observações** <p style="text-align: justify;">Projeto gravado com equipamento _Canon EOS 80D_, placa de áudio dedicada _Creative_, fazendo a utilização de roteiros, de _chroma-key_ e do pacote Adobe para a edição áudio/visual juntamente com a inserção de efeitos e cenários diversos.</p>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/d9q-HkLwt44?background=1?autoplay=1" title="Treinamento Wireflex" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ---
 !!! note tip ":material-video-vintage: Apresentação PIPE Empreendedor: Empresa TECCER"
-    **Observações:** Para a realização do projeto foram utilizados roteiros e o pacote Adobe para a edição áudio/visual juntamente com a inserção de efeitos.
+    **Observações** <p style="text-align: justify;">Para a realização do projeto foram utilizados roteiros e o pacote Adobe para a edição áudio/visual juntamente com a inserção de efeitos.</p>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/LAT4mzGdrFk?background=1?autoplay=1" title="Apresentação PIPE Empreendedor: Empresa TECCER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ---
 !!! note tip ":material-video-vintage: 24º Aniversário da Comunidade Evangélica Universal"
-    **Observações:** Para a realização do projeto foram utilizados roteiros e o pacote Adobe para a edição áudio/visual juntamente com a inserção de efeitos.
+    **Observações** <p style="text-align: justify;">Para a realização do projeto foram utilizados roteiros e o pacote Adobe para a edição áudio/visual juntamente com a inserção de efeitos.</p>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/LI4QvzJth60?background=1?autoplay=1" title="24º Aniversário da Comunidade Evangélica Universal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -30,13 +30,13 @@
 
 ### **Projetos Escolares**
 !!! note tip ":material-video-vintage: Trabalho de Conclusão de Curso - SENAI"
-    **Observações:** Projeto gravado com equipamento Canon EOS 80D, fazendo a utilização de roteiros, de chroma-key e do pacote Adobe para a edição áudio/visual juntamente com a inserção de efeitos e cenários diversos.
+    **Observações** <p style="text-align: justify;">Projeto gravado com equipamento _Canon EOS 80D_, placa de áudio dedicada _Creative_, fazendo a utilização de roteiros, de _chroma-key_ e do pacote Adobe para a edição áudio/visual juntamente com a inserção de efeitos e cenários diversos.</p>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/Lh4tBYPhngE?background=1?autoplay=1" title="Trabalho de Conclusão de Curso - SENAI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ---
 !!! note tip ":material-video-vintage: Projeto de Planejamento de Infraestrutura de Redes"
-    **Observações:** Para a realização do projeto foram utilizados roteiros, o pacote Adobe para a edição áudio/visual e o software Sketchup juntamente com a inserção de efeitos.
+    **Observações** <p style="text-align: justify;">Para a realização do projeto foram utilizados roteiros, o pacote Adobe para a edição áudio/visual e o software _Sketchup_ juntamente com a inserção de efeitos.</p>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/ezZMislsSBY?background=1?autoplay=1" title="Projeto de Planejamento de Infraestrutura de Redes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -44,13 +44,13 @@
 
 ### **Projetos Festivos**
 !!! note tip ":material-video-vintage: Aniversário Enrico"
-    **Observações:** Para a realização do projeto foram utilizados roteiros e o pacote Adobe para a edição áudio/visual juntamente com a inserção de efeitos.
+    **Observações** <p style="text-align: justify;">Para a realização do projeto foram utilizados roteiros e o pacote Adobe para a edição áudio/visual juntamente com a inserção de efeitos.</p>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/aKDiZ8OO3wo?background=1?autoplay=1" title="Aniversário Enrico" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ---
 !!! note tip ":material-video-vintage: Aniversário Miriã"
-    **Observações:** Para a realização do projeto foram utilizados roteiros e o pacote Adobe para a edição áudio/visual juntamente com a inserção de efeitos.
+    **Observações** <p style="text-align: justify;">Para a realização do projeto foram utilizados roteiros e o pacote Adobe para a edição áudio/visual juntamente com a inserção de efeitos.</p>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/szoUK24mioQ?background=1?autoplay=1" title="Aniversário Miriã" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -58,7 +58,7 @@
 
 ### **Projetos Pessoais**
 !!! note tip ":material-video-vintage: Apresentação online - Senac/SJC"
-    **Observações:** Para a realização do projeto foram utilizados uma webcam C920, roteiros, *MS Office* e o pacote Adobe para a edição áudio/visual juntamente com a inserção de efeitos.
+    **Observações** <p style="text-align: justify;">Projeto gravado com equipamentos _Creative WebCam C920_, placa de áudio dedicada _Creative_, fazendo a utilização de roteiros, de _chroma-key_, *MS Office* e o do pacote Adobe para a edição áudio/visual juntamente com a inserção de efeitos e slides diversos do _MS Powerpoint_.</p>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/CY1wZuUu2FY?background=1?autoplay=1" title="Aniversário Enrico" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

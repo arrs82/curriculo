@@ -28,6 +28,7 @@
     * **Técnico de Processos**
     * **Técnico de Qualidade**
     * **Inspetor de Qualidade**
+    * **Desenhista de Projetos**
     * **Desenhista de Interiores**
     * **Ferramenteiro de Bancada**
     * **Ajustador Mecânico**
@@ -46,7 +47,7 @@
 
 === "Videomaker e Designer :material-video-vintage:"
 
-    * **Direção e Gravação de Vídeos (Equipamentos Profissionais)**
+    * **Direção e Gravação de Vídeos (Competências/Equipamentos Profissionais)**
     * **Editor de Vídeo (Edição e Efeitos Visuais)**
     * **Editor de Imagens (Edição e Tratamento)**
     * **Editor de Áudio (Edição e Tratamento)**
