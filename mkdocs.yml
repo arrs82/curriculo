@@ -33,6 +33,7 @@ nav:
                 # - Material for Mkdocs: projetos-infra/material-mkdocs.md
                 # - Linux (Comandos): projetos-infra/linux-comandos.md
                 # - Tutoriais Diversos: projetos-infra/tutoriais-diversos.md
+        - Conteúdo Pessoal: conteudo-pessoal.md
         - Sobre: sobre.md
         #- Documentos Pessoais: documentos-pessoais.md
         #- Ícones e Utilitários: icones.md
@@ -134,6 +135,7 @@ plugins:
                 enable_creation_date: true
                 fallback_to_build_date: false
                 type: timeago
+                locale: 'pt'  # Certifique-se de que este é um código de 2 letras válido
 
 # Extensions
 markdown_extensions:
