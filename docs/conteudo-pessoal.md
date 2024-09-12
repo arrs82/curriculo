@@ -4,7 +4,7 @@
 
 ## **Introdução**
 
-<p style="text-align: justify;">Conteúdo pessoal e destinado irrestritamente para o <strong>compartilhamento/download</strong> de aplicações e conteúdos de terceiros, como softwares <I>open-source</I>, cursos e/ou tutoriais diversos, fomentando assim o enriquecimento e principalmente o engajamento do meu currículo profissional para com amigos, colegas e profissionais diversos.</p>
+<p style="text-align: justify;">Conteúdo pessoal e destinado irrestritamente para o <strong>compartilhamento/download</strong> de aplicações e conteúdos de terceiros, como <I>softwares open-source</I>, cursos e/ou tutoriais diversos, fomentando assim o enriquecimento e principalmente o engajamento do meu currículo profissional para com amigos, colegas e profissionais diversos.</p>
 ---
 ## **Cursos-Downloads**
 
