@@ -299,14 +299,14 @@
     |Criar _Mockups_ Impressos e Digitais|48h|
     |Planejar Projetos Gráficos Digitais|36
     |Desenvolver Interface e Guia de Estilos Gráficos Para Mídias Digitais|60h|
-    |Desenvolver Projeto de Design Em Movimento|48h|
+    |Desenvolver Projeto de _Design_ Em Movimento|48h|
     |Criar Portfólio Digital|36h|
     |Projetos Integradores Semestrais|100h|
     |**Carga horária total**|1.000h|
 
     ### **Portfólio: Design Gráfico**
 
-    !!! note tip "Portfólio de Design e Edição de Vídeos"
+    !!! note tip "Portfólio de _Design_ e Edição de Vídeos"
         :material-clipboard-text-play-outline: Saiba e veja mais em meu [Portfólio de Criação](portfolio-criacao.md).
 
 <!-- Ícone Whatsapp. -->
