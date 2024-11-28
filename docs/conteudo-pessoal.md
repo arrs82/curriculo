@@ -6,24 +6,6 @@
 
 <p style="text-align: justify;">Conteúdo pessoal e destinado irrestritamente para o <strong>compartilhamento/download</strong> de aplicações e conteúdos de terceiros, como <I>softwares open-source</I>, cursos e/ou tutoriais diversos, fomentando assim o enriquecimento e principalmente o engajamento do meu currículo profissional para com amigos, colegas e profissionais diversos.</p>
 ---
-## **Cursos-Downloads**
-
-!!! Example ":octicons-mortar-board-16: Cursos Design Gráfico (Completos e com Qualidade)"
-
-    * **Curso Design Gráfico - Zero ao Avançado (Tamanho: 9.5 GB de espaço em disco)**
-
-        [:material-cloud-download: Download](https://brazilcus-my.sharepoint.com/personal/lojadigitalmidia_onedrive5tb_net/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Flojadigitalmidia%5Fonedrive5tb%5Fnet%2FDocuments%2FCursos%2FCursos%20Design%20Gr%C3%A1fico%2FCurso%20Design%20Gr%C3%A1fico%20%2D%209%2E5%20GB%2FCurso%20Design%20Gr%C3%A1fico%20%2D%20Zero%20ao%20Avan%C3%A7ado%2Erar){:download="Curso Design Gráfico - Zero ao Avançado"}
-
-    * **Curso Profissão Designer Gráfico (Tamanho: 39 GB de espaço em disco)**
-
-        [:material-cloud-download: Download](https://brazilcus-my.sharepoint.com/personal/lojadigitalmidia_onedrive5tb_net/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Flojadigitalmidia%5Fonedrive5tb%5Fnet%2FDocuments%2FCursos%2FCursos%20Design%20Gr%C3%A1fico%2FCurso%20Profiss%C3%A3o%20Designer%20Gr%C3%A1fico%20%2D%2039%20GB%2FCurso%20Profiss%C3%A3o%20Designer%20Gr%C3%A1fico%2Erar){:download="Curso Profissão Designer Gráfico"}
-
-    * **Curso WolfPack Design (Tamanho: 5.5 GB de espaço em disco)**
-
-        [:material-cloud-download: Download](https://brazilcus-my.sharepoint.com/personal/lojadigitalmidia_onedrive5tb_net/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Flojadigitalmidia%5Fonedrive5tb%5Fnet%2FDocuments%2FCursos%2FCursos%20Design%20Gr%C3%A1fico%2FCurso%20WolfPack%20Design%20%2D%205%2E5%20GB%2FCurso%20WolfPack%20Design%2Erar){:download="Curso WolfPack Design"}
-    ---
-    * **Observação:** Senha para a extração dos conteúdos, basta contatar-me em meu Whatsapp: <a href="https://wa.me/12988678750" target="_blank">(12) 98867-8750</a>
-
 <!-- Ícone Whatsapp. -->
 <!DOCTYPE html>
 <html lang="pt-br">

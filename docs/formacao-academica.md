@@ -122,11 +122,11 @@
     !!! note tip "Trabalho de Conclusão de Curso - Centro Universitário ETEP"
         **TCC:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/TCC-ARRS-ADM.pdf){:download="TCC-ARRS-ADM.pdf"}
 
-=== "Técnico em Redes de Computadores :fontawesome-solid-user-graduate:"
+=== "Redes de Computadores :fontawesome-solid-user-graduate:"
     ## **Redes de Computadores**
     > :material-book-education-outline: Início: 01/2018 :fontawesome-solid-flag-checkered: Conclusão: 12/2019
 
-    ![SENAI](assets/images/senai-logo.png){width="75%"}
+    ![SENAI](assets/images/senai-logo.png){width="76%"}
 
     [https://sp.senai.br/unidade/saojosedoscampos](https://sp.senai.br/unidade/saojosedoscampos/){:target="_blank"}
 
@@ -182,7 +182,7 @@
     <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/Lh4tBYPhngE?background=1?autoplay=1" title="Trabalho de Conclusão de Curso - SENAI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
-=== "Técnico em Mecânica :fontawesome-solid-user-graduate:"
+=== "Mecânica :fontawesome-solid-user-graduate:"
 
     ## **Mecânica**
     > :material-book-education-outline: Início: 01/2000 :fontawesome-solid-flag-checkered: Conclusão: 12/2001
@@ -249,6 +249,65 @@
     |Tecnologia e Meio Ambiente|40h|
     |Tecnologia Mecânica|120h|
     |**Carga horária total**|**1.600h**|
+
+=== "Design Gráfico :fontawesome-solid-user-graduate:"
+    ## **Design Gráfico**
+    > :material-book-education-outline: Início: 06/2024 :fontawesome-solid-flag-checkered: Conclusão Prevista: 06/2026
+
+    ![SENAC](assets/images/senac-logo.png){width="22%"}
+
+    [https://www.sp.senac.br/senac-sao-jose-dos-campos](https://www.sp.senac.br/senac-sao-jose-dos-campos){:target="_blank"}
+
+    **Declaração de matrícula de curso técnico:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/DECLARACAO-MATRICULA-SENAC.pdf){:download="DECLARACAO-MATRICULA-SENAC.pdf"}
+
+    ---
+    ### **Introdução: Design Gráfico**
+
+    **Curso técnico presencial - Duração: 2 anos**
+    <p style="text-align: justify;">Em curso/formação como **Técnico em _Design Gráfico_** pela escola SENAC SJC com sólidos conhecimentos vivenciados em ambiente acadêmico relacionados a:
+
+    * Fundamentos do _design gráfico_ e seus principais movimentos artísticos;
+    * Planejar projetos e produções gráficas;
+    * Criar protótipos _(mockups)_ impressos e digitais;
+    * Diagramar livros e revistas para mídia digital ou impressa;
+    * Editar imagens, ilustrações vetoriais e infográficos;
+    * Projetar embalagens em papel cartão para diferentes finalidades e produtos;
+    * Criar _layout_ e configurar impressão de materiais para pontos de venda;
+    * Realizar projetos gráficos para expografia de locais como museus;
+    * Desenvolver interface e guia de estilos gráficos para mídias digitais;
+    * Criar manual de identidade visual para empresas;
+    * Desenvolver animações, usando conceitos de _motion graphics_ e _softwares_ para vídeos;
+    * Utilizar _softwares_ vetoriais e de imagens do pacote _Adobe_, além de _CorelDRAW_;
+    * Criar portfólio digital, curadoria e plataforma para a apresentação de trabalhos.</p>
+
+    ### **Disciplinas: Design Gráfico**
+
+    |Disciplinas em curso|Carga horária|
+    |---|:---:|
+    |Planejar Projetos Gráficos Impressos|48h|
+    |Compor e Tratar Imagens Digitais|48h|
+    |Desenvolver Ilustrações Vetoriais|48h|
+    |Planejar Produção Gráfica|36h|
+    |Diagramar Livros Impressos e _E-books_|72h|
+    |Diagramar Revistas Impressa e Digital|72h|
+    |Produzir Infográfico|36h|
+    |Criar Identidade Visual|72h|
+    |Desenvolver Manual de Identidade Visual|60h|
+    |Desenvolver Projeto Gráfico Para Expografia|48h|
+    |Criar Embalagens Cartotécnicas|72h|
+    |Desenvolver Materiais de Ponto de Venda|60h|
+    |Criar _Mockups_ Impressos e Digitais|48h|
+    |Planejar Projetos Gráficos Digitais|36
+    |Desenvolver Interface e Guia de Estilos Gráficos Para Mídias Digitais|60h|
+    |Desenvolver Projeto de Design Em Movimento|48h|
+    |Criar Portfólio Digital|36h|
+    |Projetos Integradores Semestrais|100h|
+    |**Carga horária total**|1.000h|
+
+    ### **Portfólio: Design Gráfico**
+
+    !!! note tip "Portfólio de Design e Edição de Vídeos"
+        :material-clipboard-text-play-outline: Saiba e veja mais em meu [Portfólio de Criação](portfolio-criacao.md).
 
 <!-- Ícone Whatsapp. -->
 <!DOCTYPE html>
