@@ -252,7 +252,7 @@
 
 === "Design Gráfico :fontawesome-solid-user-graduate:"
     ## **Design Gráfico**
-    > :material-book-education-outline: Início: 06/2024 :fontawesome-solid-flag-checkered: Conclusão Prevista: 06/2026
+    > :material-book-education-outline: Início: 06/2024 :fontawesome-solid-flag-checkered: Conclusão Prevista: 12/2025
 
     ![SENAC](assets/images/senac-logo.png){width="22%"}
 
@@ -263,8 +263,8 @@
     ---
     ### **Introdução: Design Gráfico**
 
-    **Curso técnico presencial - Duração: 2 anos**
-    <p style="text-align: justify;">Em curso/formação como **Técnico em _Design Gráfico_** pela escola SENAC SJC com sólidos conhecimentos vivenciados em ambiente acadêmico relacionados a:
+    **Curso técnico presencial - Duração: 1,5 anos**
+    <p style="text-align: justify;">Em curso/formação como **Técnico em _Design Gráfico_** pela escola SENAC-SJC com sólidos conhecimentos vivenciados em ambiente acadêmico relacionados a:
 
     * Fundamentos do _design gráfico_ e seus principais movimentos artísticos;
     * Planejar projetos e produções gráficas;
