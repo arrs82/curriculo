@@ -46,7 +46,7 @@ theme:
         icon:
                 logo: fontawesome/solid/user-tie
         logo: assets/images/logo-curriculo.png
-        favicon: assets/images/favicons/favicon.png
+        favicon: assets/images/favicons/favicon.ico
         features:
                 - announce.dismiss
                 # - content.action.edit
