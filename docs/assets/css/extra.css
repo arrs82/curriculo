@@ -130,27 +130,18 @@ h2 {
   }
 }
 
+/* Garante que o cabeçalho fique fixo no topo */
+.md-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1100;
+  background-color: var(--md-primary-fg-color); /* Ajusta a cor conforme o tema */
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra para destaque */
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* Previne sobreposição do conteúdo pelo cabeçalho */
+.md-main {
+  padding-top: 64px; /* Ajuste conforme a altura do cabeçalho */
+}

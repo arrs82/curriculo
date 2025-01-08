@@ -12,7 +12,7 @@ site_description: >-
 #edit_uri_template: 'blob/main/docs/{path}'
 
 # Copyright
-copyright: © 2024 Curriculo Profissional - Todos os direitos reservados e que Deus seja sempre louvado!
+copyright: © 2025 Curriculo Profissional - Alessandro Roberto dos Reis Santos
 
 # Page tree
 nav:
@@ -55,7 +55,7 @@ theme:
                 - content.code.copy
                 - content.tabs.link
                 - content.tooltips
-                # - header.autohide
+                # - header.autohide # Faz o cabeçalho superior se esconder ao rolar
                 # - navigation.expand
                 - navigation.footer
                 # - navigation.indexes
@@ -63,7 +63,7 @@ theme:
                 # - navigation.prune
                 - navigation.sections
                 # - navigation.tabs
-                # - navigation.tabs.sticky
+                - navigation.tabs.sticky # Congela as abas de navegação
                 - navigation.top
                 - navigation.tracking
                 - search.highlight
