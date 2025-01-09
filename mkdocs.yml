@@ -37,7 +37,7 @@ nav:
         - Sobre: sobre.md
         #- Documentos Pessoais: documentos-pessoais.md
         #- Ícones e Utilitários: icones.md
-
+        
 # Configuration
 theme:
         name: material
@@ -138,21 +138,21 @@ plugins:
                 type: timeago
                 locale: 'pt'  # Certifique-se de que este é um código de 2 letras válido
         #- glightbox:
-                touchNavigation: false
-                loop: false
-                effect: zoom
-                slide_effect: slide
-                width: 100%
-                height: auto
-                zoomable: false
-                draggable: false
-                skip_classes:
-                        - custom-skip-class-name
-                auto_caption: false
-                caption_position: bottom
-                background: white
-                shadow: false
-                manual: false
+                #touchNavigation: false
+                #loop: false
+                #effect: zoom
+                #slide_effect: slide
+                #width: 100%
+                #height: auto
+                #zoomable: false
+                #draggable: false
+                #skip_classes:
+                        #- custom-skip-class-name
+                #auto_caption: false
+                #caption_position: bottom
+                #background: white
+                #shadow: false
+                #manual: false
                
 # Extensions
 markdown_extensions:
