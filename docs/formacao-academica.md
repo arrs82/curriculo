@@ -2,22 +2,24 @@
 
 <!DOCTYPE html><html lang="pt-BR"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><style>.circle-mask{position:relative;width:350px;height:350px;overflow:hidden;display:flex;justify-content:center;align-items:center;margin-bottom:-80px;margin-top:-20px}.satelite{position:absolute;width:305px;height:305px;background-image:url(../assets/images/lupa.png);background-size:cover;border-radius:50%;animation:orbitSatelite 2s linear infinite;transform-origin:center center;animation-play-state:paused;top:35%;left:32%;transform:translate(-50%,-50%) rotate(90deg) translateX(50px) translateY(30%) rotate(-90deg);transition:transform 0.3s ease}.circle-mask:hover .satelite{animation-play-state:running}@keyframes orbitSatelite{0%{transform:translate(-50%,-50%) rotate(28deg) translateX(13px) translateY(9%) rotate(-34deg)}100%{transform:translate(-50%,-50%) rotate(388deg) translateX(13px) translateY(9%) rotate(-394deg)}}.circle-mask img{width:70%;height:70%;object-fit:cover;cursor:pointer}.circle-mask:hover img{transform:scale(1.1)}.apresentacao{position:absolute;width:255px;height:331px;background-image:url(../assets/images/formacao-academica.png);background-size:cover;top:38%;left:29%;transform:translate(-50%,-50%);transition:transform 0.5s ease;z-index:-1}.circle-mask:hover .apresentacao{transform:translate(17%,-50%)}</style></head><body><div class="circle-mask"><img src="../assets/images/curriculo.png" alt="curriculo" style="transform: translateY(-21%) translateX(-27%);"><div class="satelite"></div><div class="apresentacao"></div></div></body></html>
 
-=== "Administração de Empresas :fontawesome-solid-user-graduate:"
-    ## **Administração de Empresas**
+## **Introdução**
+
+<p style="text-align: justify;">Curso superior e todos os cursos técnicos destacados abaixo, estes cursados ao longo de minha carreira profissional, detém em cada um deles um PDF que são os respectivos diploma e certificados de conclusão para a realização do download e posteriores análises e apreciação.</p>
+
+## **Curso Superior**
+
+??? Success ":fontawesome-solid-user-graduate: Administração de Empresas"
     > :material-book-education-outline: Início: 01/2013 :fontawesome-solid-flag-checkered: Conclusão: 02/2019
-
-    ![ETEP](assets/images/etep-faculdade.png){width="30%"}
-    ---
-
+    
+    ![ETEP](assets/images/etep-faculdade.png){width="30%"}![Formando](assets/images/alessandro/formando.png){width="12%"}
+    
     [https://etep.edu.br](https://etep.edu.br/){:target="_blank"}
-
+   
     **Diploma de curso superior:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/DIPLOMA-GRADUACAO-ARRS.pdf){:download="DIPLOMA-GRADUACAO-ARRS.pdf"}
-
-    ---
-    ### **Introdução: Administração**
-
-    **Curso superior presencial (Bacharel) - Duração: 4 anos**
-    <p style="text-align: justify;">Formado em **Administração de Empresas** pelo Centro Universitário ETEP com sólidos conhecimentos vivenciados em ambiente acadêmico relacionados a:
+    
+    ---   
+    <p style="text-align: center;">**Curso superior presencial (Bacharel) - Duração: 4 anos**</p>
+    <p style="text-align: justify;">Formado em **Administração de Empresas** pelo Centro Universitário ETEP com sólidos conhecimentos vivenciados em ambiente acadêmico relacionados às competências:
 
     *  Administração e Gerenciamento de Operações e Processos;
     *  Gestão e Gerenciamento de Projetos;
@@ -44,9 +46,9 @@
     *  FMEA;
     *  PPCP;
     *  ISO 9000 e ISO 14000 (Auditoria Interna);
-    *  ME2 (monitoramento, avaliação e controle).</p>
-
-    ### **Disciplinas: Administração**
+    *  ME2 (monitoramento, avaliação e controle).
+    ---
+    <div style="text-align: center;">**Disciplinas / Carga Horária**
 
     |Disciplinas cursadas e concluídas|Carga horária|
     |---|:---:|
@@ -114,29 +116,36 @@
     |Tópicos Especiais em Administração|50h|
     |Trabalho de Conclusão de Curso|200h|
     |**Carga horária total**|**4.050h**|
+        
+    ---
+    **Trabalho de Conclusão de Curso**
+    
+    Plano de Negócio da Empresa Innovare Movelaria
 
-    ### **TCC: Administração**
+    [:fontawesome-regular-file-pdf: Download](documentos/pdf/TCC-ARRS-ADM.pdf){:download="TCC-ARRS-ADM.pdf"}</div>
+   
+    ---
+    <div style="text-align: center;">**Experiências Profissionais - Administrativo**  
 
-    **Tema: Plano de Negócio da Empresa Innovare Movelaria**
+    <div style="text-align: justify;">
+    
+    * Experiência profissional relevante nº 1 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#fundhas) e saiba mais.
+    * Experiência profissional relevante n° 2 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#pmsjc_1) e saiba mais.
+    
+## **Cursos Técnicos**
 
-    !!! note tip "Trabalho de Conclusão de Curso - Centro Universitário ETEP"
-        **TCC:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/TCC-ARRS-ADM.pdf){:download="TCC-ARRS-ADM.pdf"}
-
-=== "Redes de Computadores :fontawesome-solid-user-graduate:"
-    ## **Redes de Computadores**
+??? Success ":fontawesome-solid-user-graduate: Redes de Computadores"
     > :material-book-education-outline: Início: 01/2018 :fontawesome-solid-flag-checkered: Conclusão: 12/2019
 
-    ![SENAI](assets/images/senai-logo.png){width="76%"}
+    ![SENAI](assets/images/senai-logo.png){width="76%"}![Formando](assets/images/alessandro/formando.png){width="12%"}
 
     [https://sp.senai.br/unidade/saojosedoscampos](https://sp.senai.br/unidade/saojosedoscampos/){:target="_blank"}
 
     **Certificado de curso técnico:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/CERTIFICADO-TECNICO-TI.pdf){:download="CERTIFICADO-TECNICO-TI.pdf"}
-
+    
     ---
-    ### **Introdução: Redes**
-
-    **Curso técnico presencial - Duração: 2 anos**
-    <p style="text-align: justify;">Formado como **Técnico em Redes de Computadores** pela escola SENAI "Santos Dumont" com sólidos conhecimentos vivenciados em ambiente acadêmico relacionados a:
+    <p style="text-align: center;">**Curso técnico presencial - Duração: 2 anos**</p>
+    <p style="text-align: justify;">Formado como **Técnico em Redes de Computadores** pela escola SENAI "Santos Dumont" com sólidos conhecimentos vivenciados em ambiente acadêmico relacionados às competências:
 
     * Servidores (_Windows Server AD;_ _Linux; NAS_ e _Firewall_ customizado);
     * _Virtual Machines_ (_Proxmox; Xenserver; VirtualBox; HyperV_);
@@ -148,8 +157,8 @@
     * Pacote _Office 365 (Full)_;
     * Pacote _Adobe (Full)_;
     * _DevOps (Markdown - HTML - CSS - JS - Git_).
-
-    ### **Disciplinas: Redes**
+    ---
+    <div style="text-align: center;">**Disciplinas / Carga Horária**
 
     |Disciplinas cursadas e concluídas|Carga horária|
     |---|:---:|
@@ -171,33 +180,36 @@
     |Sistemas Computacionais|150h|
     |**Carga horária total**|**1.500h**|
 
-    ### **TCC: Redes**
+    ---
+    **Trabalho de Conclusão de Curso**
 
-    **Tema: Implementação de um Ambiente Seguro em Redes de Compoutadores**
+    Implementação de um Ambiente Seguro em Redes de Compoutadores
 
-    !!! note tip "Trabalho de Conclusão de Curso - Escola SENAI "Santos Dumont""
-        **TCC:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/TCC-ARRS-TI.pdf){:download="TCC-ARRS-TI.pdf"}
+    [:fontawesome-regular-file-pdf: Download](documentos/pdf/TCC-ARRS-TI.pdf){:download="TCC-ARRS-TI.pdf"}
 
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/Lh4tBYPhngE?background=1?autoplay=1" title="Trabalho de Conclusão de Curso - SENAI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
+    ---
+    **Experiências Profissionais - TI**  
 
-=== "Mecânica :fontawesome-solid-user-graduate:"
+    <div style="text-align: justify;">
+    
+    * Experiência profissional relevante nº 1 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#grupo-card) e saiba mais.
+    * Experiência profissional relevante n° 2 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#pmsjc) e saiba mais.
 
-    ## **Mecânica**
+??? Success ":fontawesome-solid-user-graduate: Mecânica"
     > :material-book-education-outline: Início: 01/2000 :fontawesome-solid-flag-checkered: Conclusão: 12/2001
 
-    ![CEPHAS](assets/images/cephas-logo.png){width="28%"}
+    ![CEPHAS](assets/images/cephas-logo.png){width="28%"}![Formando](assets/images/alessandro/formando.png){width="12%"}
 
     [https://cephas.org.br](https://cephas.org.br/){:target="_blank"}
 
     **Certificado de curso técnico:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/CERTIFICADO-TECNICO-MEC.pdf){:download="CERTIFICADO-TECNICO-MEC.pdf"}
-
+    
     ---
-    ### **Introdução: Mecânica**
-
-    **Curso técnico presencial - Duração: 2 anos**
-    <p style="text-align: justify;">Formado como **Técnico em Mecânica** pela escola CEPHAS - Colégio de Educação Profissional "Hélio Augusto de Souza"  com sólidos conhecimentos vivenciados em ambiente acadêmico relacionados a:
+    <p style="text-align: center;">**Curso técnico presencial - Duração: 2 anos**</p>
+    <p style="text-align: justify;">Formado como **Técnico em Mecânica** pela escola CEPHAS - Colégio de Educação Profissional "Hélio Augusto de Souza"  com sólidos conhecimentos vivenciados em ambiente acadêmico relacionados às competências:
 
     * Planejamento e Controle de Produção;
     * Métodos e Processos;
@@ -222,8 +234,8 @@
     * ME2 (Monitoramento, avaliação e controle);
     * Metrologia (Utilização, manejo e  manutenção de instrumentos precisos de medição);
     * Leitura e interpretação de desenhos técnico em geral.
-
-    ### **Disciplinas: Mecânica**
+    ---
+    <div style="text-align: center;">**Disciplinas / Carga Horária**
 
     |Disciplinas cursadas e concluídas|Carga horária|
     |---|:---:|
@@ -249,22 +261,28 @@
     |Tecnologia e Meio Ambiente|40h|
     |Tecnologia Mecânica|120h|
     |**Carga horária total**|**1.600h**|
+    
+    ---
+    **Experiências Profissionais - Industrial**  
 
-=== "Design Gráfico :fontawesome-solid-user-graduate:"
-    ## **Design Gráfico**
+    <div style="text-align: justify;">
+    
+    * Experiência profissional relevante nº 1 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#general-motors) e saiba mais.
+    * Experiência profissional relevante n° 2 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#magnaghi-friuli-aerospace) e saiba mais.
+    * Experiência profissional relevante n° 3 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#precitech-inova) e saiba mais.
+
+??? Success ":fontawesome-solid-user-graduate: Design Gráfico"
     > :material-book-education-outline: Início: 06/2024 :fontawesome-solid-flag-checkered: Conclusão Prevista: 12/2025
 
-    ![SENAC](assets/images/senac-logo.png){width="22%"}
+    ![SENAC](assets/images/senac-logo.png){width="22%"}![Formando](assets/images/alessandro/formando.png){width="12%"}
 
     [https://www.sp.senac.br/senac-sao-jose-dos-campos](https://www.sp.senac.br/senac-sao-jose-dos-campos){:target="_blank"}
 
     **Declaração de matrícula de curso técnico:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/DECLARACAO-MATRICULA-SENAC.pdf){:download="DECLARACAO-MATRICULA-SENAC.pdf"}
 
     ---
-    ### **Introdução: Design Gráfico**
-
-    **Curso técnico presencial - Duração: 1,5 anos**
-    <p style="text-align: justify;">Em curso/formação como **Técnico em _Design Gráfico_** pela escola SENAC-SJC com sólidos conhecimentos vivenciados em ambiente acadêmico relacionados a:
+    <p style="text-align: center;">**Curso técnico presencial - Duração: 1,5 anos**</p>
+    <p style="text-align: justify;">Em curso/formação como **Técnico em _Design Gráfico_** pela escola SENAC-SJC com sólidos conhecimentos vivenciados em ambiente acadêmico relacionados às competências:
 
     * Fundamentos do _design gráfico_ e seus principais movimentos artísticos;
     * Planejar projetos e produções gráficas;
@@ -279,8 +297,8 @@
     * Desenvolver animações, usando conceitos de _motion graphics_ e _softwares_ para vídeos;
     * Utilizar _softwares_ vetoriais e de imagens do pacote _Adobe_, além de _CorelDRAW_;
     * Criar portfólio digital, curadoria e plataforma para a apresentação de trabalhos.</p>
-
-    ### **Disciplinas: Design Gráfico**
+    ---
+    <div style="text-align: center;">**Disciplinas / Carga Horária**
 
     |Disciplinas em curso|Carga horária|
     |---|:---:|
@@ -304,10 +322,11 @@
     |Projetos Integradores Semestrais|100h|
     |**Carga horária total**|1.000h|
 
-    ### **Portfólio: Design Gráfico**
+    ---
+    **Experiências Profissionais / Portfólio Pessoal**
+    <div style="text-align: justify;">
 
-    !!! note tip "Portfólio de _Design_ e Edição de Vídeos"
-        :material-clipboard-text-play-outline: Saiba e veja mais em meu [Portfólio de Criação](portfolio-criacao.md).
+    * Experiências profissionais relevantes :material-arrow-right-bold: [Portfólio de Criação](portfolio-criacao.md).
 
 <!-- Ícone Whatsapp. -->
 <!DOCTYPE html>

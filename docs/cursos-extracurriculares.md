@@ -6,7 +6,7 @@
 
 <p style="text-align: justify;">Todos os cursos profissionalizantes e de especialização destacados abaixo, estes cursados ao longo de minha carreira profissional, detém em cada um deles um PDF que são os respectivos certificados de conclusão para a realização do download e posteriores análises e apreciação.</p>
 
-### **Cursos Extracurriculares**
+## **Cursos Profissionalizantes**
 
 ??? Success ":octicons-mortar-board-16: Curso SENAI - Ajustador Mecânico"
 
