@@ -3,72 +3,74 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>404 Página não Encontrada</title>
+    <title>404 - Página Não Encontrada</title>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
+        /*======================
+        404 page
+        =======================*/
+        .page_404 {
+            padding: 40px 0;
+            background: #fff;
+            font-family: 'Arvo', serif;
         }
 
-        body {
-            font-family: 'PT Sans', sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: #f8f8f8;
-        }
-
-        .error-container {
-            text-align: center;
-            background-color: #fff;
-            padding: 40px;
-            border-radius: 10px;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        .page_404 img {
             width: 100%;
-            max-width: 600px;
         }
 
-        .error-container h1 {
-            font-size: 150px;
-            font-weight: bold;
-            color: #ff6f61;
+        .four_zero_four_bg {
+            background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
+            height: 400px;
+            background-position: center;
         }
 
-        .error-container h2 {
-            font-size: 24px;
-            color: #333;
-            margin: 10px 0;
+        .four_zero_four_bg h1 {
+            font-size: 80px;
         }
 
-        .error-container p {
-            color: #777;
-            font-size: 16px;
-            margin-bottom: 20px;
+        .four_zero_four_bg h3 {
+            font-size: 80px;
         }
 
-        .error-container a {
-            text-decoration: none;
-            color: #fff;
-            background-color: #ff6f61;
+        .link_404 {
+            color: #fff!important;
             padding: 10px 20px;
-            border-radius: 5px;
-            font-weight: bold;
+            background: #39ac31;
+            margin: 20px 0;
+            display: inline-block;
         }
 
-        .error-container a:hover {
-            background-color: #ff3d2e;
+        .contant_box_404 {
+            margin-top: -50px;
         }
     </style>
 </head>
 <body>
-    <div class="error-container">
-        <h1>404</h1>
-        <h2>Ops! Página não encontrada</h2>
-        <p>A página que você está procurando não existe.</p>
-        <a href="/">Voltar para a Página Inicial</a>
-    </div>
+    <section class="page_404">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 ">
+                    <div class="col-sm-10 col-sm-offset-1 text-center">
+                        <div class="four_zero_four_bg">
+                            <h1 class="text-center">404</h1>
+                        </div>
+
+                        <div class="contant_box_404">
+                            <h3 class="h2">
+                                Look like you're lost
+                            </h3>
+
+                            <p>The page you are looking for is not available!</p>
+
+                            <a href="/" class="link_404">Go to Home</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 </body>
 </html>
+
+
 
