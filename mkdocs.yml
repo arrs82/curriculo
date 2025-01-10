@@ -37,7 +37,7 @@ nav:
         - Sobre: sobre.md
         #- Documentos Pessoais: documentos-pessoais.md
         #- Ícones e Utilitários: icones.md
-        
+
 # Configuration
 theme:
         name: material
@@ -137,7 +137,7 @@ plugins:
                 fallback_to_build_date: false
                 type: timeago
                 locale: 'pt'  # Certifique-se de que este é um código de 2 letras válido
-                    
+
 # Extensions
 markdown_extensions:
         - abbr

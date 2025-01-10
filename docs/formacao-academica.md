@@ -10,14 +10,14 @@
 
 ??? Success ":fontawesome-solid-user-graduate: Administração de Empresas"
     > :material-book-education-outline: Início: 01/2013 :fontawesome-solid-flag-checkered: Conclusão: 02/2019
-    
+
     ![ETEP](assets/images/etep-faculdade.png){width="30%"}![Formando](assets/images/alessandro/formando.png){width="12%"}
-    
+
     [https://etep.edu.br](https://etep.edu.br/){:target="_blank"}
-   
+
     **Diploma de curso superior:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/DIPLOMA-GRADUACAO-ARRS.pdf){:download="DIPLOMA-GRADUACAO-ARRS.pdf"}
-    
-    ---   
+
+    ---
     <p style="text-align: center;">**Curso superior presencial (Bacharel) - Duração: 4 anos**</p>
     <p style="text-align: justify;">Formado em **Administração de Empresas** pelo Centro Universitário ETEP com sólidos conhecimentos vivenciados em ambiente acadêmico relacionados às competências:
 
@@ -116,22 +116,22 @@
     |Tópicos Especiais em Administração|50h|
     |Trabalho de Conclusão de Curso|200h|
     |**Carga horária total**|**4.050h**|
-        
+
     ---
     **Trabalho de Conclusão de Curso**
-    
+
     Plano de Negócio da Empresa Innovare Movelaria
 
     [:fontawesome-regular-file-pdf: Download](documentos/pdf/TCC-ARRS-ADM.pdf){:download="TCC-ARRS-ADM.pdf"}</div>
-   
+
     ---
-    <div style="text-align: center;">**Experiências Profissionais - Administrativo**  
+    <div style="text-align: center;">**Experiências Profissionais - Administrativo**
 
     <div style="text-align: justify;">
-    
+
     * Experiência profissional relevante nº 1 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#fundhas) e saiba mais.
     * Experiência profissional relevante n° 2 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#pmsjc_1) e saiba mais.
-    
+
 ## **Cursos Técnicos**
 
 ??? Success ":fontawesome-solid-user-graduate: Redes de Computadores"
@@ -142,7 +142,7 @@
     [https://sp.senai.br/unidade/saojosedoscampos](https://sp.senai.br/unidade/saojosedoscampos/){:target="_blank"}
 
     **Certificado de curso técnico:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/CERTIFICADO-TECNICO-TI.pdf){:download="CERTIFICADO-TECNICO-TI.pdf"}
-    
+
     ---
     <p style="text-align: center;">**Curso técnico presencial - Duração: 2 anos**</p>
     <p style="text-align: justify;">Formado como **Técnico em Redes de Computadores** pela escola SENAI "Santos Dumont" com sólidos conhecimentos vivenciados em ambiente acadêmico relacionados às competências:
@@ -191,10 +191,10 @@
     <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/Lh4tBYPhngE?background=1?autoplay=1" title="Trabalho de Conclusão de Curso - SENAI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     ---
-    **Experiências Profissionais - TI**  
+    **Experiências Profissionais - TI**
 
     <div style="text-align: justify;">
-    
+
     * Experiência profissional relevante nº 1 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#grupo-card) e saiba mais.
     * Experiência profissional relevante n° 2 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#pmsjc) e saiba mais.
 
@@ -206,7 +206,7 @@
     [https://cephas.org.br](https://cephas.org.br/){:target="_blank"}
 
     **Certificado de curso técnico:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/CERTIFICADO-TECNICO-MEC.pdf){:download="CERTIFICADO-TECNICO-MEC.pdf"}
-    
+
     ---
     <p style="text-align: center;">**Curso técnico presencial - Duração: 2 anos**</p>
     <p style="text-align: justify;">Formado como **Técnico em Mecânica** pela escola CEPHAS - Colégio de Educação Profissional "Hélio Augusto de Souza"  com sólidos conhecimentos vivenciados em ambiente acadêmico relacionados às competências:
@@ -261,12 +261,12 @@
     |Tecnologia e Meio Ambiente|40h|
     |Tecnologia Mecânica|120h|
     |**Carga horária total**|**1.600h**|
-    
+
     ---
-    **Experiências Profissionais - Industrial**  
+    **Experiências Profissionais - Industrial**
 
     <div style="text-align: justify;">
-    
+
     * Experiência profissional relevante nº 1 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#general-motors) e saiba mais.
     * Experiência profissional relevante n° 2 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#magnaghi-friuli-aerospace) e saiba mais.
     * Experiência profissional relevante n° 3 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#precitech-inova) e saiba mais.
