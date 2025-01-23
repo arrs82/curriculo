@@ -38,16 +38,6 @@
 |:simple-android: Android|:x:|:white_check_mark:|:x:|
 |:simple-apple: iOS|:x:|:white_check_mark:|:x:|
 |:simple-ubiquiti: Ubiquiti|:x:|:x:|:white_check_mark:|
-|:simple-adobecreativecloud: Pacote Adobe|:x:|:white_check_mark:|:x:|
-|:simple-adobeaftereffects: After Efeccts|:x:|:white_check_mark:|:x:|
-|:simple-adobepremierepro: Premiere|:x:|:x:|:white_check_mark:|
-|:simple-adobeaudition: Audition|:x:|:white_check_mark:|:x:|
-|:simple-adobephotoshop: Photoshop|:x:|:x:|:white_check_mark:|
-|:simple-adobelightroom: Lightroom|:x:|:white_check_mark:|:x:|
-|:simple-adobeillustrator: Illustrator|:x:|:white_check_mark:|:x:|
-|:simple-adobeindesign: inDesign|:x:|:white_check_mark:|:x:|
-|:simple-adobedreamweaver: Dreamweaver|:white_check_mark:|:x:|:x:|
-|:simple-adobeacrobatreader: Acrobat|:x:|:x:|:white_check_mark:|
 
 !!! Quote "Confúcio"
     _"O que sabemos, saber que o sabemos. Aquilo que não sabemos, saber que não o sabemos: eis o verdadeiro saber."_
