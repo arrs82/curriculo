@@ -42,8 +42,6 @@
     <div class="text-right">
         Seminário **"Motivando Todos para os Novos Desafios"** na cidade de São José dos Campos - SP na data do dia **28 de Maio de 2011**.
     </div>
-</div>
-
 
 <!-- Ícone Whatsapp. -->
 <!DOCTYPE html>
