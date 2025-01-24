@@ -35,9 +35,9 @@
 
     ---
     <div class="image-with-text">
-    <img src="/assets/images/eu-ar.png" 
-         alt="Eu e o Alfredo Rocha" 
-         class="custom-image" 
+    <img src="/assets/images/eu-ar.png"
+         alt="Eu e o Alfredo Rocha"
+         class="custom-image"
          title="Alessandro e Alfredo Rocha - 28/05/2011">
     <div class="text-right">
         Seminário **"Motivando Todos para os Novos Desafios"** na cidade de São José dos Campos - SP na data do dia **28 de Maio de 2011**.
