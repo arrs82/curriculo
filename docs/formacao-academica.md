@@ -6,12 +6,12 @@
 
 <p style="text-align: justify;">Curso superior e todos os cursos técnicos destacados abaixo, estes cursados ao longo de minha carreira profissional, detém em cada um deles um PDF que são os respectivos diploma e certificados de conclusão para a realização do download e posteriores análises e apreciação.</p>
 
-## **Curso Superior**
+## **Cursos Superiores**
 
 ??? Success ":fontawesome-solid-user-graduate: Administração de Empresas"
     > :material-book-education-outline: Início: 01/2013 :fontawesome-solid-flag-checkered: Conclusão: 02/2019
 
-    ![ETEP](assets/images/etep-faculdade.png){width="30%"}![Formando](assets/images/alessandro/formando.png){width="12%"}
+    ![ETEP](assets/images/etep-faculdade.png){width="30%"}![Formando](assets/images/alessandro/formando.png){width="15%"}
 
     [https://etep.edu.br](https://etep.edu.br/){:target="_blank"}
 
@@ -132,12 +132,91 @@
     * Experiência profissional relevante nº 1 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#fundhas) e saiba mais.
     * Experiência profissional relevante n° 2 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#pmsjc_1) e saiba mais.
 
+??? Success ":fontawesome-solid-user-graduate: Análise e Desenvolvimento de Sistemas"
+    > :material-book-education-outline: Início: 02/2025 :fontawesome-solid-flag-checkered: Conclusão Prevista: 02/2028
+
+    ![IFSP](assets/images/ifsp-logo.png){width="18%"}![Formando](assets/images/alessandro/formando.png){width="15%"}
+
+    [https://jcr.ifsp.edu.br](https://jcr.ifsp.edu.br/){:target="_blank"}
+
+    **Declaração de matrícula de curso superior:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/){:download="DECLARACAO-MATRICULA-IFSP.pdf"}
+
+    ---
+    <p style="text-align: center;">**Curso superior presencial (Tecnólogo) - Duração: 3 anos**</p>
+    <p style="text-align: justify;">Em curso/formação como **Análise e Desenvolvimeno de Sistemas** pela escola IFSP-Jacareí com sólidos conhecimentos vivenciados em ambiente acadêmico relacionados às competências:
+
+    * Administração de banco de dados;
+    * Desenvolvimento de sistemas;
+    * Administração de redes e infraestruturas de TI;
+    * DevOps;
+    * Desenvolvimento mobile;
+    * Engenharia de sistemas;
+    * Pesquisa e inovação tecnológica em geral.</p>
+    ---
+    <div style="text-align: center;">**Disciplinas / Carga Horária**
+
+    |Disciplinas em curso|Carga horária|
+    |---|:---:|
+    |Construção e Interpretação de Algorítmos|66,7h|
+    |Introdução à Programação|66,7h|
+    |Fundamentos de Matemática para Computação|66,7h|
+    |Arquitetura de Computadores|33,3h|
+    |Língua Inglesa|33,3h|
+    |Comunicação e Expressão|33,3h|
+    |Programação Orientada a Objetos|66,7h|
+    |Algorítmos e Estruturas de Dados|66,7h|
+    |Tópicos Avançados de Matemática para Computação|66,7h|
+    |Sistemas Operacionais|66,7h|
+    |Engenharia de Software 1|66,7h|
+    |Desenvolvimento Web 1|66,7h|
+    |Redes de Computadores|66,7h|
+    |Estatística e Probabilidade|66,7h|
+    |Banco de Dados 1|66,7h|
+    |Engenharia de Software 2|66,7h|
+    |Desenvolvimento Web 2|66,7h|
+    |Programação Paralela e Distribuída|66,7h|
+    |Inteligência Computacional|66,7h|
+    |Banco de Dados 2|66,7h|
+    |Interação Humano-Computador|33,3h|
+    |Metodologia de Pesquisa Científica e Tecnológica|33,3h|
+    |Programação para Dispositivos Móveis|66,7h|
+    |Administração e Sistemas de Informação|33,3h|
+    |Gestão de Projetos|33,3h|
+    |Teste e Qualidade de Software|66,7h|
+    |Projeto Integrador 1|66,7h|
+    |Extensão 1|66,7h|
+    |Segurança de Sistemas|33,3h|
+    |Empreendedorismo|33,3h|
+    |Governança e Conformidade Tecnológica|33,3h|
+    |História da Ciência e Tecnologia|33,3h|
+    |Projeto Integrador 2|66,7h|
+    |Extensão 2|66,7h|
+    |Introdução à Criptografia|33,3h|
+    |Introdução à Mineração de Dados|33,3h|
+    |Processamento Digital de Imagens|33,3h|
+    |Computadores na Educação|33,3h|
+    |Libras|33,3h|
+    |Componente Curricular Eletivo - CH Total Obrigatória|66,7h|
+    |Trabalho de Conclusão de Curso - Obrigatório|60h|
+    |Atividade Complementar - Obrigatório|40h|
+    |Estágio Curricular Supervisionado - Optativo|-|
+    |**Carga horária total mínima**|2.100,4h|
+    |**Carga horária total extensão**|11,1%|
+    |**Carga horária total máxima**|2.200,3h|
+
+    ---
+    **Experiências Profissionais - TI**
+    <div style="text-align: justify;">
+
+    * Experiência profissional relevante nº 1 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#grupo-card) e saiba mais.
+    * Experiência profissional relevante n° 2 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#pmsjc) e saiba mais.
+
 ## **Cursos Técnicos**
 
 ??? Success ":fontawesome-solid-user-graduate: Redes de Computadores"
     > :material-book-education-outline: Início: 01/2018 :fontawesome-solid-flag-checkered: Conclusão: 12/2019
 
-    ![SENAI](assets/images/senai-logo.png){width="76%"}![Formando](assets/images/alessandro/formando.png){width="12%"}
+    ![SENAI](assets/images/senai-logo.png){width="76%"}![Formando](assets/images/alessandro/formando.png){width="15%"}
 
     [https://sp.senai.br/unidade/saojosedoscampos](https://sp.senai.br/unidade/saojosedoscampos/){:target="_blank"}
 
@@ -201,7 +280,7 @@
 ??? Success ":fontawesome-solid-user-graduate: Mecânica"
     > :material-book-education-outline: Início: 01/2000 :fontawesome-solid-flag-checkered: Conclusão: 12/2001
 
-    ![CEPHAS](assets/images/cephas-logo.png){width="28%"}![Formando](assets/images/alessandro/formando.png){width="12%"}
+    ![CEPHAS](assets/images/cephas-logo.png){width="28%"}![Formando](assets/images/alessandro/formando.png){width="15%"}
 
     [https://cephas.org.br](https://cephas.org.br/){:target="_blank"}
 
@@ -270,63 +349,6 @@
     * Experiência profissional relevante nº 1 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#general-motors) e saiba mais.
     * Experiência profissional relevante n° 2 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#magnaghi-friuli-aerospace) e saiba mais.
     * Experiência profissional relevante n° 3 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#precitech-inova) e saiba mais.
-
-??? Success ":fontawesome-solid-user-graduate: Design Gráfico"
-    > :material-book-education-outline: Início: 06/2024 :fontawesome-solid-flag-checkered: Conclusão Prevista: 12/2025
-
-    ![SENAC](assets/images/senac-logo.png){width="22%"}![Formando](assets/images/alessandro/formando.png){width="12%"}
-
-    [https://www.sp.senac.br/senac-sao-jose-dos-campos](https://www.sp.senac.br/senac-sao-jose-dos-campos){:target="_blank"}
-
-    **Declaração de matrícula de curso técnico:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/DECLARACAO-MATRICULA-SENAC.pdf){:download="DECLARACAO-MATRICULA-SENAC.pdf"}
-
-    ---
-    <p style="text-align: center;">**Curso técnico presencial - Duração: 1,5 anos**</p>
-    <p style="text-align: justify;">Em curso/formação como **Técnico em _Design Gráfico_** pela escola SENAC-SJC com sólidos conhecimentos vivenciados em ambiente acadêmico relacionados às competências:
-
-    * Fundamentos do _design gráfico_ e seus principais movimentos artísticos;
-    * Planejar projetos e produções gráficas;
-    * Criar protótipos _(mockups)_ impressos e digitais;
-    * Diagramar livros e revistas para mídia digital ou impressa;
-    * Editar imagens, ilustrações vetoriais e infográficos;
-    * Projetar embalagens em papel cartão para diferentes finalidades e produtos;
-    * Criar _layout_ e configurar impressão de materiais para pontos de venda;
-    * Realizar projetos gráficos para expografia de locais como museus;
-    * Desenvolver interface e guia de estilos gráficos para mídias digitais;
-    * Criar manual de identidade visual para empresas;
-    * Desenvolver animações, usando conceitos de _motion graphics_ e _softwares_ para vídeos;
-    * Utilizar _softwares_ vetoriais e de imagens do pacote _Adobe_, além de _CorelDRAW_;
-    * Criar portfólio digital, curadoria e plataforma para a apresentação de trabalhos.</p>
-    ---
-    <div style="text-align: center;">**Disciplinas / Carga Horária**
-
-    |Disciplinas em curso|Carga horária|
-    |---|:---:|
-    |Planejar Projetos Gráficos Impressos|48h|
-    |Compor e Tratar Imagens Digitais|48h|
-    |Desenvolver Ilustrações Vetoriais|48h|
-    |Planejar Produção Gráfica|36h|
-    |Diagramar Livros Impressos e _E-books_|72h|
-    |Diagramar Revistas Impressa e Digital|72h|
-    |Produzir Infográfico|36h|
-    |Criar Identidade Visual|72h|
-    |Desenvolver Manual de Identidade Visual|60h|
-    |Desenvolver Projeto Gráfico Para Expografia|48h|
-    |Criar Embalagens Cartotécnicas|72h|
-    |Desenvolver Materiais de Ponto de Venda|60h|
-    |Criar _Mockups_ Impressos e Digitais|48h|
-    |Planejar Projetos Gráficos Digitais|36
-    |Desenvolver Interface e Guia de Estilos Gráficos Para Mídias Digitais|60h|
-    |Desenvolver Projeto de _Design_ Em Movimento|48h|
-    |Criar Portfólio Digital|36h|
-    |Projetos Integradores Semestrais|100h|
-    |**Carga horária total**|1.000h|
-
-    ---
-    **Experiências Profissionais / Portfólio Pessoal**
-    <div style="text-align: justify;">
-
-    * Experiências profissionais relevantes :material-arrow-right-bold: [Portfólio de Criação](portfolio-criacao.md).
 
 <!-- Ícone Whatsapp. -->
 <!DOCTYPE html>

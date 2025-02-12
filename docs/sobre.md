@@ -9,12 +9,11 @@
 </p>
 
 <figure>
-  <img src="/assets/images/material-for-mkdocs.png" 
-       alt="MkDocs" 
-       title="Material for MkDocs" 
+  <img src="/assets/images/material-for-mkdocs.png"
+       alt="MkDocs"
+       title="Material for MkDocs"
        style="box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);">
 </figure>
-
 
 ## **Créditos do template inicial**
 
