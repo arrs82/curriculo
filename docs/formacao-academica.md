@@ -139,7 +139,7 @@
 
     [https://jcr.ifsp.edu.br](https://jcr.ifsp.edu.br/){:target="_blank"}
 
-    **Declaração de matrícula de curso superior:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/){:download="DECLARACAO-MATRICULA-IFSP.pdf"}
+    **Comprovante de matrícula de curso superior:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/COMPROVANTE-MATRICULA-IFSP.pdf){:download="COMPROVANTE-MATRICULA-IFSP.pdf"}
 
     ---
     <p style="text-align: center;">**Curso superior presencial (Tecnólogo) - Duração: 3 anos**</p>
