@@ -145,3 +145,45 @@ h2 {
 .md-main {
   padding-top: 64px; /* Ajuste conforme a altura do cabeçalho */
 }
+
+/* Efeito sobreposição mesma imagem com esmaecimento */
+.image-hover-stack {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  touch-action: manipulation;
+}
+
+.image-hover-stack img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+  transition: opacity 0.5s ease-in-out;
+  box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+}
+
+.image-hover-stack img:first-child {
+  z-index: 1;
+  position: relative;
+}
+
+.image-hover-stack img:last-child {
+  z-index: 2;
+  opacity: 1;
+  pointer-events: none;
+}
+
+/* Desktop (hover) */
+@media (hover: hover) and (pointer: fine) {
+  .image-hover-stack:hover img:last-child {
+    opacity: 0;
+  }
+}
+
+/* Mobile (toque pressionado) */
+.image-hover-stack.touching img:last-child {
+  opacity: 0;
+}
+

@@ -8,12 +8,14 @@
   Este <strong>currículo profissional</strong> é desenvolvido e atualizado com frequência por mim mesmo em ambiente de programação, utilizando linguagens <em>Markdown</em>, <em>HTML</em>, <em>CSS</em> e <em>JavaScript</em>, fazendo o uso do <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank"><em>MkDocs Material Theme</em></a> juntamente com os repositórios do <a href="https://github.com" target="_blank"><em>GitHub</em></a>.
 </p>
 
-<figure>
-  <img src="/assets/images/material-for-mkdocs.png"
-       alt="MkDocs"
-       title="Material for MkDocs"
-       style="box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);">
-</figure>
+<div class="image-hover-stack" ontouchstart="this.classList.add('touching')"
+     ontouchend="this.classList.remove('touching')"
+     ontouchcancel="this.classList.remove('touching')">
+  <img src="/assets/images/material-for-mkdocs-01.png"
+       alt="MkDocs - Imagem normal"
+       title="Material for MkDocs">
+  <img src="/assets/images/material-for-mkdocs-02.png">
+</div>
 
 ## **Créditos do template inicial**
 
