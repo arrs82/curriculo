@@ -183,7 +183,7 @@ h2 {
   }
 }
 
-/* Mobile (toque pressionado) */
+/* Mobile (touching) */
 .image-hover-stack.touching img:last-child {
   opacity: 0;
 }
