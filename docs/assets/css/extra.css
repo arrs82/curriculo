@@ -147,6 +147,7 @@ h2 {
 }
 
 /* Efeito sobreposição mesma imagem com esmaecimento */
+
 .image-hover-stack {
   position: relative;
   display: inline-block;
