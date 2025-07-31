@@ -188,3 +188,16 @@ h2 {
   opacity: 0;
 }
 
+/* Estilo para deixar o SVG circular */
+.twemoji[alt=":alessandro:"] {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  overflow: hidden;
+  display: inline-block;
+  border: 2px solid #ddd;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+
+

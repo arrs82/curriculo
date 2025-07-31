@@ -35,7 +35,7 @@
 
 ## **Agradecimentos**
 
-<p style="text-align: justify;">Primeiramente agradeço a Deus por me dar saúde física e por me capacitar com toda a sua sabedoria para que eu conseguisse realizar e alcançar o escopo deste projeto, que sem sombra de dúvidas talvez este tenha sido um dos mais desafiadores que me deparei até hoje.</p>
+<p style="text-align: justify;">Primeiramente agradeço a Deus por me dar saúde física e por me capacitar com toda a sua sabedoria, para que eu conseguisse realizar e alcançar o escopo deste projeto, que sem sombra de dúvidas, talvez este tenha sido um dos mais desafiadores que me deparei até hoje.</p>
 
 <p style="text-align: justify;">Em segundo lugar, além da gratidão, tenho apreço e muita admiração por um ex-colega de trabalho, Fabiano Conrado, profissional extremamente inteligente e disciplinado para com tudo relacionado à Tecnologia da Informação, o qual se predispôs a me ensinar um pouco sobre <em>Dev</em>, em específico às linguagens de programação <em>Markdown</em> inserida nos repositórios do <a href="https://github.com" target="_blank"><em>GitHub</em></a>, mas pouco este que me foi e é de extrema importância e de imensa relevância para que eu conseguisse alcançar meu objetivo e intento neste projeto.</p>
 

@@ -6,7 +6,6 @@
 
 <p style="text-align: justify;">A informática esteve presente quase sempre em toda a minha vida profissional, pois ela é congruente com as minhas competências técnicas que resumem-se em um conjunto de habilidades, comportamentos, atitudes e conhecimentos empíricos inter-relacionados, que nada mais é o saber fazer na prática, o qual julgo com humildade ter sido eficiente e eficaz em todas as etapas da minha carreira profissional, com a suficiência técnica necessária às minhas formações e ocupações profissionais, estas todas atreladas à tecnologia da informação e que acho necessário destacar a competência informática abaixo em uma lista completa com o detalhamento e nível de conhecimento agregado para a análise e apreciação de quem interessar.
 </p>
-
 ---
 ## **Profeciência Profissional**
 
