@@ -35,9 +35,31 @@
 
 ## **Agradecimentos**
 
-<p style="text-align: justify;">Primeiramente agradeço a Deus por me dar saúde física e por me capacitar com toda a sua sabedoria, para que eu conseguisse realizar e alcançar o escopo deste projeto, que sem sombra de dúvidas, talvez este tenha sido um dos mais desafiadores que me deparei até hoje.</p>
+<style>
+  @media (max-width: 768px) {
+    .flex-container {
+      flex-direction: column;
+      align-items: center;
+    }
+    .flex-container img {
+      margin: 20px auto 0 auto;
+      width: 90% !important;
+      display: block;
+    }
+  }
+</style>
 
-<p style="text-align: justify;">Em segundo lugar, além da gratidão, tenho apreço e muita admiração por um ex-colega de trabalho, Fabiano Conrado, profissional extremamente inteligente e disciplinado para com tudo relacionado à Tecnologia da Informação, o qual se predispôs a me ensinar um pouco sobre <em>Dev</em>, em específico às linguagens de programação <em>Markdown</em> inserida nos repositórios do <a href="https://github.com" target="_blank"><em>GitHub</em></a>, mas pouco este que me foi e é de extrema importância e de imensa relevância para que eu conseguisse alcançar meu objetivo e intento neste projeto.</p>
+<div class="flex-container" style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 250px;">
+    <p style="text-align: justify;">
+      Primeiramente agradeço a Deus por me dar saúde física e por me capacitar com toda a sua sabedoria, para que eu conseguisse realizar e alcançar o escopo deste projeto, que sem sombra de dúvidas, talvez este tenha sido um dos mais desafiadores que me deparei até hoje.
+    </p>
+    <p style="text-align: justify;">
+      Em segundo lugar, além da gratidão, tenho apreço e muita admiração por um ex-colega de trabalho, Fabiano Conrado, profissional extremamente inteligente e disciplinado para com tudo relacionado à Tecnologia da Informação, o qual se predispôs a me ensinar um pouco sobre <em>Dev</em>, em específico às linguagens de programação <em>Markdown</em> inserida nos repositórios do <a href="https://github.com" target="_blank"><em>GitHub</em></a>, mas pouco este que me foi e é de extrema importância e de imensa relevância para que eu conseguisse alcançar meu objetivo e intento neste projeto.
+    </p>
+  </div>
+  <img src="../assets/images/fundo-sobre.png" alt="Imagem" style="width: 400px; height: auto; border-radius: 10px;">
+</div>
 
 <!-- Ícone Whatsapp. -->
 <!DOCTYPE html>
