@@ -77,13 +77,13 @@ theme:
                   accent: indigo
                   toggle:
                     icon: material/toggle-switch
-                    name: Switch to dark mode
+                    name: Alternar para o modo escuro
                 - scheme: slate
                   primary: blue grey
                   accent: indigo
                   toggle:
                     icon: material/toggle-switch-off-outline
-                    name: Switch to light mode
+                    name: Alternar para o modo claro
         font:
                 text: Roboto
                 code: Roboto Mono

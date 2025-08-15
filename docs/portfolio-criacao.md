@@ -56,14 +56,6 @@
 </div>
 ---
 
-### **Projetos Pessoais**
-!!! note tip ":material-video-vintage: Apresentação online - Senac/SJC"
-    **Observações** <p style="text-align: justify;">Projeto gravado com equipamentos _Creative WebCam C920_, placa de áudio dedicada _Creative_, fazendo a utilização de roteiros, de _chroma-key_, *MS Office* e o do pacote Adobe para a edição áudio/visual juntamente com a inserção de efeitos e slides diversos do _MS Powerpoint_.</p>
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/CY1wZuUu2FY?background=1?autoplay=1" title="Apresentação Senac" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
----
-
 ### **Playlists Completas**
 !!! note tip ":material-video-vintage: Playlists Completas"
     * :fontawesome-brands-youtube: **Playlist 1** :material-arrow-right-box: [Clique aqui]( https://www.youtube.com/playlist?list=PLD1Y6l4XaYY3Aj6yvVVlRGzEYZUEO981I){:target="_blank"}
