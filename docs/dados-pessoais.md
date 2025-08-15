@@ -29,9 +29,8 @@
 === "PCD (Laudo PCD e informações) :fontawesome-solid-wheelchair:"
 
     !!! info " **Laudo PCD e informações**"
-        * **Laudo PCD - Alessandro Roberto dos Reis Santos**
+        * **Meu laudo PCD** :material-arrow-right-bold: [:fontawesome-regular-file-pdf: Download](documentos/pdf/PCD-DOCUMENTACAO-ARRS.pdf){:download="PCD-DOCUMENTACAO-ARRS.pdf"} para análise e apreciação.
 
-            [:fontawesome-regular-file-pdf: Download](documentos/pdf/PCD-DOCUMENTACAO-ARRS.pdf){:download="PCD-DOCUMENTACAO-ARRS.pdf"} para análise e apreciação.
         ---
         * **Informações acerca de minha deficiência**
             <p style="text-align: justify;"> Deficiência física decorrente e adquirida em função de acidente de trabalho, não havendo qualquer necessidade de condições especiais e/ou nenhuma utilização de próteses ou qualquer artifício que porventura possa e venha comprometer a minha mobilidade relacionada à minha deficiência física de coluna lombar.</p>
