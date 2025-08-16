@@ -68,28 +68,49 @@
 
 <script>
   const canvasHolder = document.getElementById('canvas-holder');
+  const canvas = document.getElementById('canvas');
   const btn = document.getElementById('fullscreen-btn');
 
+  // Input invisível para abrir teclado em mobile
+  let hiddenInput = document.getElementById('hidden-input');
+  if(!hiddenInput){
+    hiddenInput = document.createElement('input');
+    hiddenInput.type = 'text';
+    hiddenInput.style.position = 'absolute';
+    hiddenInput.style.opacity = 0;
+    hiddenInput.style.pointerEvents = 'none';
+    hiddenInput.style.width = '0';
+    hiddenInput.style.height = '0';
+    canvasHolder.appendChild(hiddenInput);
+  }
+
+  function isIOS() {
+    return /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+  }
+
   btn.addEventListener('click', () => {
-    if (canvasHolder.requestFullscreen) {
-      canvasHolder.requestFullscreen();
-    } else if (canvasHolder.webkitRequestFullscreen) { /* Safari */
-      canvasHolder.webkitRequestFullscreen();
-    } else if (canvasHolder.msRequestFullscreen) { /* IE11 */
-      canvasHolder.msRequestFullscreen();
+    if (!isIOS()) {
+      if (canvasHolder.requestFullscreen) canvasHolder.requestFullscreen();
+      else if (canvasHolder.webkitRequestFullscreen) canvasHolder.webkitRequestFullscreen();
+      else if (canvasHolder.msRequestFullscreen) canvasHolder.msRequestFullscreen();
+      hiddenInput.focus(); // mostra teclado em mobile
+    } else {
+      hiddenInput.focus(); // iOS mobile foca input para teclado
     }
   });
 
-  // Efeito hover
-  btn.addEventListener('mouseover', () => {
-    btn.style.background = 'rgba(255,255,255,0.2)';
-    btn.style.transform = 'scale(1.05)';
-  });
+  // Mantém proporção 16:9
+  function resizeCanvasHolder() {
+    const w = canvasHolder.clientWidth;
+    canvasHolder.style.height = (w * 9 / 16) + 'px';
+  }
+  window.addEventListener('resize', resizeCanvasHolder);
+  window.addEventListener('load', resizeCanvasHolder);
 
-  btn.addEventListener('mouseout', () => {
-    btn.style.background = 'rgba(0,0,0,0.5)';
-    btn.style.transform = 'scale(1)';
-  });
+  // Captura teclado para o canvas
+  hiddenInput.addEventListener('keydown', e => canvas.dispatchEvent(new KeyboardEvent('keydown', e)));
+  hiddenInput.addEventListener('keyup', e => canvas.dispatchEvent(new KeyboardEvent('keyup', e)));
 </script>
+
 
 
