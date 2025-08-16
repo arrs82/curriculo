@@ -374,7 +374,7 @@
 
         umask 002
 
-??? Success ":simple-surveymonkey: QBasic GORILLAS - Jogue com um amigo"
+??? Success ":simple-surveymonkey: QBasic GORILLAS - Jogue no Desktop"
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <iframe
         style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
