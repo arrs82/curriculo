@@ -471,14 +471,14 @@ function* PlayGame(pPlayer1, pPlayer2, pNumGames) {
   scr.locate(11, 50); scr.print(''+TotalWins[1]);
   scr.locate(12, 30); scr.print(pPlayer2[0]);
   scr.locate(12, 50); scr.print(''+TotalWins[2]);
-  Center(24, "Press any key to continue");
+  Center(24, "Pressione qualquer tecla para continuar");
   scr.flip();
   
   yield* SparklePause();
   scr.color(7, 0);
   scr.cls();
 
-  scr.locate(25, 1); scr.print("Press any key to continue");
+  scr.locate(25, 1); scr.print("Pressione qualquer tecla para continuar");
   scr.flip();
   yield {cmd:"key"};
 }

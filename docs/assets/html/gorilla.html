@@ -66,17 +66,44 @@
   Tela Cheia
 </button>
 
+<!-- Input invisível para capturar teclado em mobile -->
+<input type="text" id="hidden-input" style="
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+  height: 0;
+  width: 0;
+">
+
 <script>
   const canvasHolder = document.getElementById('canvas-holder');
   const btn = document.getElementById('fullscreen-btn');
+  const hiddenInput = document.getElementById('hidden-input');
+  const canvas = document.getElementById('canvas');
+
+  // Função para detectar mobile
+  function isMobile() {
+    return /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+  }
 
   btn.addEventListener('click', () => {
-    if (canvasHolder.requestFullscreen) {
-      canvasHolder.requestFullscreen();
-    } else if (canvasHolder.webkitRequestFullscreen) { /* Safari */
-      canvasHolder.webkitRequestFullscreen();
-    } else if (canvasHolder.msRequestFullscreen) { /* IE11 */
-      canvasHolder.msRequestFullscreen();
+    if (isMobile()) {
+      // Mobile: foca no input invisível para abrir teclado
+      hiddenInput.focus();
+
+      // Tenta fullscreen nativo (Android, alguns browsers)
+      if (canvasHolder.requestFullscreen) canvasHolder.requestFullscreen();
+      else if (canvasHolder.webkitRequestFullscreen) canvasHolder.webkitRequestFullscreen();
+      else if (canvasHolder.msRequestFullscreen) canvasHolder.msRequestFullscreen();
+    } else {
+      // Desktop: mantém seu comportamento atual
+      if (canvasHolder.requestFullscreen) {
+        canvasHolder.requestFullscreen();
+      } else if (canvasHolder.webkitRequestFullscreen) {
+        canvasHolder.webkitRequestFullscreen();
+      } else if (canvasHolder.msRequestFullscreen) {
+        canvasHolder.msRequestFullscreen();
+      }
     }
   });
 
@@ -90,6 +117,16 @@
     btn.style.background = 'rgba(0,0,0,0.5)';
     btn.style.transform = 'scale(1)';
   });
+
+  // Captura teclado do input invisível e envia para o canvas
+  hiddenInput.addEventListener('keydown', (e) => {
+    canvas.dispatchEvent(new KeyboardEvent('keydown', e));
+  });
+
+  hiddenInput.addEventListener('keyup', (e) => {
+    canvas.dispatchEvent(new KeyboardEvent('keyup', e));
+  });
 </script>
+
 
 
