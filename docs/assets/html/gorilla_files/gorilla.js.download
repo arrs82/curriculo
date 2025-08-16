@@ -139,7 +139,7 @@ function* Intro() {
   Center(7, "                        & aleha.santos 2025");
 //  scr.line(290, 14*6+8, 340, 14*6+8, 4);
 
-//  play.play("MBT160O1L8CDEDCDL4ECC");
+  play.play("MBT160O1L8CDEDCDL4ECC");
   yield* SparklePause();
 
   scr.flip();
