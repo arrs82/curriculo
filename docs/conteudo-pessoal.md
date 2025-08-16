@@ -4,7 +4,7 @@
 
 ## **Introdução**
 
-<p style="text-align: justify;">Conteúdo pessoal e de terceiros, destinado irrestritamente para o <strong>compartilhamento/download</strong> de conhecimentos técnicos, aplicações e conteúdos diversos, como <I>softwares open-source</I>, cursos e/ou tutoriais, fomentando assim o enriquecimento e principalmente o engajamento do meu currículo profissional para com amigos, colegas e profissionais diversos.</p>
+<p style="text-align: justify;">Conteúdo pessoal e de terceiros, destinado irrestritamente para o <strong>compartilhamento/download</strong> de conhecimentos técnicos, aplicações e conteúdos diversos, como <I>softwares open-source</I>, jogos, cursos e/ou tutoriais, fomentando assim o enriquecimento e principalmente o engajamento do meu currículo profissional para com amigos, colegas e profissionais diversos.</p>
 ---
 
 ??? Success ":simple-linux: Comandos Linux"
@@ -373,6 +373,17 @@
     **Define nova umask (exemplo: 002 para arquivos com permissão de grupo)**
 
         umask 002
+
+??? Success ":simple-surveymonkey: QBasic GORILLAS - Jogue com um amigo"
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+        src="../assets/html/gorilla.html"
+        title="QBasic Gorillas"
+        frameborder="0"
+        allowfullscreen>
+    </iframe>
+    </div>
 
 <!-- Ícone Whatsapp. -->
 <!DOCTYPE html>
