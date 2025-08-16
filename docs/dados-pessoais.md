@@ -6,7 +6,7 @@
 
     !!! info " **Dados / Endereço / Contato**"
         * Brasileiro, divorciado, 43 anos, habilitado (AB)
-        * **Endereço:** Rua Icatu, nº. 2030 - Bloco 2, apartamento 207
+        * **Endereço:** Rua Icatu, nº. 2030 - Bloco 2, apto 207
         * **Bairro:** Morada do Sol
         * **Cidade:** São José dos Campos - SP
         * **CEP:** 12237-576
@@ -26,12 +26,9 @@
         * :material-facebook: [facebook.com/aleha.santos82](https://facebook.com/aleha.santos82){:target="_blank"}
         * :material-microsoft-internet-explorer: [www.alessandroroberto.com.br](https://www.alessandroroberto.com.br){:target="_blank"}
 
-=== "PCD (Laudo PCD e informações) :fontawesome-solid-wheelchair:"
+=== "PCD (Informações e laudo PCD) :fontawesome-solid-wheelchair:"
 
-    !!! info " **Laudo PCD e informações**"
-        * **Meu laudo PCD** :material-arrow-right-bold: [:fontawesome-regular-file-pdf: Download](documentos/pdf/PCD-DOCUMENTACAO-ARRS.pdf){:download="PCD-DOCUMENTACAO-ARRS.pdf"} para análise e apreciação.
-
-        ---
+    !!! info " **Informações e laudo PCD**"
         * **Informações acerca de minha deficiência**
             <p style="text-align: justify;"> Deficiência física decorrente e adquirida em função de acidente de trabalho, não havendo qualquer necessidade de condições especiais e/ou nenhuma utilização de próteses ou qualquer artifício que porventura possa e venha comprometer a minha mobilidade relacionada à minha deficiência física de coluna lombar.</p>
         ---
@@ -43,6 +40,9 @@
 
             CID G55.1: Compressões das raízes e dos plexos nervosos em transtornos dos discos intervertebrais.
         ---
+        * **Meu laudo PCD** :material-arrow-right-bold: [:fontawesome-regular-file-pdf: Download](documentos/pdf/PCD-DOCUMENTACAO-ARRS.pdf){:download="PCD-DOCUMENTACAO-ARRS.pdf"} para análise e apreciação.
+
+        ---
         * **Lei de Cotas para PCD (Lei 8.213/91 - Artigos 89 a 93)**
 
             [Clique aqui](https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm){:target="_blank"} e saiba mais.
@@ -53,6 +53,13 @@
         * Entre **R$ 2.700,00** a **R$ 3.700,00** (negociável) **+ Pacote de Benefícios**;
         * **Disponibilidade imediata:** Diurno - Noturno - Híbrido - Home Office.
         * **Atuação como PJ**, porém tal modalidade/contrato de trabalho deve ser extremamente atrativa financeiramente.
+
+=== "QR Code :material-qrcode-scan:"
+
+    !!! info "**QR Code - Acesse em seu celular**"
+        <div align="center">
+        <img src="../assets/images/qr-code.png" alt="QR Code" title="QR Code" width="275">
+        </div>
 
 <!-- Ícone Whatsapp. -->
 <!DOCTYPE html>
