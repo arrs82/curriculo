@@ -118,7 +118,7 @@ function* Intro() {
   // Removido o branding JavaScript / QBasic
   // Center(3, "JavaScript                     ");
   // Center(4, "Q B a s i c    G O R I L L A S");
-  // scr.line(180, 14*3+3, 280, 14*4-3, 4); 
+  // scr.line(180, 14*3+3, 280, 14*4-3, 4);
 
   Center(4,  "    Q B a s i c    G O R I L L A S");
   scr.color(7);

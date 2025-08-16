@@ -374,7 +374,7 @@
 
         umask 002
 
-??? Success ":simple-surveymonkey: QBasic GORILLAS - Jogue no Desktop"
+??? Success ":simple-surveymonkey: QBasic Gorillas - Microsoft"
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <iframe
         style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
@@ -382,6 +382,9 @@
         frameborder="0"
         allowfullscreen>
     </iframe>
+    </div>
+    <div style="text-align: center; margin-top: 17px; color: red;">
+        **Jogo recomendado para jogar em desktops com a tela em fullscreen :material-fullscreen:**
     </div>
 
 <!-- Ícone Whatsapp. -->
