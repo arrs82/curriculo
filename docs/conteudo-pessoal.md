@@ -374,7 +374,7 @@
 
         umask 002
 
-??? Success ":simple-surveymonkey: QBasic Gorillas - Microsoft"
+??? Success ":material-microsoft-windows-classic: QBasic Gorillas"
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <iframe
         style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
