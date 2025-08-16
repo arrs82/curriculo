@@ -59,7 +59,7 @@ theme:
                 # - navigation.expand
                 - navigation.footer
                 # - navigation.indexes
-                - navigation.instant
+                - navigation.instant: false
                 # - navigation.prune
                 - navigation.sections
                 # - navigation.tabs

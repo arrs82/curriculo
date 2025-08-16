@@ -129,7 +129,8 @@ function* Intro() {
   Center(12, "    a gravidade e a velocidade do vento. A velocidade do");
   Center(13, "    vento e mostrada por uma seta direcional na parte");
   Center(14, "    inferior do campo e seu tamanho e relativo a forca.");
-  Center(17, "    Observacao: Jogo convertido para JavaScript");
+  Center(16, "    Observacao: Jogo convertido para JavaScript e em");
+  Center(17, "    fase de testes e adaptacao em navegadores!");
   Center(19, "    ALESSANDRO ROBERTO DOS REIS SANTOS");
   Center(20, "    Whatsapp: (12)98867-8750");
   Center(24, "    Pressione qualquer tecla para continuar");
@@ -139,7 +140,7 @@ function* Intro() {
   Center(7, "                        & aleha.santos 2025");
 //  scr.line(290, 14*6+8, 340, 14*6+8, 4);
 
-  play.play("MBT160O1L8CDEDCDL4ECC");
+  //  play.play("MBT160O1L8CDEDCDL4ECC");
   yield* SparklePause();
 
   scr.flip();
