@@ -71,28 +71,32 @@
   const canvas = document.getElementById('canvas');
   const btn = document.getElementById('fullscreen-btn');
 
-  // Detecta mobile
-  const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+  // Input invisível para abrir teclado em mobile
+  let hiddenInput = document.getElementById('hidden-input');
+  if(!hiddenInput){
+    hiddenInput = document.createElement('input');
+    hiddenInput.type = 'text';
+    hiddenInput.style.position = 'absolute';
+    hiddenInput.style.opacity = 0;
+    hiddenInput.style.pointerEvents = 'none';
+    hiddenInput.style.width = '0';
+    hiddenInput.style.height = '0';
+    canvasHolder.appendChild(hiddenInput);
+  }
 
-  // Cria input invisível, mas focável
-  let hiddenInput = document.createElement('input');
-  hiddenInput.type = 'text';
-  hiddenInput.style.position = 'absolute';
-  hiddenInput.style.opacity = 0.1;  // quase invisível
-  hiddenInput.style.width = '1px';
-  hiddenInput.style.height = '1px';
-  hiddenInput.style.bottom = '0';
-  hiddenInput.style.left = '0';
-  canvasHolder.appendChild(hiddenInput);
+  function isIOS() {
+    return /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+  }
 
   btn.addEventListener('click', () => {
-    // Tenta fullscreen em qualquer navegador que suporte
-    if (canvasHolder.requestFullscreen) canvasHolder.requestFullscreen();
-    else if (canvasHolder.webkitRequestFullscreen) canvasHolder.webkitRequestFullscreen();
-    else if (canvasHolder.msRequestFullscreen) canvasHolder.msRequestFullscreen();
-
-    // Força foco no input em mobile para abrir teclado
-    if (isMobile) hiddenInput.focus();
+    if (!isIOS()) {
+      if (canvasHolder.requestFullscreen) canvasHolder.requestFullscreen();
+      else if (canvasHolder.webkitRequestFullscreen) canvasHolder.webkitRequestFullscreen();
+      else if (canvasHolder.msRequestFullscreen) canvasHolder.msRequestFullscreen();
+      hiddenInput.focus(); // mostra teclado em mobile
+    } else {
+      hiddenInput.focus(); // iOS mobile foca input para teclado
+    }
   });
 
   // Mantém proporção 16:9
@@ -103,11 +107,10 @@
   window.addEventListener('resize', resizeCanvasHolder);
   window.addEventListener('load', resizeCanvasHolder);
 
-  // Redireciona teclado do input para o canvas
+  // Captura teclado para o canvas
   hiddenInput.addEventListener('keydown', e => canvas.dispatchEvent(new KeyboardEvent('keydown', e)));
   hiddenInput.addEventListener('keyup', e => canvas.dispatchEvent(new KeyboardEvent('keyup', e)));
 </script>
-
 
 
 
