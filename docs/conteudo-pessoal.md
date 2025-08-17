@@ -384,7 +384,7 @@
     </iframe>
     </div>
     <div style="text-align: center; margin-top: 17px; color: red;">
-        **Jogo recomendado para jogar em desktops com a tela em fullscreen :material-fullscreen:**
+        **Jogo recomendado para jogar em desktops com o monitor em fullscreen :material-fullscreen:**
     </div>
 
 <!-- Ícone Whatsapp. -->

@@ -124,15 +124,15 @@ function* Intro() {
   scr.color(7);
   Center(6,  "    Copyright (C) Microsoft Corporation 1990");
   Center(9,  "    Sua missao e acertar seu oponente com a banana");
-  Center(10, "    explosiva variando o angulo e a forca do arremesso");
-  Center(11, "    o horizonte da cidade, levando em conta a velocidade,");
-  Center(12, "    a gravidade e a velocidade do vento. A velocidade do");
-  Center(13, "    vento e mostrada por uma seta direcional na parte");
-  Center(14, "    inferior do campo e seu tamanho e relativo a forca.");
+  Center(10, "    explosiva, variando o angulo e a forca do arremesso");
+  Center(11, "    no horizonte da cidade, levando em conta a velocidade,");
+  Center(12, "    a  gravidade  e a velocidade do vento.  A velocidade  do");
+  Center(13, "    vento  e  mostrada  por  uma  seta direcional vermelha  na");
+  Center(14, "    parte inferior do campo e seu tamanho e relativo a forca.");
   Center(16, "    Observacao: Jogo convertido para JavaScript e em");
-  Center(17, "    fase de testes e adaptacao em navegadores!");
+  Center(17, "    fase de testes e adaptacao em mobiles!!!");
   Center(19, "    ALESSANDRO ROBERTO DOS REIS SANTOS");
-  Center(20, "    Whatsapp: (12)98867-8750");
+  Center(20, "    Whatsapp: (12) 98867-8750");
   Center(24, "    Pressione qualquer tecla para continuar");
 
 //  scr.line(250, 14*5+3, 470, 14*6-3, 4);
