@@ -4,7 +4,9 @@
 
 ## **Introdução**
 
-<p style="text-align: justify;">Conteúdo pessoal e de terceiros, destinado irrestritamente para o <strong>compartilhamento/download</strong> de conhecimentos técnicos, aplicações e conteúdos diversos, como <I>softwares open-source</I>, jogos, cursos e/ou tutoriais, fomentando assim o enriquecimento e principalmente o engajamento do meu currículo profissional para com amigos, colegas e profissionais diversos.</p>
+<p class="justify">
+Conteúdo pessoal e de terceiros, destinado irrestritamente para o <strong>compartilhamento/download</strong> de conhecimentos técnicos, aplicações e conteúdos diversos, como <i>softwares open-source</i>, jogos, cursos e/ou tutoriais, fomentando assim o enriquecimento e principalmente o engajamento do meu currículo profissional para com amigos, colegas e profissionais diversos.
+</p>
 ---
 
 ??? Success ":simple-linux: Comandos Linux"
