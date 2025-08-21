@@ -230,8 +230,8 @@
 			});
 			
 		tokens.attr(
-			'fill', function (player) {
-				return player.color();
+			'fill', function (Jogador) {
+				return Jogador.color();
 			}
 		);
 			
@@ -1960,46 +1960,46 @@
 (function() {
 	"use strict";
 	
-	exports.CONFIGURE_GAME_TITLE = 'Monopoly - Configuração inicial do jogo';
+	exports.CONFIGURE_GAME_TITLE = 'Monopoly Brasil - Configuração inicial do jogo';
 	
 	// Buttons
-	exports.BUTTON_NEW_GAME = 'Novo jogo ';
+	exports.BUTTON_NEW_GAME = 'Novo jogo';
 	exports.BUTTON_START_GAME = 'Começar o jogo';
-	exports.BUTTON_ADD_PLAYER = 'Clique aqui para adicionar um Jogador';
+	exports.BUTTON_ADD_PLAYER = 'Clique aqui para adicionar um jogador';
 	
 	// Choices
 	exports.CHOICE_ROLL_DICE = 'Jogue os dados';
-	exports.CHOICE_FINISH_TURN = 'Conclua e dê a vez ao próximo Jogador';
-	exports.CHOICE_BUY_PROPERTY = 'Compre a propriedade pelo preço vigente';
-	exports.CHOICE_PAY_RENT = 'Pagar aluguel ao Jogador';
+	exports.CHOICE_FINISH_TURN = 'Conclua sua jogada e dê a vez ao próximo Jogador';
+	exports.CHOICE_BUY_PROPERTY = 'Compre {property} por {price}';
+	exports.CHOICE_PAY_RENT = 'Pagar {rent} para {toPlayer}';
 	exports.CHOICE_GO_BANKRUPT = 'Vá à falência';
-	exports.CHOICE_PAY_TAX = 'Pagar um imposto';
-	exports.CHOOSE_FLAT_TAX = 'Escolha um imposto fixo';
-	exports.CHOOSE_PERCENTAGE_TAX = 'Escolha um imposto em porcentagem %';
-	exports.CHOICE_CALCULATE_DICE_RENT = 'Jogue os dados e pague um aluguel {multiplicador} vezes o resultado';
-	exports.CHOICE_TRADE = "Negocie com Jogador";
+	exports.CHOICE_PAY_TAX = 'Pagar um imposto de {amount}';
+	exports.CHOOSE_FLAT_TAX = 'Escolha um imposto fixo {amount}';
+	exports.CHOOSE_PERCENTAGE_TAX = 'Escolha um imposto de {percentage}%';
+	exports.CHOICE_CALCULATE_DICE_RENT = 'Jogue os dados e pague um aluguel de {multiplier} vezes o resultado';
+	exports.CHOICE_TRADE = "Negocie com {player}";
 	exports.TRADE_MAKE_OFFER = "Faça esta oferta";
 	exports.TRADE_CANCEL = "Cancelar negociação";
 	exports.CHOICE_ACCEPT_OFFER = "Aceitar oferta";
 	exports.CHOICE_REJECT_OFFER = "Rejeitar oferta";
 	exports.CHOICE_GO_TO_JAIL = "Vá para a prisão";
-	exports.CHOICE_PAY_DEPOSIT = "Pague um depósito para sair da prisão";
-	exports.CHOICE_TRY_DOUBLE_ROLL = "Tente rolar um duplo para sair da prisão";
+	exports.CHOICE_PAY_DEPOSIT = "Pague um {money} depósito para sair da prisão";
+	exports.CHOICE_TRY_DOUBLE_ROLL = "Tente rolar um duplo nos dados para sair da prisão";
 	
 	// Log messages
-	exports.LOG_DICE_ROLL = 'Jogador jogou os dados';
-	exports.LOG_DOUBLE_DICE_ROLL = 'Jogador lançou um duplo nos dados';
-	exports.LOG_PROPERTY_BOUGHT = 'Jogador comprou propriedade';
-	exports.LOG_RENT_PAID = 'Jogador pagou aluguel para outro Jogador';
-	exports.LOG_SALARY = "Jogador passou no GO e recebeu R$200";
-	exports.LOG_TAX_PAID = "Jogador pagou um imposto";
-	exports.LOG_OFFER_MADE = "Jogador 1 ofereceu ao outro Jogador a oferta 1 por oferta 2";
+	exports.LOG_DICE_ROLL = '{player} tirou um {die1} e um {die2} nos dados';
+	exports.LOG_DOUBLE_DICE_ROLL = '{player} lançou um duplo de {dice}';
+	exports.LOG_PROPERTY_BOUGHT = '{player} comprou ==> {property}';
+	exports.LOG_RENT_PAID = '{fromPlayer} pagou {amount} para {toPlayer}';
+	exports.LOG_SALARY = "{player} passou no GO e recebeu R$200";
+	exports.LOG_TAX_PAID = "{player} pagou um imposto de {amount}";
+	exports.LOG_OFFER_MADE = "{player1} ofereceu {player2} : {offer1} por {offer2}";
 	exports.LOG_OFFER_ACCEPTED = "A oferta foi aceita";
 	exports.LOG_CONJUNCTION = 'e';
 	exports.LOG_OFFER_REJECTED = "A oferta foi rejeitada";
-	exports.LOG_GONE_TO_JAIL = "Jogador foi para a prisão";
-	exports.LOG_GONE_BANKRUPT = "Jogador faliu";
-	exports.LOG_GAME_WON = "Jogador ganhou o jogo";
+	exports.LOG_GONE_TO_JAIL = "{player} foi para a prisão";
+	exports.LOG_GONE_BANKRUPT = "{player} faliu e perdeu todo seu patrimônio e dinheiro";
+	exports.LOG_GAME_WON = "{player} ganhou o jogo";
 	
 	// Squares
 	exports.CHANCE = 'Sorte';
@@ -2064,7 +2064,7 @@
 (function() {
 	"use strict";
 	
-	exports.CONFIGURE_GAME_TITLE = 'Monopoly - configuração de festa';
+	exports.CONFIGURE_GAME_TITLE = 'Monopoly - configuration de partie';
 	
 	// Buttons
 	exports.BUTTON_NEW_GAME = 'Nouvelle partie';
@@ -2091,7 +2091,7 @@
 	exports.CHOICE_TRY_DOUBLE_ROLL = "Tenter d'obtenir un doublé pour sortir de prison";
 	
 	// Log messages
-	exports.LOG_DICE_ROLL = '{player} a obtenu un {die1} et un {die2}';
+	exports.LOG_DICE_ROLL = '{player} tirou um {die1} e um {die2}';
 	exports.LOG_DOUBLE_DICE_ROLL = '{player} a obtenu un doublé de {dice}';
 	exports.LOG_PROPERTY_BOUGHT = '{player} a acheté {property}';
 	exports.LOG_RENT_PAID = '{fromPlayer} a payé {amount} à {toPlayer}';

@@ -385,7 +385,7 @@
     </div>
     ---
     <div style="text-align: center; margin-top: 17px; color: black;">
-    **Observação:** Jogo recomendado para jogar em desktops com o monitor em fullscreen :material-fullscreen:
+    **Observação:** Jogo recomendado para jogar em _desktops_ com o monitor em _fullscreen_. :material-fullscreen:
     </div>
 
 ??? Success ":fontawesome-brands-node-js: Monopoly Brasil"
@@ -396,7 +396,7 @@
     </a>
     ---
     <div style="text-align: center; margin-top: 17px; color: black;">
-    **Observação:** Jogo em _JavaScript_ traduzido para o português/Brasil.
+    **Observação:** Jogo em fases de desenvolvimento e com atualizações constantes nas regras do mesmo.
     </div>
 
 <!-- Ícone Whatsapp. -->
