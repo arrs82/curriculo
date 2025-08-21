@@ -383,8 +383,20 @@
         allowfullscreen>
     </iframe>
     </div>
-    <div style="text-align: center; margin-top: 17px; color: red;">
-        **Jogo recomendado para jogar em desktops com o monitor em fullscreen :material-fullscreen:**
+    ---
+    <div style="text-align: center; margin-top: 17px; color: black;">
+    **Observação:** Jogo recomendado para jogar em desktops com o monitor em fullscreen :material-fullscreen:
+    </div>
+
+??? Success ":fontawesome-brands-node-js: Monopoly Brasil"
+    <a href="../assets/html/monopoly-js.html" target="_blank">
+    <img src="../assets/images/monopoly-brasil.jpg" 
+        alt="Clique para jogar Monopoly" 
+        style="width: 1280px; cursor: pointer;">
+    </a>
+    ---
+    <div style="text-align: center; margin-top: 17px; color: black;">
+    **Observação:** Jogo em _JavaScript_ traduzido para o português/Brasil.
     </div>
 
 <!-- Ícone Whatsapp. -->
