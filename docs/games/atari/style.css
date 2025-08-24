@@ -82,3 +82,59 @@ body {
         transform: translateY(0px); /* Volta para a posição inicial */
     }
 }
+
+/* Estilo padrão para ocultar o teclado.
+    Ele só será exibido em dispositivos móveis.
+*/
+#teclado-mobile {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: fixed; /* Fixa o teclado na tela */
+    bottom: 0; /* Alinha o teclado na parte inferior */
+    left: 0;
+    width: 100%;
+    padding: 10px 0;
+    background-color: rgba(0, 0, 0, 0.8); /* Fundo semi-transparente */
+    z-index: 1000; /* Garante que o teclado fique acima de outros elementos */
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.5);
+    /* Transições suaves para um efeito mais profissional */
+    transition: all 0.3s ease-in-out; 
+}
+
+/* Estilo para as linhas de botões */
+.linha-botoes {
+    display: flex;
+    justify-content: center;
+    gap: 15px; /* Espaço entre os botões */
+    margin: 5px 0;
+}
+
+/* Estilo dos botões individuais */
+.botao-teclado {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #fff;
+    background-color: #333;
+    border: 2px solid #555;
+    border-radius: 10px;
+    padding: 15px 25px;
+    cursor: pointer;
+    user-select: none; /* Impede a seleção do texto do botão */
+    box-shadow: 0 4px 0 #111;
+    /* Transições para o efeito de "clique" */
+    transition: all 0.1s ease;
+}
+
+/* Efeito quando o botão é pressionado (efeito "clique") */
+.botao-teclado:active {
+    box-shadow: 0 1px 0 #111;
+    transform: translateY(3px); /* Move o botão para baixo para simular o clique */
+}
+
+/* Estilo específico para os botões de direção */
+.botao-direcao {
+    padding: 22.5px 37.5px; /* Aumenta o padding em 50% (originalmente 15px e 25px) */
+    font-size: 1.8em; /* Opcional: Aumenta um pouco a fonte também */
+}

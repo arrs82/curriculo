@@ -26,6 +26,37 @@ Javatari = {
 
 };
 
+// Função para detectar se é um dispositivo móvel
+function isMobile() {
+    return 'ontouchstart' in window || navigator.maxTouchPoints > 0 || navigator.msMaxTouchPoints > 0;
+}
+
+// Verifica se o usuário está em um dispositivo móvel
+if (isMobile()) {
+    // Exibe o teclado se for mobile
+    document.getElementById('teclado-mobile').style.display = 'flex';
+
+    var botoesTeclado = document.querySelectorAll('.botao-teclado');
+
+    botoesTeclado.forEach(function(botao) {
+        botao.addEventListener('touchstart', function(event) {
+            event.preventDefault();
+            var key = this.getAttribute('data-key');
+            // Simular o evento de pressionar a tecla
+            var eventoKeydown = new KeyboardEvent('keydown', { key: key, bubbles: true });
+            document.dispatchEvent(eventoKeydown);
+        });
+
+        botao.addEventListener('touchend', function(event) {
+            event.preventDefault();
+            var key = this.getAttribute('data-key');
+            // Simular o evento de soltar a tecla
+            var eventoKeyup = new KeyboardEvent('keyup', { key: key, bubbles: true });
+            document.dispatchEvent(eventoKeyup);
+        });
+    });
+}
+
 jt = window.jt || {};
 
 jt.Util = new function() {
