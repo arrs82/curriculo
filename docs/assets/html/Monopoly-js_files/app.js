@@ -1988,7 +1988,7 @@
 	
 	// Log messages
 	exports.LOG_DICE_ROLL = '{player} tirou um {die1} e um {die2} nos dados';
-	exports.LOG_DOUBLE_DICE_ROLL = '{player} lançou um duplo de {dice}';
+	exports.LOG_DOUBLE_DICE_ROLL = '{player} lançou um duplo de {dice} nos dados';
 	exports.LOG_PROPERTY_BOUGHT = '{player} comprou ==> {property}';
 	exports.LOG_RENT_PAID = '{fromPlayer} pagou {amount} para {toPlayer}';
 	exports.LOG_SALARY = "{player} passou no GO e recebeu R$200";

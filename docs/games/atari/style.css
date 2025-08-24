@@ -1,0 +1,84 @@
+div.column {
+  width:33%;
+  float:left;
+}
+div.clearfix {
+  float:both;
+}
+h1, em {
+  text-align:center;
+}
+em i {
+  font-style:normal;
+}
+p.sub {
+  text-align:center;
+}
+div p {
+  width:50%;
+  margin:0;
+}
+div.center {
+  text-align:center;
+  margin-bottom:1em;
+}
+li {
+  text-align:center;
+  list-style:none;
+}
+
+body {
+  background-image: url('javatari/arte-atari.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.center {
+    text-align: center;
+    margin-top: 3px;
+}
+
+#rom-list {
+    margin-right: 0px;
+}
+
+#load {
+    margin-right: 0px;
+}
+
+.indicador-img-esquerda {
+    width: 100px;
+    height: auto;
+    margin-right: 10px;
+    margin-bottom: -39px;
+    /* Animação */
+    animation-name: flutuar;
+    animation-duration: 1s; /* Duração total da animação (1 segundos) */
+    animation-timing-function: ease-in-out; /* Tipo de aceleração (começa e termina suavemente) */
+    animation-iteration-count: infinite; /* Repete a animação infinitamente */
+}
+
+.indicador-img-direita {
+    width: 100px;
+    height: auto;
+    margin-left: 14px;
+    margin-bottom: -39px;
+    /* Animação */
+    animation-name: flutuar;
+    animation-duration: 1s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}
+
+@keyframes flutuar {
+    0% {
+        transform: translateY(0px); /* Posição inicial: 0px de deslocamento vertical */
+    }
+    50% {
+        transform: translateY(-8px); /* Desloca a imagem 8px para cima */
+    }
+    100% {
+        transform: translateY(0px); /* Volta para a posição inicial */
+    }
+}

@@ -374,7 +374,7 @@
 
         umask 002
 
-??? Success ":material-microsoft-windows-classic: QBasic Gorillas"
+??? Success ":material-microsoft-windows-classic: QBasic Gorillas (Jogar)"
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <iframe
         style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
@@ -388,7 +388,7 @@
     **Observação:** Jogo recomendado para jogar em _desktops_ com o monitor em _fullscreen_. :material-fullscreen:
     </div>
 
-??? Success ":fontawesome-brands-node-js: Monopoly Brasil"
+??? Success ":fontawesome-brands-node-js: Monopoly Brasil (Jogar)"
     <a href="../assets/html/monopoly-js.html" target="_blank">
     <img src="../assets/images/monopoly-brasil.jpg" 
         alt="Clique para jogar Monopoly" 
@@ -397,6 +397,17 @@
     ---
     <div style="text-align: center; margin-top: 17px; color: black;">
     **Observação:** Jogo em fases de desenvolvimento e com atualizações constantes nas regras do mesmo.
+    </div>
+
+??? Success ":simple-atari: Atari 2600 (Jogar)"
+    <a href="../games/atari/index.html" target="_blank">
+    <img src="../games/atari/javatari/atari-2600.png" 
+        alt="Clique para jogar o Atari 2600" 
+        style="width: 1280px; cursor: pointer;">
+    </a>
+    ---
+    <div style="text-align: center; margin-top: 17px; color: black;">
+    **Observação:** Emulador de jogos recomendado para jogar em _desktops_ com o monitor em _fullscreen_. :material-fullscreen:
     </div>
 
 <!-- Ícone Whatsapp. -->

@@ -26,6 +26,8 @@ nav:
         - Experiência Profissional: experiencia-profissional.md
         - Seminários Motivacionais: seminarios-motivacionais.md
         - Portfólio de Criação: portfolio-criacao.md
+        - Atari: games/atari/index.html  # Caminho para o seu arquivo index.html
+        - Monopoly: assets/html/monopoly-js.html # Caminho para o seu arquivo index.html
         #- Projetos de Infraestrutura: projetos-infra.md
                 # - Proxmox: projetos-infra/proxmox.md
                 # - Pfsense Firewall: projetos-infra/pfsense-firewall.md
