@@ -378,7 +378,7 @@
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <iframe
         style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-        src="../assets/html/gorilla.html"
+        src="../games/gorillas/gorilla.html"
         frameborder="0"
         allowfullscreen>
     </iframe>
@@ -389,7 +389,7 @@
     </div>
 
 ??? Success ":fontawesome-brands-node-js: Monopoly Brasil (Jogar)"
-    <a href="../assets/html/monopoly-js.html" target="_blank">
+    <a href="../games/monopoly/monopoly-js.html" target="_blank">
     <img src="../assets/images/monopoly-brasil.jpg" 
         alt="Clique para jogar Monopoly" 
         style="width: 1280px; cursor: pointer;">
