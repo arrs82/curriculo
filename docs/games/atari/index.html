@@ -17,72 +17,7 @@
 <button id="load">Carregue</button>
 <img src="javatari/indicador-direito.png" alt="Indicador direito" class="indicador-img-direita">
 </div>
-<div id="teclado-mobile">
-    <div class="linha-botoes">
-        <button class="botao-teclado" data-key="w">↑</button>
-    </div>
-    <div class="linha-botoes">
-        <button class="botao-teclado" data-key="a">←</button>
-        <button class="botao-teclado" data-key="s">↓</button>
-        <button class="botao-teclado" data-key="d">→</button>
-    </div>
-    <div class="linha-botoes">
-        <button class="botao-teclado" data-key=" ">Space</button>
-        <button class="botao-teclado" data-key="j">Botão Vermelho</button>
-        <button class="botao-teclado" data-key="Backspace">Del</button>
-    </div>
 </div>
 <script src="zepto.min.js"></script>
 <script src="javatari/javatari.js"></script>
 <script src="library.js"></script>
-<script src="teclado-touch.js"></script>
-
-<script>
-    window.addEventListener('load', () => {
-        const panel = document.getElementById('javatari-console-panel');
-
-        if (panel) {
-            const divs = panel.getElementsByTagName('div');
-
-            const buttonMapping = {
-                '-46px -141px': 'F1', // Game Select
-                '-70px -141px': 'F2'  // Game Reset
-            };
-
-            for (const div of divs) {
-                const background = div.style.backgroundPosition;
-
-                if (buttonMapping[background]) {
-                    const key = buttonMapping[background];
-                    div.style.opacity = '1';
-
-                    div.addEventListener('touchstart', (event) => {
-                        event.preventDefault();
-                        window.Javatari.key_down(key);
-                    });
-
-                    div.addEventListener('touchend', (event) => {
-                        event.preventDefault();
-                        window.Javatari.key_up(key);
-                    });
-                }
-            }
-        }
-    });
-
-    const touchButtons = document.querySelectorAll('#teclado-mobile .botao-teclado');
-
-    touchButtons.forEach(button => {
-        const key = button.dataset.key;
-        button.addEventListener('touchstart', (e) => {
-            e.preventDefault();
-            window.Javatari.key_down(key);
-        });
-        button.addEventListener('touchend', (e) => {
-            e.preventDefault();
-            window.Javatari.key_up(key);
-        });
-    });
-</script>
-</body>
-</html>
