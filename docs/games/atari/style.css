@@ -48,10 +48,10 @@ body {
 }
 
 .indicador-img-esquerda {
-    width: 100px;
+    width: 120px;
     height: auto;
     margin-right: 10px;
-    margin-bottom: -39px;
+    margin-bottom: -35px;
     animation-name: flutuar;
     animation-duration: 1s;
     animation-timing-function: ease-in-out;
@@ -59,10 +59,10 @@ body {
 }
 
 .indicador-img-direita {
-    width: 100px;
+    width: 120px;
     height: auto;
-    margin-left: 14px;
-    margin-bottom: -39px;
+    margin-left: 15px;
+    margin-bottom: -35px;
     animation-name: flutuar;
     animation-duration: 1s;
     animation-timing-function: ease-in-out;
@@ -74,7 +74,7 @@ body {
         transform: translateY(0px);
     }
     50% {
-        transform: translateY(-8px);
+        transform: translateY(-10px);
     }
     100% {
         transform: translateY(0px);
