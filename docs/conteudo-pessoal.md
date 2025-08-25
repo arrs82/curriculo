@@ -401,7 +401,7 @@
     </a>
     </div>
     <div style="text-align: center; margin-top: 17px; color: black;">
-    <strong>Observação:</strong> Jogo em fases de desenvolvimento e com atualizações constantes nas regras do mesmo. :material-fullscreen:
+    <strong>Observação:</strong> Jogo em fases de desenvolvimento e com atualizações constantes nas regras do mesmo.
     </div>
 
 ??? Success ":simple-atari: Atari 2600 (Jogue aqui online)"
