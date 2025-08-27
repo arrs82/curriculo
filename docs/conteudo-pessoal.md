@@ -4,10 +4,66 @@
 
 ## **Introdução**
 
-<p style="text-align: justify;">Conteúdo pessoal e de terceiros, destinado irrestritamente para o <strong>compartilhamento/download</strong> de conhecimentos técnicos, aplicações e conteúdos diversos, como <I>softwares open-source</I>, jogos, cursos e/ou tutoriais, fomentando assim o enriquecimento e principalmente o engajamento do meu currículo profissional para com amigos, colegas e profissionais diversos.</p>
----
+<p style="text-align: justify;">Conteúdos pessoais e de terceiros, destinados irrestritamente para o <strong>compartilhamento, downloads e exibição</strong> de conhecimentos técnicos, aplicações e conteúdos diversos, como <I>softwares open-source</I>, jogos, cursos e/ou tutoriais, fomentando assim o enriquecimento e principalmente o engajamento do meu currículo profissional para com amigos, colegas e profissionais diversos.</p>
 
-??? Success ":simple-linux: Comandos Linux"
+## **Jogos on-line**
+
+??? Success ":material-microsoft-windows-classic: QBasic Gorillas"
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+        src="../games/gorillas/gorilla.html"
+        frameborder="0"
+        allowfullscreen>
+    </iframe>
+    </div>
+    ---
+    <div style="text-align: center; margin-top: 17px; color: black;">
+    **Observação:** Jogo recomendado para jogar em _desktops_ com o monitor em _fullscreen_. :material-fullscreen:
+    </div>
+
+??? Success ":fontawesome-brands-node-js: Monopoly Brasil"
+    <!-- Container para imagem + botão central -->
+    <div style="position: relative; display: inline-block; text-align: center; width: 100%; max-width: 1280px;">
+    <img src="../assets/images/monopoly-brasil.png"
+        alt="Monopoly Brasil"
+        style="width: 100%; display: block;">
+    <!-- Botão "Jogar" centralizado sobre a imagem -->
+    <a href="../games/monopoly/monopoly-js.html" target="_blank" class="btn-jogar"
+        style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+        🕹️ JOGAR
+    </a>
+    </div>
+    <div style="text-align: center; margin-top: 17px; color: black;">
+    <strong>Observação:</strong> Jogo em fases de desenvolvimento e com atualizações constantes nas regras do mesmo.
+    </div>
+
+??? Success ":simple-atari: Atari 2600"
+    <!-- Container para imagem + botão central -->
+    <div style="position: relative; display: inline-block; text-align: center; width: 100%; max-width: 1280px;">
+    <img src="../games/atari/javatari/atari-2600.png"
+        alt="Atari 2600"
+        style="width: 100%; display: block;">
+    <!-- Botão "Jogar" centralizado sobre a imagem -->
+    <a href="../games/atari/index.html" target="_blank" class="btn-jogar"
+        style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+        🕹️ JOGAR
+    </a>
+    </div>
+    <div style="text-align: center; margin-top: 17px; color: black;">
+    <strong>Observação:</strong> Emulador de jogos recomendado para jogar em <em>desktops</em> com o monitor em <em>fullscreen</em>. :material-fullscreen:
+    </div>
+
+## **Linux**
+
+??? Success ":simple-linux: Comandos"
+    <p style="text-align:center;">
+    <strong>Copie o conteúdo aqui e cole no seu terminal!</strong>
+    </p>
+    <p style="text-align:center;">
+    ++ctrl+c++ :octicons-arrow-right-16:  ++ctrl+v++
+    </p>
+    ---
 
     **Acesso ao sistema como root**
 
@@ -373,52 +429,6 @@
     **Define nova umask (exemplo: 002 para arquivos com permissão de grupo)**
 
         umask 002
-
-??? Success ":material-microsoft-windows-classic: QBasic Gorillas (Jogue aqui online)"
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <iframe
-        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-        src="../games/gorillas/gorilla.html"
-        frameborder="0"
-        allowfullscreen>
-    </iframe>
-    </div>
-    ---
-    <div style="text-align: center; margin-top: 17px; color: black;">
-    **Observação:** Jogo recomendado para jogar em _desktops_ com o monitor em _fullscreen_. :material-fullscreen:
-    </div>
-
-??? Success ":fontawesome-brands-node-js: Monopoly Brasil (Jogue aqui online)"
-    <!-- Container para imagem + botão central -->
-    <div style="position: relative; display: inline-block; text-align: center; width: 100%; max-width: 1280px;">
-    <img src="../assets/images/monopoly-brasil.png"
-        alt="Monopoly Brasil"
-        style="width: 100%; display: block;">
-    <!-- Botão "Jogar" centralizado sobre a imagem -->
-    <a href="../games/monopoly/monopoly-js.html" target="_blank" class="btn-jogar"
-        style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-        🕹️ JOGAR
-    </a>
-    </div>
-    <div style="text-align: center; margin-top: 17px; color: black;">
-    <strong>Observação:</strong> Jogo em fases de desenvolvimento e com atualizações constantes nas regras do mesmo.
-    </div>
-
-??? Success ":simple-atari: Atari 2600 (Jogue aqui online)"
-    <!-- Container para imagem + botão central -->
-    <div style="position: relative; display: inline-block; text-align: center; width: 100%; max-width: 1280px;">
-    <img src="../games/atari/javatari/atari-2600.png"
-        alt="Atari 2600"
-        style="width: 100%; display: block;">
-    <!-- Botão "Jogar" centralizado sobre a imagem -->
-    <a href="../games/atari/index.html" target="_blank" class="btn-jogar"
-        style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-        🕹️ JOGAR
-    </a>
-    </div>
-    <div style="text-align: center; margin-top: 17px; color: black;">
-    <strong>Observação:</strong> Emulador de jogos recomendado para jogar em <em>desktops</em> com o monitor em <em>fullscreen</em>. :material-fullscreen:
-    </div>
 
 <!-- Ícone Whatsapp. -->
 <!DOCTYPE html>

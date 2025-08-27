@@ -140,6 +140,119 @@
     * Experiência profissional relevante nº 1 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#fundhas) e saiba mais.
     * Experiência profissional relevante n° 2 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#pmsjc_1) e saiba mais.
 
+??? Success ":fontawesome-solid-user-graduate: Educação Física"
+    > :material-book-education-outline: Início: 02/2025 :fontawesome-solid-flag-checkered: Conclusão: 02/2029
+
+    ![UFBRA](assets/images/ufbra-logo.png){width="30%"}![Formando](assets/images/alessandro/formando.png){width="15%"}
+
+    [https://ufbra.com.br/](https://ufbra.com.br){:target="_blank"}
+
+    **Declaração de matrícula de curso superior:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/DECLARACAO-MATRICULA-UFBRA.pdf){:download="DECLARACAO-MATRICULA-ARRS.pdf"}
+
+    ---
+    <p style="text-align: center;">**Curso superior presencial (Bacharel) - Duração: 4 anos**</p>
+    <p style="text-align: justify;">Cursando **Educação Física** pelo centro universitário UFBRA no Campus Centro/SJC com sólidos conhecimentos vivenciados em ambiente acadêmico relacionados às competências:
+
+    * Planejamento e Prescrição de Atividades Físicas para diferentes públicos e necessidades;
+    * Avaliação Física e Funcional (antropometria, testes de aptidão);
+    * Fisiologia do Exercício e Bioenergética;
+    * Cinesiologia e Biomecânica (análise do movimento);
+    * Gestão de Programas e Projetos Esportivos;
+    * Gestão de Equipamentos e Instalações (controle, manutenção e segurança);
+    * Organização de Eventos e Competições;
+    * Primeiros Socorros e Socorro de Urgência;
+    * Treinamento Desportivo (periodização e princípios do treinamento);
+    * Análise de Desempenho e Performance (esportes, atividades aquáticas, lutas, etc.);
+    * Adaptação de Atividades para Pessoas com Deficiência;
+    * Teorias e Métodos de Aprendizagem Motora;
+    * Psicologia do Desenvolvimento e do Esporte;
+    * Comunicação e Relações Interpessoais;
+    * Uso de Tecnologias no Esporte e na Saúde (wearables, softwares, etc.);
+    * Legislação e Ética Profissional (CREF);
+    * Pesquisa Científica (elaboração de projetos, análise de dados).
+    ---
+    <style>
+    .md-typeset__table {
+        width: 100%;
+    }
+    .md-typeset table:not([class]) {
+        display: table;
+    }
+    </style>
+    <div style="text-align: center;">**Disciplinas / Carga Horária**
+
+    |Disciplinas em curso e concluídas|Carga horária|
+    |---|:---:|
+    |Biologia Básica|Cursando|
+    |Anatomia Básica|Cursando|
+    |Socorros de Urgência|Cursando|
+    |História, Sociologia e Antropologia da Educação Física e Esporte|Cursando|
+    |Metodologia da Pesquisa Científica|Cursando|
+    |Arte, Cultura e Educação|Cursando|
+    |Projeto Multidisciplinar Final I - Educação Física Bacharelado|Cursando|
+    |Psicologia do Desenvolvimento e do Esporte|Cursando|
+    |Anatomia Aplicada ao Exercício|Cursando|
+    |Fisiologia Básica|Cursando|
+    |Controle e Aprendizagem Motora|Cursando|
+    |Comunicação e Expressão|Cursando|
+    |ECA - Estatuto da Criança e do Adolescente|Cursando|
+    |Estudos Socioantropológicos|Cursando|
+    |Gestão de Conflitos|Cursando|
+    |Gestão de Projetos|Cursando|
+    |Gestão de Riscos Trabalhistas|Cursando|
+    |Gestão do Conhecimento|Cursando|
+    |Língua Brasileira de Sinais - Libras|Cursando|
+    |Projeto Multidisciplinar II - Educação Física Bacharelado|Cursando|
+    |Fisiologia do Exercício|Cursando|
+    |Cinesiologia e Biomecânica|Cursando|
+    |Crescimento e Desenvolvimento|Cursando|
+    |Epidemiologia e Bioestatística|Cursando|
+    |Gestão Financeira Básica|Cursando|
+    |História e Cultura Afro-Brasileira e Indígena|Cursando|
+    |Inovação e Tecnologia|Cursando|
+    |Língua Brasileira de Sinais - Libras|Cursando|
+    |Manifestações Rítmicas Expressivas|Cursando|
+    |Noções de Direito|Cursando|
+    |Projeto Multidisciplinar III - Educação Física Bacharelado|Cursando|
+    |Saúde e Qualidade de Vida|Cursando|
+    |Temas Sociais Abrangentes|Cursando|
+    |Manifestações Esportivas e Alternativas|Cursando|
+    |Treinamento Desportivo: Conceitos|Cursando|
+    |Avaliação Física e Motora|Cursando|
+    |Deficiências: Física e Mental|Cursando|
+    |Atividades Físicas para Crianças e Adolescentes|Cursando|
+    |Estágio Supervisionado - Educação Física Bacharelado|Cursando|
+    |Projeto Multidisciplinar IV - Educação Física Bacharelado|Cursando|
+    |Atividades Físicas para Jovens e Adultos|Cursando|
+    |Atividade Física para Grupos Especiais|Cursando|
+    |Educação em Espaços Não Escolares|Cursando|
+    |Recreação e Lazer|Cursando|
+    |Esportes Individuais|Cursando|
+    |Estágio Supervisionado - Educação Física Bacharelado|Cursando|
+    |Projeto Multidisciplinar V - Educação Física Bacharelado|Cursando|
+    |Esportes Coletivos Tradicionais|Cursando|
+    |Treinamento Desportivo: Aplicação|Cursando|
+    |Futebol|Cursando|
+    |Legislação e Políticas Públicas em Educação Física e Esporte|Cursando|
+    |Atividades Extensionistas|Cursando|
+    |Estágio Supervisionado - Educação Física Bacharelado|Cursando|
+    |Ginásticas|Cursando|
+    |Projeto Multidisciplinar Final I - Educação Física Bacharelado|Cursando|
+    |Atividades de Academia|Cursando|
+    |Musculação|Cursando|
+    |Esportes de Rebater|Cursando|
+    |Exercício Físico e Doenças Crônico-Degenerativas|Cursando|
+    |Atividades Extensionistas|Cursando|
+    |Estágio Supervisionado - Educação Física Bacharelado|Cursando|
+    |Lutas|Cursando|
+    |Projeto Multidisciplinar Final II - Educação Física Bacharelado|Cursando|
+    |Atividades Aquáticas|Cursando|
+    |Organização de Eventos Esportivos|Cursando|
+    |Nutrição Aplicada à Atividade Física|Cursando|
+    |Tecnologias no Esporte|Cursando|
+    |Trabalho de Conclusão de Curso|-|
+    |**Carga horária total**|-|
+
 ## **Cursos Técnicos**
 
 ??? Success ":fontawesome-solid-user-graduate: Redes de Computadores"
