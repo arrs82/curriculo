@@ -147,11 +147,11 @@
 
     [https://ufbra.com.br/](https://ufbra.com.br){:target="_blank"}
 
-    **Declaração de matrícula de curso superior:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/DECLARACAO-MATRICULA-UFBRA.pdf){:download="DECLARACAO-MATRICULA-ARRS.pdf"}
+    **Declaração de matrícula de curso superior:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/DECLARACAO-MATRICULA-UFBRA.pdf){:download="DECLARACAO-MATRICULA-EF.pdf"}
 
     ---
     <p style="text-align: center;">**Curso superior presencial (Bacharel) - Duração: 4 anos**</p>
-    <p style="text-align: justify;">Cursando **Educação Física** pelo centro universitário UFBRA no Campus Centro/SJC com sólidos conhecimentos vivenciados em ambiente acadêmico relacionados às competências:
+    <p style="text-align: justify;">Cursando **Educação Física** pelo centro universitário UFBRA no Campus Centro/SJC detendo e vivenciando sólidos conhecimentos em ambiente acadêmico relacionados às competências:
 
     * Planejamento e Prescrição de Atividades Físicas para diferentes públicos e necessidades;
     * Avaliação Física e Funcional (antropometria, testes de aptidão);
@@ -186,7 +186,7 @@
     |Biologia Básica|Cursando|
     |Anatomia Básica|Cursando|
     |Socorros de Urgência|Cursando|
-    |História, Sociologia e Antropologia da Educação Física e Esporte|Cursando|
+    |História, Sociologia e Antropologia da Educação Física e Esporte|80h|
     |Metodologia da Pesquisa Científica|Cursando|
     |Arte, Cultura e Educação|Cursando|
     |Projeto Multidisciplinar Final I - Educação Física Bacharelado|Cursando|

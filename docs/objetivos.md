@@ -10,6 +10,8 @@
     * **Assistente / Analista de DevOps**
     * **Técnico de Suporte**
     * **Técnico de Informática**
+    ---
+    * Currículo TI em PDF: [:fontawesome-regular-file-pdf: Download](documentos/pdf/CURRICULO-ALESSANDRO-TI.pdf){:download="CURRICULO-ALESSANDRO-TI.pdf"}
 
 === "Administrativo :material-file-document-edit-outline:"
 
@@ -21,6 +23,8 @@
     * **Assistente / Analista Fiscal**
     * **Assistente / Analista de Departamento Pessoal**
     * **Assistente / Analista Administrativo**
+    ---
+    * Currículo Administrativo em PDF: [:fontawesome-regular-file-pdf: Download](documentos/pdf/CURRICULO-ALESSANDRO-ADMINISTRATIVO.pdf){:download="CURRICULO-ALESSANDRO-ADMINISTRATIVO.pdf"}
 
 === "Industrial :fontawesome-solid-industry:"
 
@@ -34,16 +38,16 @@
     * **Ajustador Mecânico**
     * **Mecânico de Manutenção**
     * **Operador de Utilidades ETA / ETE**
+    ---
+    * Currículo Industrial em PDF: [:fontawesome-regular-file-pdf: Download](documentos/pdf/CURRICULO-ALESSANDRO-INDUSTRIAL.pdf){:download="CURRICULO-ALESSANDRO-INDUSTRIAL.pdf"}
 
-=== "Gestão e Pedagogia :material-human-male-board-poll:"
+=== "Educação Física :fontawesome-solid-dumbbell:"
 
-    * **Supervisor de Produção**
-    * **Coordenador de Produção**
-    * **Coordenador Técnico**
-    * **Docente de Informática**
-    * **Docente de Administração**
-    * **Docente de Logística**
-    * **Docente de Marketing**
+    * **Estágio**
+    * **Educador Físico**
+    * **Personal (Musculação)**
+    ---
+    * Currículo Educação Física em PDF: [:fontawesome-regular-file-pdf: Download](documentos/pdf/CURRICULO-ALESSANDRO-EDUCACAO_FISICA.pdf){:download="CURRICULO-ALESSANDRO-EF.pdf"}
 
 === "Videomaker e Designer :material-video-vintage:"
 
@@ -53,6 +57,9 @@
     * **Editor de Áudio (Edição e Tratamento)**
     * **Editor de Criação (Direção - Edição - Tratamento)**
     * **Assistente / Analista de Mídias Sociais**
+    ---
+    * Currículo Videomaker e Designer em PDF: [:fontawesome-regular-file-pdf: Download](documentos/pdf/CURRICULO-ALESSANDRO-VIDEOMAKER_E_DESIGNER.pdf){:download="CURRICULO-ALESSANDRO-V&D.pdf"}
+
     ---
     !!! info ":material-video-vintage: **Prestador de Serviços**"
         <p style="text-align: justify;">
