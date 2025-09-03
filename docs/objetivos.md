@@ -11,7 +11,8 @@
     * **Técnico de Suporte**
     * **Técnico de Informática**
     ---
-    * Currículo TI em PDF: [:fontawesome-regular-file-pdf: Download](documentos/pdf/CURRICULO-ALESSANDRO-TI.pdf){:download="CURRICULO-ALESSANDRO-TI.pdf"}
+    !!! note info ":material-file-document: Currículo TI em PDF para download"
+        [:fontawesome-regular-file-pdf: Download](documentos/pdf/CURRICULO-ALESSANDRO-TI.pdf){:download="CURRICULO-ALESSANDRO-TI.pdf"}
 
 === "Administrativo :material-file-document-edit-outline:"
 
@@ -24,7 +25,8 @@
     * **Assistente / Analista de Departamento Pessoal**
     * **Assistente / Analista Administrativo**
     ---
-    * Currículo Administrativo em PDF: [:fontawesome-regular-file-pdf: Download](documentos/pdf/CURRICULO-ALESSANDRO-ADMINISTRATIVO.pdf){:download="CURRICULO-ALESSANDRO-ADMINISTRATIVO.pdf"}
+    !!! note info ":material-file-document: Currículo Administrativo em PDF para download"
+        [:fontawesome-regular-file-pdf: Download](documentos/pdf/CURRICULO-ALESSANDRO-ADMINISTRATIVO.pdf){:download="CURRICULO-ALESSANDRO-ADMINISTRATIVO.pdf"}
 
 === "Industrial :fontawesome-solid-industry:"
 
@@ -39,7 +41,8 @@
     * **Mecânico de Manutenção**
     * **Operador de Utilidades ETA / ETE**
     ---
-    * Currículo Industrial em PDF: [:fontawesome-regular-file-pdf: Download](documentos/pdf/CURRICULO-ALESSANDRO-INDUSTRIAL.pdf){:download="CURRICULO-ALESSANDRO-INDUSTRIAL.pdf"}
+    !!! note info ":material-file-document: Currículo Industrial em PDF para download"
+        [:fontawesome-regular-file-pdf: Download](documentos/pdf/CURRICULO-ALESSANDRO-INDUSTRIAL.pdf){:download="CURRICULO-ALESSANDRO-INDUSTRIAL.pdf"}
 
 === "Educação Física :fontawesome-solid-dumbbell:"
 
@@ -47,7 +50,8 @@
     * **Educador Físico**
     * **Personal (Musculação)**
     ---
-    * Currículo Educação Física em PDF: [:fontawesome-regular-file-pdf: Download](documentos/pdf/CURRICULO-ALESSANDRO-EDUCACAO_FISICA.pdf){:download="CURRICULO-ALESSANDRO-EF.pdf"}
+    !!! note info ":material-file-document: Currículo Educação Física em PDF para download"
+        [:fontawesome-regular-file-pdf: Download](documentos/pdf/CURRICULO-ALESSANDRO-EDUCACAO_FISICA.pdf){:download="CURRICULO-ALESSANDRO-EF.pdf"}
 
 === "Videomaker e Designer :material-video-vintage:"
 
@@ -58,17 +62,13 @@
     * **Editor de Criação (Direção - Edição - Tratamento)**
     * **Assistente / Analista de Mídias Sociais**
     ---
-    * Currículo Videomaker e Designer em PDF: [:fontawesome-regular-file-pdf: Download](documentos/pdf/CURRICULO-ALESSANDRO-VIDEOMAKER_E_DESIGNER.pdf){:download="CURRICULO-ALESSANDRO-V&D.pdf"}
+    !!! note info ":material-file-document: Currículo Videomaker e Designer em PDF para download"
+        [:fontawesome-regular-file-pdf: Download](documentos/pdf/CURRICULO-ALESSANDRO-VIDEOMAKER_E_DESIGNER.pdf){:download="CURRICULO-ALESSANDRO-V&D.pdf"}
 
-    ---
-    !!! info ":material-video-vintage: **Prestador de Serviços**"
+    !!! example ":material-video-vintage: **Prestador de Serviços (Freelance)**"
         <p style="text-align: justify;">
-        Atuante como **prestador de serviços** em restrospectivas animadas de aniversários, casamentos, confraternizações, empresarial, filhos do coração, etc.
-        </p>
-
-        <p style="text-align: justify;">Equipamentos de ponta e de última geração, acompanhados dos melhores softwares pagos e atuais, ambos utilizados para a realização com excelente qualidade de todo o projeto e trabalho de áudio/visual.
-        </p>
-
+        Atuante como **prestador de serviços** em restrospectivas animadas de aniversários, casamentos, confraternizações, empresarial, filhos do coração, etc.</p>
+        <p style="text-align: justify;">Equipamentos de ponta e de última geração, acompanhados dos melhores softwares pagos e atuais, ambos utilizados para a realização com excelente qualidade de todo o projeto e trabalho de áudio/visual.</p>
         ---
         <p style="text-align: justify;">:material-clipboard-text-play-outline: Saiba e veja mais em meu [Portfólio de Criação](portfolio-criacao.md).
         </p>
