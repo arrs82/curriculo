@@ -120,6 +120,7 @@ extra:
 extra_css:
     - 'assets/css/extra.css'
     - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/styles/default.min.css
+    - https://cdnjs.cloudflare.com/ajax/libs/flag-icons/7.0.0/css/flag-icons.min.css
 
 extra_javascript:
     - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/highlight.min.js

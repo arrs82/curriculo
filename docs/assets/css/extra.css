@@ -235,3 +235,23 @@ h2 {
     box-shadow: 0 8px 20px rgba(0,0,0,0.7);
 }
 
+/* Ajuste das bandeirinhas */
+.fi {
+  font-size: 22px;        /* controla o tamanho da bandeira */
+  line-height: 1;         /* remove espaçamento extra */
+  vertical-align: middle; /* alinha no centro da linha */
+  margin-right: 6px;
+}
+
+/* Versões maiores */
+.fi.fi-lg { font-size: 26px; }
+.fi.fi-xl { font-size: 32px; }
+
+/* Alinhamento dos ícones Material nas tabelas */
+td span.material-icons {
+  vertical-align: middle;
+  line-height: 1;       /* reduz espaçamento extra */
+}
+
+
+

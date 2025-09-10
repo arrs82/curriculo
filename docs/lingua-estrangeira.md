@@ -13,11 +13,11 @@
 }
 </style>
 
-|Língua|Leitura|Escrita|Conversação|
-|---|:---:|:---:|:---:|
-|![Inglês](assets/images/ingles.png){width="7%"}|:white_check_mark:|:white_check_mark:|:x:|
-|![Espanhol](assets/images/espanhol.png){width="7%"}|:white_check_mark:|:x:|:x:|
-|![Português](assets/images/portugues.png){width="7%"}|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+| Línguas | Leitura | Escrita | Conversação |
+|:---:|:---:|:---:|:---:|
+| <span class="fi fi-us fi-lg" title="Inglês"></span> | :material-check-circle:{ style="color: green; font-size:22px;" } | :material-check-circle:{ style="color: green; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } |
+| <span class="fi fi-es fi-lg" title="Espanhol"></span> | :material-check-circle:{ style="color: green; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } |
+| <span class="fi fi-br fi-lg" title="Português"></span> | :material-check-circle:{ style="color: green; font-size:22px;" } | :material-check-circle:{ style="color: green; font-size:22px;" } | :material-check-circle:{ style="color: green; font-size:22px;" } |
 
 !!! Quote "Confúcio"
     _"O que sabemos, saber que o sabemos. Aquilo que não sabemos, saber que não o sabemos: eis o verdadeiro saber."_
