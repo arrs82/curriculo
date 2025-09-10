@@ -6,8 +6,8 @@
 
 <p style="text-align: justify;">A informática esteve presente quase sempre em toda a minha vida profissional, pois ela é congruente com as minhas competências técnicas que resumem-se em um conjunto de habilidades, comportamentos, atitudes e conhecimentos empíricos inter-relacionados, que nada mais é o saber fazer na prática, o qual julgo com humildade ter sido eficiente e eficaz em todas as etapas da minha carreira profissional, com a suficiência técnica necessária às minhas formações e ocupações profissionais, estas todas atreladas à tecnologia da informação e que acho necessário destacar a competência informática abaixo em uma lista completa com o detalhamento e nível de conhecimento agregado para a análise e apreciação de quem interessar.
 </p>
----
-## **Profeciência Profissional**
+
+## **Profeciência Técnica**
 
 <style>
 .md-typeset__table {
@@ -20,33 +20,33 @@
 
 | Competência Técnica                                         | Básico         | Intermediário   | Avançado        |
 |-------------------------------------------------------------|:--------------:|:---------------:|:---------------:|
-| :fontawesome-solid-computer: Informática                    | :x:            | :x:             | :white_check_mark: |
-| :material-ip-network: Redes                                 | :x:            | :x:             | :white_check_mark: |
-| :octicons-terminal-16: PowerShell                           | :x:            | :white_check_mark: | :x:             |
-| :fontawesome-brands-dev: DevOps                             | :white_check_mark: | :x:             | :x:             |
-| :octicons-cloud-16: Cloud Storage                           | :white_check_mark: | :x:             | :x:             |
-| :fontawesome-brands-windows: Windows 10/11                  | :x:            | :x:             | :white_check_mark: |
-| :material-microsoft-dynamics-365: Office 365                | :x:            | :white_check_mark: | :x:             |
-| :material-file-word: Word                                   | :x:            | :white_check_mark: | :x:             |
-| :material-file-excel: Excel                                 | :white_check_mark: | :x:             | :x:             |
-| :material-file-powerpoint: Powerpoint                       | :x:            | :x:             | :white_check_mark: |
-| :material-microsoft-outlook: Outlook                        | :x:            | :white_check_mark: | :x:             |
-| :material-microsoft-access: Access                          | :white_check_mark: | :x:             | :x:             |
-| :material-microsoft-visual-studio-code: VS Code             | :x:            | :white_check_mark: | :x:             |
-| :material-microsoft-sharepoint: Sharepoint                  | :white_check_mark: | :x:             | :x:             |
-| :material-microsoft-teams: Teams                            | :x:            | :white_check_mark: | :x:             |
-| :material-microsoft-azure: Azure                            | :white_check_mark: | :x:             | :x:             |
-| :material-microsoft-onedrive: OneDrive                      | :x:            | :white_check_mark: | :x:             |
-| :fontawesome-brands-linux: Linux                            | :x:            | :white_check_mark: | :x:             |
-| :simple-libreoffice: Libre Office                           | :x:            | :white_check_mark: | :x:             |
-| :simple-proxmox: Proxmox                                    | :x:            | :white_check_mark: | :x:             |
-| :simple-virtualbox: Virtual Box                             | :x:            | :white_check_mark: | :x:             |
-| :material-freebsd: FreeBSD                                  | :x:            | :x:             | :white_check_mark: |
-| :simple-pfsense: pfSense                                    | :x:            | :x:             | :white_check_mark: |
-| :simple-kalilinux: Kali Linux                               | :white_check_mark: | :x:             | :x:             |
-| :simple-android: Android                                    | :x:            | :white_check_mark: | :x:             |
-| :simple-apple: iOS                                          | :x:            | :white_check_mark: | :x:             |
-| :simple-ubiquiti: Ubiquiti                                  | :x:            | :x:             | :white_check_mark: |
+| :fontawesome-solid-computer: Informática                    | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-check-circle:{ style="color: green; font-size:22px;" } |
+| :material-ip-network: Redes                                 | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-check-circle:{ style="color: green; font-size:22px;" } |
+| :octicons-terminal-16: PowerShell                           | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-check-circle:{ style="color: green; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } |
+| :fontawesome-brands-dev: DevOps                             | :material-check-circle:{ style="color: green; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } |
+| :octicons-cloud-16: Cloud Storage                           | :material-check-circle:{ style="color: green; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } |
+| :fontawesome-brands-windows: Windows 10/11                  | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-check-circle:{ style="color: green; font-size:22px;" } |
+| :material-microsoft-dynamics-365: Office 365                | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-check-circle:{ style="color: green; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } |
+| :material-file-word: Word                                   | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-check-circle:{ style="color: green; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } |
+| :material-file-excel: Excel                                 | :material-check-circle:{ style="color: green; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } |
+| :material-file-powerpoint: Powerpoint                       | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-check-circle:{ style="color: green; font-size:22px;" } |
+| :material-microsoft-outlook: Outlook                        | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-check-circle:{ style="color: green; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } |
+| :material-microsoft-access: Access                          | :material-check-circle:{ style="color: green; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } |
+| :material-microsoft-visual-studio-code: VS Code             | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-check-circle:{ style="color: green; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } |
+| :material-microsoft-sharepoint: Sharepoint                  | :material-check-circle:{ style="color: green; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } |
+| :material-microsoft-teams: Teams                            | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-check-circle:{ style="color: green; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } |
+| :material-microsoft-azure: Azure                            | :material-check-circle:{ style="color: green; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } |
+| :material-microsoft-onedrive: OneDrive                      | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-check-circle:{ style="color: green; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } |
+| :fontawesome-brands-linux: Linux                            | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-check-circle:{ style="color: green; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } |
+| :simple-libreoffice: Libre Office                           | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-check-circle:{ style="color: green; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } |
+| :simple-proxmox: Proxmox                                    | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-check-circle:{ style="color: green; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } |
+| :simple-virtualbox: Virtual Box                             | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-check-circle:{ style="color: green; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } |
+| :material-freebsd: FreeBSD                                  | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-check-circle:{ style="color: green; font-size:22px;" } |
+| :simple-pfsense: pfSense                                    | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-check-circle:{ style="color: green; font-size:22px;" } |
+| :simple-kalilinux: Kali Linux                               | :material-check-circle:{ style="color: green; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } |
+| :simple-android: Android                                    | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-check-circle:{ style="color: green; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } |
+| :simple-apple: iOS                                          | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-check-circle:{ style="color: green; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } |
+| :simple-ubiquiti: Ubiquiti                                  | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-check-circle:{ style="color: green; font-size:22px;" } |
 
 !!! Quote "Confúcio"
     _"O que sabemos, saber que o sabemos. Aquilo que não sabemos, saber que não o sabemos: eis o verdadeiro saber."_

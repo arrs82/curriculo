@@ -6,9 +6,9 @@
 
 <p style="text-align: justify;">Portfólio de criação envolvendo direção, gravações, edições de vídeos, edições de áudio, inserções de efeitos áudio/visuais juntamente com o tratamento fino de imagens, fazendo o uso de equipamentos semi-profissionais acompanhado dos melhores softwares pagos da atualidade, com abrangência em conhecimentos técnicos específicos na utilização destes em cada etapa dos projetos abaixo para a análise e apreciação de quem interessar.</p>
 
----
+## **Portfólio de Criação**
 
-### **Projetos Corporativos**
+### Projetos Corporativos
 !!! note tip ":material-video-vintage: Treinamento Wireflex"
     **Observações** <p style="text-align: justify;">Projeto gravado com equipamento _Canon EOS 80D_, placa de áudio dedicada _Creative_, fazendo a utilização de roteiros, de _chroma-key_ e do pacote Adobe para a edição áudio/visual juntamente com a inserção de efeitos e cenários diversos.</p>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -26,9 +26,8 @@
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/LI4QvzJth60?background=1?autoplay=1" title="24º Aniversário da Comunidade Evangélica Universal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
----
 
-### **Projetos Escolares**
+### Projetos Escolares
 !!! note tip ":material-video-vintage: Trabalho de Conclusão de Curso - SENAI"
     **Observações** <p style="text-align: justify;">Projeto gravado com equipamento _Canon EOS 80D_, placa de áudio dedicada _Creative_, fazendo a utilização de roteiros, de _chroma-key_ e do pacote Adobe para a edição áudio/visual juntamente com a inserção de efeitos e cenários diversos.</p>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -40,9 +39,8 @@
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/ezZMislsSBY?background=1?autoplay=1" title="Projeto de Planejamento de Infraestrutura de Redes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
----
 
-### **Projetos Festivos**
+### Projetos Festivos
 !!! note tip ":material-video-vintage: Aniversário Enrico"
     **Observações** <p style="text-align: justify;">Para a realização do projeto foram utilizados roteiros e o pacote Adobe para a edição áudio/visual juntamente com a inserção de efeitos.</p>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -54,9 +52,8 @@
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/szoUK24mioQ?background=1?autoplay=1" title="Aniversário Miriã" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
----
 
-### **Playlists Completas**
+### Playlists Completas
 !!! note tip ":material-video-vintage: Playlists Completas"
     * :fontawesome-brands-youtube: **Playlist 1** :material-arrow-right-box: [Clique aqui]( https://www.youtube.com/playlist?list=PLD1Y6l4XaYY3Aj6yvVVlRGzEYZUEO981I){:target="_blank"}
     * :fontawesome-brands-youtube: **Playlist 2** :material-arrow-right-box: [Clique aqui](https://www.youtube.com/playlist?list=PLD1Y6l4XaYY2btoQv-WYKCyFU8TScgUjy){:target="_blank"}

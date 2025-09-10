@@ -6,7 +6,9 @@
 
 <p style="text-align: justify;">Conteúdos pessoais e de terceiros, destinados irrestritamente para o <strong>compartilhamento, downloads e exibição</strong> de conhecimentos técnicos, aplicações e conteúdos diversos, como <I>softwares open-source</I>, jogos, cursos e/ou tutoriais, fomentando assim o enriquecimento e principalmente o engajamento do meu currículo profissional para com amigos, colegas e profissionais diversos.</p>
 
-## **Jogos on-line**
+## **Conteúdo**
+
+### Jogos on-line
 
 ??? Success ":material-microsoft-windows-classic: QBasic Gorillas"
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -54,7 +56,7 @@
     <strong>Observação:</strong> Emulador de jogos recomendado para jogar em <em>desktops</em> com o monitor em <em>fullscreen</em>. :material-fullscreen:
     </div>
 
-## **Linux**
+### Linux
 
 ??? Success ":simple-linux: Comandos"
     <p style="text-align:center;">
