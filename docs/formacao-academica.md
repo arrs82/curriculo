@@ -137,8 +137,8 @@
 
     <div style="text-align: justify;">
 
-    * Experiência profissional relevante nº 1 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#fundhas) e saiba mais.
-    * Experiência profissional relevante n° 2 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#pmsjc_1) e saiba mais.
+    * Experiência profissional relevante nº 1 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md) e saiba mais.
+    * Experiência profissional relevante n° 2 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md) e saiba mais.
 
 ??? Success ":fontawesome-solid-user-graduate: Educação Física"
     > :material-book-education-outline: Início: 02/2025 :fontawesome-solid-flag-checkered: Conclusão: 02/2029
@@ -316,8 +316,8 @@
 
     <div style="text-align: justify;">
 
-    * Experiência profissional relevante nº 1 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#grupo-card) e saiba mais.
-    * Experiência profissional relevante n° 2 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#pmsjc) e saiba mais.
+    * Experiência profissional relevante nº 1 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md) e saiba mais.
+    * Experiência profissional relevante n° 2 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md) e saiba mais.
 
 ??? Success ":fontawesome-solid-user-graduate: Mecânica"
     > :material-book-education-outline: Início: 01/2000 :fontawesome-solid-flag-checkered: Conclusão: 12/2001
@@ -388,9 +388,9 @@
 
     <div style="text-align: justify;">
 
-    * Experiência profissional relevante nº 1 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#general-motors) e saiba mais.
-    * Experiência profissional relevante n° 2 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#magnaghi-friuli-aerospace) e saiba mais.
-    * Experiência profissional relevante n° 3 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md/#precitech-inova) e saiba mais.
+    * Experiência profissional relevante nº 1 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md) e saiba mais.
+    * Experiência profissional relevante n° 2 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md) e saiba mais.
+    * Experiência profissional relevante n° 3 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md) e saiba mais.
 
 <!-- Ícone Whatsapp. -->
 <!DOCTYPE html>

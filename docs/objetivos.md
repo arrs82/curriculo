@@ -12,7 +12,7 @@
     * **Técnico de Informática**
     ---
     !!! note info ":material-file-document: Currículo TI em PDF para download"
-        [:fontawesome-regular-file-pdf: Download](documentos/pdf/CURRICULO-ALESSANDRO-TI.pdf){:download="CURRICULO-ALESSANDRO-TI.pdf"}
+        [:fontawesome-regular-file-pdf: Abrir PDF](documentos/pdf/CURRICULO-ALESSANDRO-TI.pdf){target="_blank"}
 
 === "Administrativo :material-file-document-edit-outline:"
 
@@ -26,7 +26,7 @@
     * **Assistente / Analista Administrativo**
     ---
     !!! note info ":material-file-document: Currículo Administrativo em PDF para download"
-        [:fontawesome-regular-file-pdf: Download](documentos/pdf/CURRICULO-ALESSANDRO-ADMINISTRATIVO.pdf){:download="CURRICULO-ALESSANDRO-ADMINISTRATIVO.pdf"}
+        [:fontawesome-regular-file-pdf: Abrir PDF](documentos/pdf/CURRICULO-ALESSANDRO-ADMINISTRATIVO.pdf){target="_blank"}
 
 === "Industrial :fontawesome-solid-industry:"
 
@@ -42,7 +42,7 @@
     * **Operador de Utilidades ETA / ETE**
     ---
     !!! note info ":material-file-document: Currículo Industrial em PDF para download"
-        [:fontawesome-regular-file-pdf: Download](documentos/pdf/CURRICULO-ALESSANDRO-INDUSTRIAL.pdf){:download="CURRICULO-ALESSANDRO-INDUSTRIAL.pdf"}
+         [:fontawesome-regular-file-pdf: Abrir PDF](documentos/pdf/CURRICULO-ALESSANDRO-INDUSTRIAL.pdf){target="_blank"}
 
 === "Educação Física :fontawesome-solid-dumbbell:"
 
@@ -51,7 +51,7 @@
     * **Personal (Musculação)**
     ---
     !!! note info ":material-file-document: Currículo Educação Física em PDF para download"
-        [:fontawesome-regular-file-pdf: Download](documentos/pdf/CURRICULO-ALESSANDRO-EDUCACAO_FISICA.pdf){:download="CURRICULO-ALESSANDRO-EF.pdf"}
+        [:fontawesome-regular-file-pdf: Abrir PDF](documentos/pdf/CURRICULO-ALESSANDRO-EDUCACAO_FISICA.pdf){target="_blank"}
 
 === "Videomaker e Designer :material-video-vintage:"
 
@@ -63,7 +63,7 @@
     * **Assistente / Analista de Mídias Sociais**
     ---
     !!! note info ":material-file-document: Currículo Videomaker e Designer em PDF para download"
-        [:fontawesome-regular-file-pdf: Download](documentos/pdf/CURRICULO-ALESSANDRO-VIDEOMAKER_E_DESIGNER.pdf){:download="CURRICULO-ALESSANDRO-V&D.pdf"}
+        [:fontawesome-regular-file-pdf: Abrir PDF](documentos/pdf/CURRICULO-ALESSANDRO-VIDEOMAKER_E_DESIGNER.pdf){target="_blank"}
 
     !!! example ":material-video-vintage: **Prestador de Serviços (Freelance)**"
         <p style="text-align: justify;">
