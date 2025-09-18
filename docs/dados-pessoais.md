@@ -57,8 +57,9 @@
 === "QR Code :material-qrcode-scan:"
 
     !!! info "**QR Code - Acesse em seu celular**"
-        <div align="center">
-        <img src="../assets/images/qr-code.png" alt="QR Code" title="QR Code" width="275">
+        <div style="display: flex; align-items: flex-end; gap: 20px;">
+            <img src="../assets/images/acesse-celular.png" alt="Acesse no celular" title="Acesse em seu celular!" width="200">
+            <img src="../assets/images/qr-code.png" alt="QR Code" title="QR Code" width="275">
         </div>
 
 <!-- Ícone Whatsapp. -->

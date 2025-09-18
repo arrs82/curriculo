@@ -47,6 +47,7 @@
 | :simple-android: Android                                    | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-check-circle:{ style="color: green; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } |
 | :simple-apple: iOS                                          | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-check-circle:{ style="color: green; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } |
 | :simple-ubiquiti: Ubiquiti                                  | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-check-circle:{ style="color: green; font-size:22px;" } |
+| :simple-sketchup: Sketchup                                  | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } | :material-check-circle:{ style="color: green; font-size:22px;" } | :material-close-circle:{ style="color: #d3d3d3; font-size:22px;" } |
 
 !!! Quote "Confúcio"
     _"O que sabemos, saber que o sabemos. Aquilo que não sabemos, saber que não o sabemos: eis o verdadeiro saber."_
