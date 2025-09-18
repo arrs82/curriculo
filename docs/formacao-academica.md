@@ -137,8 +137,7 @@
 
     <div style="text-align: justify;">
 
-    * Experiência profissional relevante nº 1 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md) e saiba mais.
-    * Experiência profissional relevante n° 2 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md) e saiba mais.
+    * Experiências profissionais relevantes :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md) e saiba mais.
 
 ??? Success ":fontawesome-solid-user-graduate: Educação Física"
     > :material-book-education-outline: Início: 02/2025 :fontawesome-solid-flag-checkered: Conclusão: 02/2029
@@ -316,8 +315,7 @@
 
     <div style="text-align: justify;">
 
-    * Experiência profissional relevante nº 1 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md) e saiba mais.
-    * Experiência profissional relevante n° 2 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md) e saiba mais.
+    * Experiências profissionais relevantes :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md) e saiba mais.
 
 ??? Success ":fontawesome-solid-user-graduate: Mecânica"
     > :material-book-education-outline: Início: 01/2000 :fontawesome-solid-flag-checkered: Conclusão: 12/2001
@@ -388,9 +386,7 @@
 
     <div style="text-align: justify;">
 
-    * Experiência profissional relevante nº 1 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md) e saiba mais.
-    * Experiência profissional relevante n° 2 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md) e saiba mais.
-    * Experiência profissional relevante n° 3 :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md) e saiba mais.
+    * Experiências profissionais relevantes :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md) e saiba mais.
 
 <!-- Ícone Whatsapp. -->
 <!DOCTYPE html>
