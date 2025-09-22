@@ -24,6 +24,7 @@
     * **Assistente / Analista Fiscal**
     * **Assistente / Analista de Departamento Pessoal**
     * **Assistente / Analista Administrativo**
+    * **Gestão Administrativa (Gerência / Supervisão)**
     ---
     !!! note info ":material-file-document: Currículo Administrativo em PDF para download"
         [:fontawesome-regular-file-pdf: Abrir PDF](documentos/pdf/CURRICULO-ALESSANDRO-ADMINISTRATIVO.pdf){target="_blank"}
@@ -40,6 +41,7 @@
     * **Ajustador Mecânico**
     * **Mecânico de Manutenção**
     * **Operador de Utilidades ETA / ETE**
+    * **Gestão Fabril & Manutenção (Gerência / Supervisão)**
     ---
     !!! note info ":material-file-document: Currículo Industrial em PDF para download"
          [:fontawesome-regular-file-pdf: Abrir PDF](documentos/pdf/CURRICULO-ALESSANDRO-INDUSTRIAL.pdf){target="_blank"}
