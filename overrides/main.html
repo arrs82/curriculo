@@ -1,111 +1,125 @@
 {% extends "base.html" %}
 
-{# 1. Bloco EXTRAHEAD: INJETA O CSS COMPLETO #}
 {% block extrahead %}
   {{ super() }}
-  
-  {# 🌟 NOVO: PRELOADING DA IMAGEM 🌟 #}
+
+  {# 🌟 PRELOADING DA IMAGEM 🌟 #}
   <link rel="preload" href="{{ base_url }}/assets/images/cartao-de-visita.png" as="image">
 
   {% if page.file.name == "index" %}
     <style>
-      /* Hero container full screen - estilos básicos */
-      .mdx-hero {
-        position: relative;
+      /* HERO FULLSCREEN */
+      .mdx-hero.homepage {
+        position: fixed;
+        inset: 0;
+        width: 100vw;
+        height: 100vh;
         display: flex;
-        flex-direction: column;
         justify-content: center;
         align-items: center;
-        width: 100%;
-        /* CAMINHO DA IMAGEM: AGORA ABSOLUTO USANDO base_url */
-        background: url('{{ base_url }}/assets/images/cartao-de-visita.png') no-repeat center center;
-        background-size: cover;
+        z-index: 999;
         color: white;
-      }
-      .mdx-hero__overlay {
-        position: absolute; top: 0; left: 0; width: 100%; height: 100%;
-        background-color: rgba(0,0,0,0.5); z-index: 1;
+        text-align: center;
+        overflow: hidden;
       }
 
-      /* AJUSTE CRÍTICO: Disposição Vertical (Título no Topo, Botões na Base) */
+      /* BACKGROUND ELEMENT (para animar zoom) */
+      .mdx-hero::before {
+        content: '';
+        position: absolute;
+        inset: 0;
+        background-image: url('{{ base_url }}/assets/images/cartao-de-visita.png');
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover; /* mantém o corte lateral */
+        z-index: 0;
+        transform: scale(1.2); /* zoom inicial desktop */
+        animation: zoomDesktop 25s ease forwards;
+      }
+
+      /* Overlay escuro */
+      .mdx-hero__overlay {
+        position: absolute;
+        inset: 0;
+        background-color: rgba(0,0,0,0.5);
+        z-index: 1;
+      }
+
+      /* Conteúdo */
       .mdx-hero__content {
-        position: relative; z-index: 2; text-align: center; max-width: 700px;
+        position: relative;
+        z-index: 2;
+        max-width: 700px;
+        width: 90%;
         padding: 4rem 1rem;
         display: flex;
         flex-direction: column;
         justify-content: space-between;
         align-items: center;
         height: 100vh;
-        width: 100%;
-      }
-      .mdx-hero__content h1 {
-        margin-top: 0;
-        font-size: 2.0rem; line-height: 1.2; margin-bottom: 2rem;
-      }
-      .mdx-buttons {
-        margin-top: auto;
-        margin-bottom: 3.0rem;
-        display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center;
       }
 
-      /* Estilos de Botões */
+      .mdx-hero__content h1 {
+        margin-top: 0;
+        font-size: 2rem;
+        line-height: 1.2;
+        margin-bottom: 2rem;
+      }
+
+      .mdx-buttons {
+        margin-top: auto;
+        margin-bottom: 3rem;
+        display: flex;
+        gap: 1rem;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+
       .md-button {
-        display: flex; align-items: center; justify-content: center;
-        width: 220px; height: 60px; font-size: 1rem; font-weight: 500;
-        border-radius: 6px; text-decoration: none; text-align: center;
-        transition: all 0.3s ease; box-sizing: border-box;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 220px;
+        height: 60px;
+        font-size: 1rem;
+        font-weight: 500;
+        border-radius: 6px;
+        text-decoration: none;
+        text-align: center;
+        transition: all 0.3s ease;
+        box-sizing: border-box;
       }
       .md-button--primary { background-color: #dd2e57; color: white; }
       .md-button--primary:hover { background-color: #546d78; }
       .md-button--secondary { background-color: transparent; border: 2px solid white; color: white; }
       .md-button--secondary:hover { background-color: #25D366; color: white; }
-      @media (max-width: 768px) { .md-button { width: 100%; max-width: 320px; } }
 
-      /* REGRAS CRÍTICAS DE LAYOUT PARA A PÁGINA DE ENTRADA (INDEX.MD) */
-      .mdx-hero.homepage {
-        position: fixed;
-        top: 0;
-        left: 0;
-        right: 0;
-        width: 100vw;
-        height: 100vh !important;
-        z-index: 999;
-        display: flex;
-        justify-content: center;
-        align-items: center;
+      /* ZOOM DESKTOP */
+      @keyframes zoomDesktop {
+        0%   { transform: scale(1.2); }
+        100% { transform: scale(1); }
       }
 
-      /* SOLUÇÃO DE CENTRALIZAÇÃO V1: Sobrescreve a variável de espaçamento lateral do tema */
-      .md-typeset--homepage .md-container {
-        --md-layout-gap: 0;
+      /* MOBILE */
+      @media (max-width: 768px) {
+        .mdx-hero::before {
+          transform: scale(1.1); /* zoom inicial menor no mobile */
+          animation: zoomMobile 20s ease forwards;
+        }
+        @keyframes zoomMobile {
+          0%   { transform: scale(1.1); }
+          100% { transform: scale(1); }
+        }
+
+        .mdx-hero__content h1 { font-size: 1.6rem; }
+        .md-button { width: 100%; max-width: 320px; }
       }
 
-      /* SOLUÇÃO NUCLEAR DE CENTRALIZAÇÃO V2: Anula Margens e Transforms */
-      .md-typeset--homepage {
-        transform: none !important;
-        left: 0 !important;
-        right: 0 !important;
-        margin: 0 !important;
-        padding: 0 !important;
-      }
-
-      .md-typeset--homepage .md-container {
-        padding-left: 0 !important;
-        margin-left: 0 !important;
-        padding-right: 0 !important;
-        margin-right: 0 !important;
-        width: 100vw !important; /* Força a largura total da viewport */
-      }
-
-      /* 🌟 SOLUÇÃO FINAL: Oculta todos os componentes do cabeçalho do tema 🌟 */
-      .md-header {
-        display: none !important;
-      }
+      /* Remove elementos do tema */
+      .md-header { display: none !important; }
       .md-typeset--homepage .md-tabs,
       .md-typeset--homepage .md-toolbar,
-      .md-typeset--homepage .md-container {
-        display: none !important;
-      }
+      .md-typeset--homepage .md-container { display: none !important; }
 
       html.md-typeset--homepage,
       body.md-typeset--homepage {
@@ -118,17 +132,12 @@
   {% endif %}
 {% endblock %}
 
-{# 2. Bloco HERO: O Hero de entrada #}
 {% block hero %}
   {% if page.file.name == "index" %}
     <section class="mdx-hero homepage" data-mdx-component="hero">
       <div class="mdx-hero__overlay"></div>
       <div class="mdx-hero__content">
-        <h1>
-          Bem-vindo!<br>
-          <br>
-          CURRÍCULO PROFISSIONAL
-        </h1>
+        <h1>Bem-vindo!<br><br>CURRÍCULO PROFISSIONAL</h1>
         <div class="mdx-buttons">
           <a href="{{ base_url }}/apresentacao-pessoal/" class="md-button md-button--primary">Ver Currículo</a>
           <a href="{{ base_url }}/dados-pessoais/" class="md-button md-button--secondary">Entrar em Contato</a>
@@ -138,7 +147,6 @@
   {% endif %}
 {% endblock %}
 
-{# 3. Bloco CONTENT: Oculta o conteúdo do index.md #}
 {% block content %}
   {% if not page.is_homepage %}
     {{ super() }}
