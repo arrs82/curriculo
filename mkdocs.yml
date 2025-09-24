@@ -16,7 +16,8 @@ copyright: © 2025 Curriculo Profissional - Alessandro Roberto dos Reis Santos
 
 # Page tree
 nav:
-        - Apresentação Pessoal: index.md
+        - Página Inicial: index.md
+        - Apresentação Pessoal: apresentacao-pessoal.md
         - Dados Pessoais: dados-pessoais.md
         - Objetivos Profissionais: objetivos.md
         - Formação Acadêmica: formacao-academica.md
