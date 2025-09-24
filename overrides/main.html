@@ -3,6 +3,10 @@
 {# 1. Bloco EXTRAHEAD: INJETA O CSS COMPLETO #}
 {% block extrahead %}
   {{ super() }}
+  
+  {# 🌟 NOVO: PRELOADING DA IMAGEM 🌟 #}
+  <link rel="preload" href="{{ base_url }}/assets/images/cartao-de-visita.png" as="image">
+
   {% if page.file.name == "index" %}
     <style>
       /* Hero container full screen - estilos básicos */
