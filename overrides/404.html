@@ -1,12 +1,5 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<!-- FAVICONS -->
-<link rel="icon" type="image/x-icon" href="../../assets/images/favicons/favicon.ico">
-<link rel="icon" type="image/png" sizes="96x96" href="../../assets/images/favicons/favicon-96x96.png">
-<link rel="apple-touch-icon" href="../../assets/images/favicons/apple-touch-icon.png">
-<link rel="icon" type="image/svg+xml" href="../../assets/images/favicons/favicon.svg">
-<link rel="manifest" href="../../assets/images/favicons/web-app-manifest-192x192.png">
-<link rel="stylesheet" type="text/css" href="style.css">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -20,6 +13,11 @@
       text-align: center;
       font-family: "Open Sans", sans-serif;
       font-size: 1.3rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
     }
 
     body h1 {
@@ -28,7 +26,7 @@
 
     .message {
       max-width: 700px;
-      margin: 5rem auto 0 auto;
+      margin: 2rem auto 0 auto;
     }
 
     @keyframes floating {
@@ -261,6 +259,73 @@
       top: -70px;
       left: -9px;
     }
+
+    .button-container {
+      display: flex;
+      justify-content: center;
+      margin-top: 0rem;
+    }
+
+    .the-one-ring {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 95px;
+      height: 95px;
+      border-radius: 50%;
+      position: relative;
+      background: radial-gradient(circle at 50% 50%, #f4c20d 0%, #a68b44 100%);
+      box-shadow: 0 0 10px rgba(255, 215, 0, 0.5), 0 0 20px rgba(255, 215, 0, 0.3);
+      text-decoration: none;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      overflow: hidden;
+    }
+
+    .the-one-ring::before {
+      content: '';
+      position: absolute;
+      top: 9px;
+      left: 9px;
+      right: 9px;
+      bottom: 9px;
+      border-radius: 50%;
+      background-color: #546d78;
+      z-index: 1;
+    }
+
+    .the-one-ring:hover {
+      transform: scale(1.1);
+      box-shadow: 0 0 15px rgba(255, 215, 0, 0.8), 0 0 30px rgba(255, 215, 0, 0.6), 0 0 45px rgba(255, 215, 0, 0.4);
+    }
+
+    .ring-text {
+      font-size: 1rem;
+      font-weight: bold;
+      color: #000;
+      text-shadow: 0 0 5px #ffdb58, 0 0 10px #ffdb58;
+      z-index: 2;
+    }
+
+    /* Adiciona estilos responsivos para telas de até 600px */
+    @media (max-width: 600px) {
+      .gandalf {
+        /* Reduz a escala da ilustração inteira para caber na tela */
+        transform: scale(0.6);
+        /* Ajusta o posicionamento para a nova escala */
+        top: 0;
+        margin-bottom: 0;
+        /* Altera a velocidade da animação para um valor mais lento */
+        animation-duration: 2.5s;
+      }
+
+      body h1 {
+        font-size: 1.8rem;
+      }
+
+      .message {
+        margin-top: 1rem;
+      }
+    }
   </style>
 </head>
 <body>
@@ -281,8 +346,13 @@
     <h1 style="font-size: 90px; margin: 0;">404</h1>
     <h1><em>"VOCÊ... NÃO VAI PASSAR DAQUI!"</em></h1>
     <p>Opa, o Gandalf está bloqueando o caminho da pasta!<br>
-       Talvez você tenha errado o endereço da URL? Ou você tentou ir para um lugar diferente? Tipo... Vila dos Hobbits? Pare de ser enxerido...
+      Talvez você tenha errado o endereço da URL? Ou você tentou ir para um lugar diferente? Tipo... Vila dos Hobbits? Pare de ser enxerido...
     </p>
+  </div>
+  <div class="button-container">
+    <a href="/" class="the-one-ring">
+      <span class="ring-text">Página Inicial</span>
+    </a>
   </div>
 </body>
 </html>
