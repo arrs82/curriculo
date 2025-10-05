@@ -73,7 +73,7 @@ body.md-typeset--homepage {
   z-index: 2;
   max-width: 700px;
   width: 90%;
-  padding: 4rem 1rem;
+  padding: 3rem 1rem; /* Padding padrão para DESKTOP (4rem) */
   display: flex;
   flex-direction: column;
   /* LAYOUT ORIGINAL PRESERVADO: Título no topo, Botões embaixo */
@@ -87,7 +87,7 @@ body.md-typeset--homepage {
   margin-top: 0;
   font-size: 2.3rem;
   line-height: 1.2;
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
 }
 .mdx-buttons {
   margin-top: auto;
@@ -117,8 +117,13 @@ body.md-typeset--homepage {
 .md-button--secondary:hover { background-color: #25D366; color: white; }
 
 
-/* 6. RESPONSIVIDADE (MOBILE): APENAS O FOCO DO VÍDEO É AJUSTADO */
+/* 6. RESPONSIVIDADE (MOBILE): AJUSTES DE POSIÇÃO E FOCO */
 @media (max-width: 768px) {
+    /* Puxa o título e botões para cima, reduzindo o espaço vertical */
+    .mdx-hero__content {
+        padding: 2rem 1rem; /* Reduz de 4rem para 2rem (topo/base), subindo o conteúdo */
+    }
+
     #video-background {
         /*
          * Ajuste seguro: Mantém 'cover' (sem distorção), mas muda o foco.
