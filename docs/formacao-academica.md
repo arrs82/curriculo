@@ -4,7 +4,7 @@
 
 ## **Introdução**
 
-<p style="text-align: justify;">Curso superior e todos os cursos técnicos destacados abaixo, estes cursados ao longo de minha carreira profissional, detém em cada um deles um PDF que são os respectivos diploma e certificados de conclusão para a realização do download e posteriores análises e apreciação.</p>
+<p style="text-align: justify;">Cursos superiores e todos os cursos técnicos destacados abaixo, estes cursados ao longo de minha carreira profissional, detém em cada um deles um PDF que são os respectivos diplomas e certificados de conclusão para a realização do download e posteriores análises e apreciação.</p>
 
 ## **Cursos Superiores**
 
