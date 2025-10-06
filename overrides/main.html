@@ -6,7 +6,8 @@
 {# INÍCIO DO BLOCO CONDICIONAL: TUDO SÓ PARA A PÁGINA INICIAL (index.md) #}
 {% if page.file.name == "index" %}
 
-{# Pré-carrega o vídeo MP4 #}
+{# Pré-carrega o vídeo WEBM e/ou MP4#}
+<link rel="preload" href="/assets/videos/curriculo.webm" as="video" type="video/webm">
 <link rel="preload" href="/assets/videos/curriculo.mp4" as="video" type="video/mp4">
 
 <style>
@@ -146,7 +147,7 @@ box-sizing: border-box;
   <video autoplay loop muted playsinline id="video-background" disablepictureinpicture **preload="auto"**>
       <source src="/assets/videos/curriculo.webm" type="video/webm">
       <source src="/assets/videos/curriculo.mp4" type="video/mp4">
-      Seu navegador é 1/2 boca e não suporta vídeos interativos de fundo.
+      Seu navegador é 1/2 boca e não suporta vídeos interativos de fundo na minha página inicial.
   </video>
 
   <div class="mdx-hero__overlay"></div>
