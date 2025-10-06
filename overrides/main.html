@@ -125,7 +125,7 @@ body.md-typeset--homepage{
 <section class="mdx-hero homepage" id="hero">
 
   <!-- VÍDEO de fundo (carregado dinamicamente) -->
-  <video autoplay loop muted playsinline id="video-background" disablepictureinpicture poster="/assets/videos/thumb.png"></video>
+  <video autoplay loop muted playsinline id="video-background" disablepictureinpicture poster="/assets/videos/thumb.png" preload="metadata"></video>
 
   <div class="mdx-hero__overlay"></div>
 
@@ -143,10 +143,15 @@ body.md-typeset--homepage{
 function initVideo(){
   const video=document.getElementById('video-background');
   if(!video) return;
+
+  // Se já tiver um source, não duplicar
+  if(video.querySelector('source')) return;
+
   const source=document.createElement('source');
-  source.src="/assets/videos/curriculo.webm";
+  source.src="/assets/videos/curriculo.webm";  // seu vídeo original
   source.type="video/webm";
   video.appendChild(source);
+
   video.load();
   video.play().catch(()=>{});
 }
