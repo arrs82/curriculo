@@ -1,122 +1,119 @@
 {% extends "base.html" %}
-
 {% block extrahead %}
 {{ super() }}
-
 {% if page.file.name == "index" %}
 <style>
 /* 1. CSS Essencial: Esconde o tema e garante fullscreen */
 html,body{
-  margin:0;
-  padding:0;
-  height:100vh;
-  overflow:hidden !important;
+margin:0;
+padding:0;
+height:100vh;
+overflow:hidden !important;
 }
 /* Esconde o tema SÓ NA HOMEPAGE */
 .md-header,.md-tabs,.md-main__inner,.md-footer{
-  display:none !important;
+display:none !important;
 }
 html.md-typeset--homepage,
 body.md-typeset--homepage{
-  overflow:hidden !important;
-  height:100vh !important;
-  padding:0 !important;
-  margin:0 !important;
+overflow:hidden !important;
+height:100vh !important;
+padding:0 !important;
+margin:0 !important;
 }
 
 /* 2. Container Principal (Hero Section) */
 .mdx-hero.homepage{
-  position:fixed;
-  inset:0;
-  width:100vw;
-  height:100vh;
-  display:flex;
-  justify-content:center;
-  align-items:center;
-  text-align:center;
-  color:white;
-  z-index:999;
-  overflow:hidden;
+position:fixed;
+inset:0;
+width:100vw;
+height:100vh;
+display:flex;
+justify-content:center;
+align-items:center;
+text-align:center;
+color:white;
+z-index:999;
+overflow:hidden;
 }
 
 /* 3. Estilo do VÍDEO de Fundo */
 #video-background{
-  position:absolute;
-  top:50%;
-  left:50%;
-  min-width:100%;
-  min-height:100%;
-  width:auto;
-  height:auto;
-  z-index:0;
-  transform:translate(-50%,-50%);
-  object-fit:cover;
-  object-position:center center;
-  filter:brightness(1.05) contrast(1.3);
+position:absolute;
+top:50%;
+left:50%;
+min-width:100%;
+min-height:100%;
+width:auto;
+height:auto;
+z-index:0;
+transform:translate(-50%,-50%);
+object-fit:cover;
+object-position:center center;
+filter:brightness(1.05) contrast(1.3);
 }
 
 /* 4. Overlay escuro e Conteúdo Central */
 .mdx-hero__overlay{
-  position:absolute;
-  inset:0;
-  background-color:rgba(0,0,0,0.60);
-  z-index:1;
+position:absolute;
+inset:0;
+background-color:rgba(0,0,0,0.60);
+z-index:1;
 }
 .mdx-hero__content{
-  position:relative;
-  z-index:2;
-  max-width:700px;
-  width:90%;
-  padding:3rem 1rem;
-  display:flex;
-  flex-direction:column;
-  justify-content:space-between;
-  align-items:center;
-  height:100vh;
+position:relative;
+z-index:2;
+max-width:700px;
+width:90%;
+padding:3rem 1rem;
+display:flex;
+flex-direction:column;
+justify-content:space-between;
+align-items:center;
+height:100vh;
 }
 
 /* 5. Estilos de TÍTULO e BOTÕES */
 .mdx-hero__content h1{
-  margin-top:0;
-  font-size:2.3rem;
-  line-height:1.2;
-  margin-bottom:1.5rem;
+margin-top:0;
+font-size:2.3rem;
+line-height:1.2;
+margin-bottom:1.5rem;
 }
 .mdx-buttons{
-  margin-top:auto;
-  margin-bottom:6.5rem;
-  display:flex;
-  gap:1rem;
-  flex-wrap:wrap;
-  justify-content:center;
+margin-top:auto;
+margin-bottom:6.5rem;
+display:flex;
+gap:1rem;
+flex-wrap:wrap;
+justify-content:center;
 }
 .md-button{
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  width:220px;
-  height:60px;
-  font-size:1rem;
-  font-weight:500;
-  border-radius:6px;
-  text-decoration:none;
-  text-align:center;
-  transition:all 0.3s ease;
-  box-sizing:border-box;
+display:flex;
+align-items:center;
+justify-content:center;
+width:220px;
+height:60px;
+font-size:1rem;
+font-weight:500;
+border-radius:6px;
+text-decoration:none;
+text-align:center;
+transition:all 0.3s ease;
+box-sizing:border-box;
 }
 .md-button--primary{background-color:#dd2e57;color:white;}
 .md-button--primary:hover{background-color:#546d78;}
 .md-button--secondary{background-color:transparent;border:2px solid white;color:white;}
 .md-button--secondary:hover{background-color:#25D366;color:white;}
 
-/* 6. RESPONSIVIDADE (MOBILE) */
+/* 6. RESPONSIVIDADE (MOBILE) - MANTIDO ORIGINAL */
 @media (max-width:768px){
-  .mdx-hero__content{padding:2rem 1rem;}
-  #video-background{object-position:center bottom;}
+.mdx-hero__content{padding:2rem 1rem;}
+#video-background{object-position:center bottom;}
 }
 </style>
 {% endif %}
-
 {% endblock %}
 
 
@@ -124,43 +121,41 @@ body.md-typeset--homepage{
 {% if page.file.name == "index" %}
 <section class="mdx-hero homepage" id="hero">
 
-  <!-- VÍDEO de fundo (carregado dinamicamente) -->
-  <video autoplay loop muted playsinline id="video-background" disablepictureinpicture poster="/assets/videos/thumb.png" preload="metadata"></video>
+<video autoplay loop muted playsinline id="video-background" disablepictureinpicture poster="/assets/videos/thumb.png" preload="auto"></video>
 
-  <div class="mdx-hero__overlay"></div>
+<div class="mdx-hero__overlay"></div>
 
-  <div class="mdx-hero__content">
-    <h1>MEU<br><br>CURRÍCULO PROFISSIONAL</h1>
-    <div class="mdx-buttons">
-      <a href="{{ base_url }}/apresentacao-pessoal/" class="md-button md-button--primary">Ver Currículo</a>
-      <a href="{{ base_url }}/dados-pessoais/" class="md-button md-button--secondary">Entrar em Contato</a>
-    </div>
-  </div>
+<div class="mdx-hero__content">
+<h1>MEU<br><br>CURRÍCULO PROFISSIONAL</h1>
+<div class="mdx-buttons">
+<a href="{{ base_url }}/apresentacao-pessoal/" class="md-button md-button--primary">Ver Currículo</a>
+<a href="{{ base_url }}/dados-pessoais/" class="md-button md-button--secondary">Entrar em Contato</a>
+</div>
+</div>
 </section>
 
-<!-- SCRIPT para carregar o vídeo após renderização -->
 <script>
 function initVideo(){
-  const video=document.getElementById('video-background');
-  if(!video) return;
+const video=document.getElementById('video-background');
+if(!video) return;
 
-  // Se já tiver um source, não duplicar
-  if(video.querySelector('source')) return;
+// Se já tiver um source, não duplicar
+if(video.querySelector('source')) return;
 
-  const source=document.createElement('source');
-  source.src="/assets/videos/curriculo.webm";  // seu vídeo original
-  source.type="video/webm";
-  video.appendChild(source);
+const source=document.createElement('source');
+source.src="/assets/videos/curriculo.webm";  // seu vídeo original
+source.type="video/webm";
+video.appendChild(source);
 
-  video.load();
-  video.play().catch(()=>{});
+video.load();
+video.play().catch(()=>{});
 }
 
 // Compatível com modo SPA do MkDocs Material
 if(typeof document$!=='undefined'){
-  document$.subscribe(initVideo);
+document$.subscribe(initVideo);
 }else{
-  document.addEventListener("DOMContentLoaded",initVideo);
+document.addEventListener("DOMContentLoaded",initVideo);
 }
 </script>
 
