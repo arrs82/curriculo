@@ -112,21 +112,50 @@ box-sizing:border-box;
 .md-button--secondary:hover{background-color:#25D366;color:white;}
 
 /* 6. RESPONSIVIDADE (MOBILE) */
-@media (max-width:768px){
-.mdx-hero__content{
-padding:2rem 1rem;
-height: auto;
-min-height: 100vh;
-justify-content: center;
+/* MOBILE - portrait (vertical) */
+@media (max-width:768px) and (orientation: portrait) {
+    .mdx-hero__content{
+        padding:2rem 1rem;
+        height: auto;
+        min-height: 100vh;
+        justify-content: center;
+    }
+    .mdx-hero__content h1{
+        font-size: 1.6rem;
+        margin-top: 3rem;
+        margin-bottom: 3rem;
+    }
+    .mdx-buttons{
+        margin-top:2.5rem;
+        margin-bottom:2rem;
+        transform: translateY(-30px);
+    }
+    #video-background{
+        object-position:center bottom;
+    }
 }
-.mdx-hero__content h1{
-font-size: 1.8rem;
-}
-.mdx-buttons{
-margin-top:2.5rem;
-margin-bottom:0;
-}
-#video-background{object-position:center bottom;}
+
+/* MOBILE - landscape (horizontal) */
+@media (max-width:1024px) and (orientation: landscape) {
+    .mdx-hero__content{
+        padding:1.5rem 1rem;
+        height: auto;
+        min-height: 100vh;
+        justify-content: center;
+    }
+    .mdx-hero__content h1{
+        font-size: 1.9rem;   /* menor para caber na largura */
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+    .mdx-buttons{
+        margin-top:1.5rem;
+        margin-bottom:7rem;  /* mantém espaço embaixo */
+        transform: translateY(-15px); /* sobe menos em landscape */
+    }
+    #video-background{
+        object-position:center bottom;
+    }
 }
 </style>
 <link rel="preload" as="image" href="/assets/videos/thumb.png">
