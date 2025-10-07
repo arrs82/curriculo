@@ -35,6 +35,8 @@ text-align:center;
 color:white;
 z-index:999;
 overflow:hidden;
+/* MELHORIA: Cor de fundo para evitar a tela cinza/branca antes do carregamento */
+background-color: #000000;
 }
 
 /* 3. Estilo do VÍDEO de Fundo */
@@ -51,6 +53,11 @@ transform:translate(-50%,-50%);
 object-fit:cover;
 object-position:center center;
 filter:brightness(1.05) contrast(1.3);
+
+/* MELHORIA: Garante que a imagem POSTER (ou background) seja exibida rapidamente */
+background-image: url('/assets/videos/thumb.png');
+background-size: cover;
+background-position: center center;
 }
 
 /* 4. Overlay escuro e Conteúdo Central */
@@ -68,9 +75,10 @@ width:90%;
 padding:3rem 1rem;
 display:flex;
 flex-direction:column;
-justify-content:space-between;
+/* AJUSTE PARA MELHORAR O LAYOUT EM MOBILE (Removido height: 100vh) */
+justify-content:center;
 align-items:center;
-height:100vh;
+/* REMOVIDO: height:100vh; */
 }
 
 /* 5. Estilos de TÍTULO e BOTÕES */
@@ -81,8 +89,9 @@ line-height:1.2;
 margin-bottom:1.5rem;
 }
 .mdx-buttons{
-margin-top:auto;
-margin-bottom:6.5rem;
+/* AJUSTE PARA MELHORAR O LAYOUT EM MOBILE (Removido margin-top: auto) */
+margin-top:2.5rem;
+margin-bottom:0; /* Removido o grande margin-bottom */
 display:flex;
 gap:1rem;
 flex-wrap:wrap;
@@ -107,10 +116,14 @@ box-sizing:border-box;
 .md-button--secondary{background-color:transparent;border:2px solid white;color:white;}
 .md-button--secondary:hover{background-color:#25D366;color:white;}
 
-/* 6. RESPONSIVIDADE (MOBILE) - MANTIDO ORIGINAL */
+/* 6. RESPONSIVIDADE (MOBILE) */
 @media (max-width:768px){
 .mdx-hero__content{padding:2rem 1rem;}
 #video-background{object-position:center bottom;}
+/* Redução de fonte para mobile */
+.mdx-hero__content h1{
+    font-size: 1.8rem;
+}
 }
 </style>
 {% endif %}
@@ -121,7 +134,9 @@ box-sizing:border-box;
 {% if page.file.name == "index" %}
 <section class="mdx-hero homepage" id="hero">
 
-<video autoplay loop muted playsinline id="video-background" disablepictureinpicture poster="/assets/videos/thumb.png" preload="auto"></video>
+<video autoplay loop muted playsinline id="video-background" disablepictureinpicture poster="/assets/videos/thumb.png" preload="auto">
+    <source src="/assets/videos/curriculo.webm" type="video/webm">
+</video>
 
 <div class="mdx-hero__overlay"></div>
 
@@ -133,31 +148,6 @@ box-sizing:border-box;
 </div>
 </div>
 </section>
-
-<script>
-function initVideo(){
-const video=document.getElementById('video-background');
-if(!video) return;
-
-// Se já tiver um source, não duplicar
-if(video.querySelector('source')) return;
-
-const source=document.createElement('source');
-source.src="/assets/videos/curriculo.webm";  // seu vídeo original
-source.type="video/webm";
-video.appendChild(source);
-
-video.load();
-video.play().catch(()=>{});
-}
-
-// Compatível com modo SPA do MkDocs Material
-if(typeof document$!=='undefined'){
-document$.subscribe(initVideo);
-}else{
-document.addEventListener("DOMContentLoaded",initVideo);
-}
-</script>
 
 {% endif %}
 {% endblock %}
