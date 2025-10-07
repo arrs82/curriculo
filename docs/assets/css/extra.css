@@ -253,5 +253,57 @@ td span.material-icons {
   line-height: 1;       /* reduz espaçamento extra */
 }
 
+/*
+ * SOLUÇÃO FINAL PARA TABELAS: Ajuste de 36% de LARGURA (Ícones no Tamanho Original).
+ * Foco: Ponto de equilíbrio exato entre o texto e o respiro visual.
+ */
+@media screen and (max-width: 768px) {
 
+    /* 1. Otimização geral: Fonte base e layout fixo */
+    .md-typeset table {
+        table-layout: fixed;
+        width: 100%;
+        font-size: 0.8em;
+    }
 
+    /* 2. Padding/Espaçamento (Mantemos o espaçamento para o visual limpo) */
+    .md-typeset table th,
+    .md-typeset table td {
+        padding: 0.6em 0.4em; /* Espaçamento lateral e vertical generoso */
+        vertical-align: middle;
+
+        /* Prioridade: Impedir a quebra de palavras! */
+        white-space: nowrap;
+
+        /* Prioridade: Impedir o vazamento da tabela! */
+        overflow: hidden;
+        text-overflow: ellipsis; /* Corta o excesso com reticências (...) */
+    }
+
+    /* 3. Ajuste Principal: Otimização da coluna "Competência Técnica" (36% de largura) */
+    .md-typeset table tbody tr > td:first-child {
+        width: 36%;
+        max-width: 36%;
+    }
+
+    /* 4. Otimização das colunas de status (Largura calculada: 21.33% cada) */
+    .md-typeset table th:not(:first-child),
+    .md-typeset table td:not(:first-child) {
+        text-align: center;
+        width: 21.33%;
+    }
+
+    /* 5. Ajuste no cabeçalho */
+    .md-typeset table thead th:first-child {
+        width: 36%;
+    }
+
+    /* 6. RESTAURAÇÃO: Ícones voltam ao tamanho original (22px) */
+    .md-typeset table .twemoji,
+    .md-typeset table .fontawesome,
+    .md-typeset table .material-icon,
+    .md-typeset table .simple-icon {
+        /* Remove qualquer redução forçada e usa o tamanho definido no HTML (22px) */
+        font-size: initial !important;
+    }
+}
