@@ -182,7 +182,7 @@
 
     |Disciplinas em curso e concluídas|Carga horária|
     |---|:---:|
-    |Biologia Básica|Cursando|
+    |Biologia Básica|80h|
     |Anatomia Básica|Cursando|
     |Socorros de Urgência|Cursando|
     |História, Sociologia e Antropologia da Educação Física e Esporte|80h|
