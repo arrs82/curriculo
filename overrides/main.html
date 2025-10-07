@@ -35,7 +35,6 @@ text-align:center;
 color:white;
 z-index:999;
 overflow:hidden;
-/* MELHORIA: Cor de fundo para evitar a tela cinza/branca antes do carregamento */
 background-color: #000000;
 }
 
@@ -53,7 +52,6 @@ transform:translate(-50%,-50%);
 object-fit:cover;
 object-position:center center;
 filter:brightness(1.05) contrast(1.3);
-/* MELHORIA: Garante que a imagem POSTER seja exibida rapidamente */
 background-image: url('/assets/videos/thumb.png');
 background-size: cover;
 background-position: center center;
@@ -74,9 +72,8 @@ width:90%;
 padding:3rem 1rem;
 display:flex;
 flex-direction:column;
-/* RESTAURADO PARA O LAYOUT ORIGINAL (Título no Topo, Botões no Rodapé) */
-height:100vh; /* Mantido para garantir o espaçamento total */
-justify-content:space-between; /* Novo, força topo e rodapé */
+height:100vh;
+justify-content:space-between;
 align-items:center;
 }
 
@@ -88,7 +85,6 @@ line-height:1.2;
 margin-bottom:1.5rem;
 }
 .mdx-buttons{
-/* RESTAURADO para empurrar para baixo, mantendo o espaçamento */
 margin-top:auto;
 margin-bottom:8.5rem;
 display:flex;
@@ -118,22 +114,22 @@ box-sizing:border-box;
 /* 6. RESPONSIVIDADE (MOBILE) */
 @media (max-width:768px){
 .mdx-hero__content{
-    padding:2rem 1rem;
-    /* Recomendação: Reduzir a altura no mobile para evitar problemas com a barra de endereço */
-    height: auto; 
-    min-height: 100vh; /* Usa min-height para garantir que cubra a tela, mas permite flexibilidade */
-    justify-content: center; /* Centraliza verticalmente no mobile para evitar que os botões sumam */
+padding:2rem 1rem;
+height: auto;
+min-height: 100vh;
+justify-content: center;
 }
 .mdx-hero__content h1{
-    font-size: 1.8rem; 
+font-size: 1.8rem;
 }
 .mdx-buttons{
-    margin-top:2.5rem; /* Ajuste manual para espaçamento decente no mobile */
-    margin-bottom:0; /* Remove a margem inferior alta no mobile */
+margin-top:2.5rem;
+margin-bottom:0;
 }
 #video-background{object-position:center bottom;}
 }
 </style>
+<link rel="preload" as="image" href="/assets/videos/thumb.png">
 {% endif %}
 {% endblock %}
 
@@ -142,8 +138,8 @@ box-sizing:border-box;
 {% if page.file.name == "index" %}
 <section class="mdx-hero homepage" id="hero">
 
-<video autoplay loop muted playsinline id="video-background" disablepictureinpicture poster="/assets/videos/thumb.png" preload="auto">
-    <source src="/assets/videos/curriculo.webm" type="video/webm">
+<video autoplay loop muted playsinline id="video-background" disablepictureinpicture poster="/assets/videos/thumb.png" preload="metadata">
+<source src="/assets/videos/curriculo.webm" type="video/webm">
 </video>
 
 <div class="mdx-hero__overlay"></div>
