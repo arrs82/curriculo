@@ -3,7 +3,7 @@
 {% block extrahead %}
 {{ super() }}
 
-{# 🌟 PRELOADING DA IMAGEM 🌟 #}
+{# 🌟 PRELOADING DA IMAGEM (Boa Prática) 🌟 #}
 <link rel="preload" href="{{ base_url }}/assets/images/cartao-de-visita.png" as="image">
 
 {% if page.file.name == "index" %}
@@ -23,6 +23,16 @@ text-align: center;
 overflow: hidden;
 }
 
+/* 🛑 NOVO: CLASSE DE FADE-OUT PARA RESOLVER O LAG 🛑 */
+.mdx-hero.fade-out {
+  transition: opacity 0.5s ease-out; /* Transição leve e suave */
+  opacity: 0;
+  pointer-events: none; /* Impede cliques no elemento invisível */
+  /* Opcional: Para garantir que a animação pesada pare */
+  animation-play-state: paused !important; 
+}
+
+
 /* BACKGROUND ELEMENT (para animar zoom) */
 .mdx-hero::before {
 content: '';
@@ -31,7 +41,7 @@ inset: 0;
 background-image: url('{{ base_url }}/assets/images/cartao-de-visita.png');
 background-position: center center;
 background-repeat: no-repeat;
-background-size: cover; /* mantém o corte lateral */
+background-size: cover;
 z-index: 0;
 transform: scale(1.2); /* zoom inicial desktop */
 animation: zoomDesktop 25s ease forwards;
@@ -45,13 +55,13 @@ background-color: rgba(0,0,0,0.5);
 z-index: 1;
 }
 
-/* Conteúdo (COPIADO DO CÓDIGO 2 - layout/disposição) */
+/* Conteúdo (layout/disposição) */
 .mdx-hero__content {
 position: relative;
 z-index: 2;
 max-width: 700px;
 width: 90%;
-padding: 3rem 1rem; /* Ajustado para 3rem conforme o código 2 */
+padding: 3rem 1rem;
 display: flex;
 flex-direction: column;
 justify-content: space-between;
@@ -59,15 +69,15 @@ align-items: center;
 height: 100vh;
 }
 
-/* TÍTULO (COPIADO DO CÓDIGO 2) */
+/* TÍTULO */
 .mdx-hero__content h1 {
-margin-top: 1.5rem; /* Mantido do código 2 */
+margin-top: 1.5rem;
 font-size: 2.3rem;
 line-height: 1.2;
-margin-bottom: 1.5rem; /* Ajustado para 1.5rem conforme o código 2 */
+margin-bottom: 1.5rem;
 }
 
-/* CONTAINER DOS BOTÕES (COPIADO DO CÓDIGO 2) */
+/* CONTAINER DOS BOTÕES */
 .mdx-buttons {
 margin-top: auto;
 margin-bottom: 3rem;
@@ -77,7 +87,7 @@ flex-wrap: wrap;
 justify-content: center;
 }
 
-/* BOTÕES (COPIADO DO CÓDIGO 2) */
+/* BOTÕES */
 .md-button {
 display: flex;
 align-items: center;
@@ -97,18 +107,17 @@ box-sizing: border-box;
 .md-button--secondary { background-color: transparent; border: 2px solid white; color: white; }
 .md-button--secondary:hover { background-color: #25D366; color: white; }
 
-/* ZOOM DESKTOP (MANTIDO DO CÓDIGO 1) */
+/* ZOOM DESKTOP */
 @keyframes zoomDesktop {
 0%{ transform: scale(1.2); }
 100% { transform: scale(1); }
 }
 
-/* RESPONSIVIDADE (COPIADO DO CÓDIGO 2) */
-
+/* RESPONSIVIDADE (Mantido) */
 /* MOBILE - portrait (vertical) */
 @media (max-width: 768px) and (orientation: portrait) {
 .mdx-hero::before {
-transform: scale(1.1); /* zoom inicial menor no mobile */
+transform: scale(1.1);
 animation: zoomMobile 20s ease forwards;
 }
 @keyframes zoomMobile {
@@ -191,3 +200,31 @@ margin: 0 !important;
 {{ super() }}
 {% endif %}
 {% endblock %}
+
+{# 🛑 NOVO: SCRIPT DE CONTROLE DE PERFORMANCE 🛑 #}
+{% if page.file.name == "index" %}
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const heroSection = document.querySelector(".mdx-hero.homepage");
+    const navButtons = document.querySelectorAll(".mdx-buttons a");
+
+    if (!heroSection) return;
+
+    navButtons.forEach(function(button) {
+      button.addEventListener("click", function(e) {
+        // 1. Previne a navegação imediata do MkDocs (Impede o lag)
+        e.preventDefault();
+        const destination = this.href;
+
+        // 2. Inicia o fade-out (animação leve)
+        heroSection.classList.add("fade-out");
+        
+        // 3. Redireciona APÓS a transição suave de 500ms
+        setTimeout(function() {
+          window.location.href = destination;
+        }, 500); 
+      });
+    });
+  });
+</script>
+{% endif %}
