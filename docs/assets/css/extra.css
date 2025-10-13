@@ -314,7 +314,7 @@ td span.material-icons {
 .fullscreen-active-scroll-lock {
     overflow: hidden !important;
     /* Compensa a largura da barra de rolagem (valor típico) */
-    padding-right: 17px; 
+    padding-right: 17px;
 }
 /* ---------------------------------------------------------------------- */
 
@@ -328,7 +328,7 @@ td span.material-icons {
     z-index: 9999 !important;
     background-color: black !important;
     /* ANULA o padding-bottom que cria a proporção (16:9) */
-    padding-bottom: 0 !important; 
+    padding-bottom: 0 !important;
     transition: all 0.3s ease;
 }
 
@@ -340,7 +340,7 @@ td span.material-icons {
 
 /* Garante que o botão fique visível no modo nativo */
 :fullscreen #fullscreen-btn {
-    z-index: 2147483647; 
+    z-index: 2147483647;
 }
 
 

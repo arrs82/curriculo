@@ -28,17 +28,6 @@
         </button>
     </div>
 
-
-
-
-
-
-
-
-
-
-
-
 ### Jogos on-line
 
 ??? Success ":material-microsoft-windows-classic: QBasic Gorillas"

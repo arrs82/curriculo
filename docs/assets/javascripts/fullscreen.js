@@ -4,11 +4,11 @@ document.addEventListener("DOMContentLoaded", function() {
     const fullscreenBtn = document.getElementById("fullscreen-btn");
     const body = document.body; 
     // Elemento HTML para Fullscreen de Documento (opção mais agressiva no Mobile)
-    const htmlElement = document.documentElement; 
+    const htmlElement = document.documentElement;
 
     if (!iframeWrapper || !iframe || !fullscreenBtn) {
         console.error("Elementos necessários não foram encontrados.");
-        return; 
+        return;
     }
 
     function isMobile() {
@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", function() {
     fullscreenBtn.addEventListener("click", function() {
         const isSimulatedFullscreen = iframeWrapper.classList.contains("fullscreen-wrapper");
         const isNativeFullscreen = document.fullscreenElement;
-        
+
         // 1. LÓGICA DE SAÍDA (TOGGLE)
         if (isSimulatedFullscreen || isNativeFullscreen) {
             if (isNativeFullscreen) {
@@ -53,7 +53,7 @@ document.addEventListener("DOMContentLoaded", function() {
             }
             return;
         }
-        
+
         // 2. LÓGICA DE ENTRADA
 
         if (!isMobile()) {
