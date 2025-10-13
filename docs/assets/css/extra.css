@@ -307,3 +307,41 @@ td span.material-icons {
         font-size: initial !important;
     }
 }
+
+/* ---------------------------------------------------------------------- */
+/* Bloqueia a rolagem do corpo e compensa a barra de rolagem para evitar o "salto" */
+/* Esta classe deve ser aplicada ao <body> pelo JavaScript */
+.fullscreen-active-scroll-lock {
+    overflow: hidden !important;
+    /* Compensa a largura da barra de rolagem (valor típico) */
+    padding-right: 17px; 
+}
+/* ---------------------------------------------------------------------- */
+
+/* Fullscreen simulada (mobile ou fallback) */
+.fullscreen-wrapper {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100vw !important;
+    height: 100vh !important;
+    z-index: 9999 !important;
+    background-color: black !important;
+    /* ANULA o padding-bottom que cria a proporção (16:9) */
+    padding-bottom: 0 !important; 
+    transition: all 0.3s ease;
+}
+
+/* Garante que o iframe preencha toda a tela no fullscreen simulada */
+.fullscreen-wrapper iframe {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+/* Garante que o botão fique visível no modo nativo */
+:fullscreen #fullscreen-btn {
+    z-index: 2147483647; 
+}
+
+
+

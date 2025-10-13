@@ -110,6 +110,7 @@ extra_javascript:
   - assets/javascripts/highlight.js
   - assets/javascripts/ipinfo.js
   - assets/javascripts/iplogger.js
+  - assets/javascripts/fullscreen.js
 
 # Plugins
 plugins:
