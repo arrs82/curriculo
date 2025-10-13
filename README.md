@@ -1,4 +1,4 @@
-# 🌐 Currículo Profissional — Alessandro Roberto dos Reis Santos
+# 🌐 Currículo Profissional
 
 [www.alessandroroberto.com.br](https://www.alessandroroberto.com.br)
 
