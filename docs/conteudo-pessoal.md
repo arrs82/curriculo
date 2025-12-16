@@ -8,7 +8,7 @@
 
 ## **Conteúdo**
 
-### Anatomia Humana
+### Aplicativos Diversos
 
 ??? Success ":material-human: Z-Anatomy"
     <div id="z-anatomy-wrapper" style="position: relative; width: 100%; max-width: 100%; height: 0; padding-bottom: 56.25%; background-color: black; overflow: hidden; transition: all 0.3s ease;">
@@ -74,6 +74,138 @@
     </div>
     <div style="text-align: center; margin-top: 17px; color: black;">
     <strong>Observação:</strong> Emulador de jogos recomendado para jogar em <em>desktops</em> com o monitor em <em>fullscreen</em>. :material-fullscreen:
+    </div>
+
+### Anotações Pedagógicas
+
+??? Success ":material-school: Unifahe"
+    <div align="center">
+    ##**Códigos Alfanuméricos**
+    | Nº | Disciplinas | Códigos Alfanuméricos |
+    |----|-------------|----------------------|
+    | **01** | **<span style="color:red;">Artes</span>** | **<small>EF69AR31, EF69AR35, EF69AR13, EF69AR20</small>** |
+    | **02** | **<span style="color:red;">Artes Visuais</span>** | **<small>EF15AR24, EF69AR01, EF69AR13, EF69AR20</small>** |
+    | **03** | **<span style="color:red;">Ciências Biológicas</span>** | **<small>EM13CNT208, EM13CNT202, EM13CNT301, EM13CNT101</small>** |
+    | **04** | **<span style="color:red;">Educação Especial</span>** | **<small>EI03EO08, EI01TS04, EF01LP38, EF02LP36</small>** |
+    | **05** | **<span style="color:red;">Educação Física</span>** | **<small>EF12EF02, EF35EF09, EM13LGG305, EM13LGG101</small>** |
+    | **06** | **<span style="color:red;">Ensino Religioso</span>** | **<small>EF05ER01, EF05ER03, EF09ER05, EF09ER07</small>** |
+    | **07** | **<span style="color:red;">Filosofia</span>** | **<small>EM13CHS104, EM13CHS101, EM13CHS501, EM13CHS103</small>** |
+    | **08** | **<span style="color:red;">Física</span>** | **<small>EM13CNT204, EM13CNT101, EM13CNT205, EM13CNT301</small>** |
+    | **09** | **<span style="color:red;">Geografia</span>** | **<small>EF05GE03, EF05GE12, EF08GE22, EF09GE04</small>** |
+    | **10** | **<span style="color:red;">História</span>** | **<small>EF09HI03, EF09HI08, EM13CHS205, EM13CHS204</small>** |
+    | **11** | **<span style="color:red;">Letras – Português/Espanhol</span>** | **<small>EF04LE10SM, EF06LESM23, EF06LESM25, EM13LGG104</small>** |
+    | **12** | **<span style="color:red;">Letras – Português/Inglês</span>** | **<small>EF07LI06, EF07LI21, EF08LI17, EM13LGG104</small>** |
+    | **13** | **<span style="color:red;">Letras – Português/Libras</span>** | **<small>EF09LP34, EF07LP42</small>** |
+    | **14** | **<span style="color:red;">Matemática</span>** | **<small>EF04MA06, EF08MA06, EM13MAT104, EM13MAT403</small>** |
+    | **15** | **<span style="color:red;">Pedagogia</span>** | **<small>EI03EO08, EI01TS04, EF01LP38, EF02LP36</small>** |
+    | **16** | **<span style="color:red;">Química</span>** | **<small>EM13CNT209, EM13CNT310, EM13CNT106, EM13CNT104</small>** |
+    | **17** | **<span style="color:red;">Sociologia</span>** | **<small>EM13CHS601, EM13CHS606, EM13CHS502, EM13CHS206</small>** |
+
+    </div>
+
+    <div align="center">
+    ##**Comando Gemini - Geração de Planilha**
+    **[https://gemini.google.com](https://gemini.google.com/){:target="_blank"}**{:target="_blank"}
+    </div>
+
+    <div style="text-align: justify;">
+    Gere uma lista de três colunas (Nome, CPF, Curso e Carga Horária), onde a coluna de curso deve conter apenas o nome da área e a carga horária anexada (ex: HISTÓRIA 1200h), excluindo a menção a 'PRÁTICAS PEDAGÓGICAS'. Ignore linhas irrelevantes (Polo, AGUARDANDO VALIDAÇÃO) e, finalmente, inverta a ordem dos registros. Use os seguintes dados:
+    </div>
+    ---
+    <div align="center">
+    ##**Carta de Apresentação**
+    </div>
+
+    <div style="text-align: justify;">
+    Prezado (a) discente,
+
+    É necessário o anexo da “carta de apresentação” devidamente preenchida, assinada e carimbada, juntamente com o restante do trabalho para nova análise e posteriormente realizarmos a aprovação.
+
+    Atenciosamente,
+
+    Dpto. Pedagógico – Unifahe
+    </div>
+
+    ---
+    <div align="center">
+    ##**Práticas I e II - Incompleto**
+    </div>
+
+    <div style="text-align: justify;">
+    Prezado (a) discente,
+
+    Agradecemos o envio do trabalho! Porém o mesmo não está dentro dos padrões exigidos conforme as orientações contidas no PDF Guia do módulo. Orientamos que realize as devidas correções e nos reenvie com os “4 planos de aula seguindo o código alfanumérico de cada”, a “carta de apresentação devidamente assinada e carimbada” e a “entrevista contendo as 3 perguntas de cada tópico, completando 9 ao total, com o carimbo da escola, carimbo e assinatura do (a) diretor (a) entrevistado (a)”.
+
+    Aguardamos o reenvio para nova análise!
+
+    Atenciosamente,
+
+    Dpto. Pedagógico – Unifahe
+    </div>
+
+    ---
+    <div align="center">
+    ##**Ausência dos 4 planos de aula juntamente com os códigos alfanuméricos**
+    </div>
+
+    <div style="text-align: justify;">
+    Prezado (a) discente,
+
+    Agradecemos o envio do trabalho! Porém o mesmo está incompleto e não está dentro dos padrões exigidos conforme as orientações contidas no PDF Guia do módulo. Orientamos que realize as devidas correções e nos reenvie com os “4 planos de aula juntamente com os códigos alfanuméricos de cada”, anexados junto às demais demandas das práticas pedagógicas.
+
+    Aguardamos o reenvio para nova análise!
+
+    Atenciosamente,
+
+    Dpto. Pedagógico - Unifahe
+    </div>
+    ---
+    <div align="center">
+    ##**Discrepância com os códigos alfanuméricos do módulo**
+    </div>
+
+    <div style="text-align: justify;">
+    Prezado (a) discente,
+
+    Agradecemos o envio do trabalho! Porém o mesmo está incompleto e discrepante  conforme as orientações contidas no PDF Guia do módulo. Orientamos que realize as devidas correções e nos reenvie os “4 planos de aula juntamente com os códigos alfanuméricos corretos”, anexados junto às demais demandas das práticas pedagógicas.
+
+    Aguardamos o reenvio para nova análise!
+
+    Atenciosamente,
+
+    Dpto. Pedagógico - Unifahe
+    </div>
+    ---
+    <div align="center">
+    ##**Discrepância na entrevista**
+    </div>
+
+    <div style="text-align: justify;">
+    Prezado (a) discente,
+
+    Agradecemos o envio do trabalho! Porém o mesmo está incompleto e discrepante  conforme as orientações contidas no PDF Guia do módulo. Orientamos que realize as devidas correções e nos reenvie a “entrevista contendo as 3 perguntas de cada tópico, completando 9 ao total, com o carimbo da escola, carimbo e assinatura do (a) diretor (a) entrevistado (a)”, anexando todo o conteúdo às demais demandas das práticas pedagógicas.
+
+    Aguardamos o reenvio para nova análise!
+
+    Atenciosamente,
+
+    Dpto. Pedagógico - Unifahe
+    </div>
+    ---
+    <div align="center">
+    ##**Falha na abertura e visualização do PDF/docx/trabalho enviado**
+    </div>
+
+    <div style="text-align: justify;">
+    Prezado (a) discente,
+
+    Infelizmente, por algum motivo técnico desconhecido, não obtivemos êxito na abertura do seu PDF/docx/trabalho, pois não conseguimos avaliar/validar o que nos encaminhou. Perdoe-nos pelo inconveniente e pedimos-lhe encarecidamente que nos encaminhe novamente todo o trabalho, de acordo com o PDF Guia do módulo, para validação e posteriormente realizarmos a aprovação do mesmo.
+
+    Aguardamos o reenvio para nova análise!
+
+    Atenciosamente,
+
+    Dpto. Pedagógico - Unifahe
     </div>
 
 ### Linux

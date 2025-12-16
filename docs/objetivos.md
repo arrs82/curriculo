@@ -48,7 +48,7 @@
 
 === "Educação Física :fontawesome-solid-dumbbell:"
 
-    * **Estágio**
+    * **Estagiário**
     * **Educador Físico**
     * **Personal (Musculação)**
     ---
