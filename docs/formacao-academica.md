@@ -139,6 +139,78 @@
 
     * Experiências profissionais relevantes :material-arrow-right-bold: [Clique aqui](experiencia-profissional.md) e saiba mais.
 
+??? Success ":fontawesome-solid-user-graduate: Análise e Desenvolvimento de Sistemas"
+    > :material-book-education-outline: Início: 02/2025 :fontawesome-solid-flag-checkered: Conclusão Prevista: 12/2027
+
+    ![IFSP](assets/images/ifsp-logo.png){width="18%"}![Formando](assets/images/alessandro/formando.png){width="15%"}
+
+    [https://jcr.ifsp.edu.br](https://jcr.ifsp.edu.br/){:target="_blank"}
+
+    **Comprovante de matrícula de curso superior:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/COMPROVANTE-MATRICULA-IFSP.pdf){:download="COMPROVANTE-MATRICULA-IFSP.pdf"}
+
+    ---
+    <p style="text-align: center;">**Curso superior presencial (Tecnólogo) - Duração: 3 anos**</p>
+    <p style="text-align: justify;">Em curso/formação como **Análise e Desenvolvimeno de Sistemas** pela escola IFSP-Jacareí com sólidos conhecimentos vivenciados em ambiente acadêmico relacionados às competências:
+
+    * Administração de banco de dados;
+    * Desenvolvimento de sistemas;
+    * Administração de redes e infraestruturas de TI;
+    * DevOps;
+    * Desenvolvimento mobile;
+    * Engenharia de sistemas;
+    * Pesquisa e inovação tecnológica em geral.</p>
+    ---
+    <div style="text-align: center;">**Disciplinas / Carga Horária**
+
+    |Disciplinas em curso|Carga horária|
+    |---|:---:|
+    |Construção e Interpretação de Algorítmos|66,7h|
+    |Introdução à Programação|66,7h|
+    |Fundamentos de Matemática para Computação|66,7h|
+    |Arquitetura de Computadores|33,3h|
+    |Língua Inglesa|33,3h|
+    |Comunicação e Expressão|33,3h|
+    |Programação Orientada a Objetos|66,7h|
+    |Algorítmos e Estruturas de Dados|66,7h|
+    |Tópicos Avançados de Matemática para Computação|66,7h|
+    |Sistemas Operacionais|66,7h|
+    |Engenharia de Software 1|66,7h|
+    |Desenvolvimento Web 1|66,7h|
+    |Redes de Computadores|66,7h|
+    |Estatística e Probabilidade|66,7h|
+    |Banco de Dados 1|66,7h|
+    |Engenharia de Software 2|66,7h|
+    |Desenvolvimento Web 2|66,7h|
+    |Programação Paralela e Distribuída|66,7h|
+    |Inteligência Computacional|66,7h|
+    |Banco de Dados 2|66,7h|
+    |Interação Humano-Computador|33,3h|
+    |Metodologia de Pesquisa Científica e Tecnológica|33,3h|
+    |Programação para Dispositivos Móveis|66,7h|
+    |Administração e Sistemas de Informação|33,3h|
+    |Gestão de Projetos|33,3h|
+    |Teste e Qualidade de Software|66,7h|
+    |Projeto Integrador 1|66,7h|
+    |Extensão 1|66,7h|
+    |Segurança de Sistemas|33,3h|
+    |Empreendedorismo|33,3h|
+    |Governança e Conformidade Tecnológica|33,3h|
+    |História da Ciência e Tecnologia|33,3h|
+    |Projeto Integrador 2|66,7h|
+    |Extensão 2|66,7h|
+    |Introdução à Criptografia|33,3h|
+    |Introdução à Mineração de Dados|33,3h|
+    |Processamento Digital de Imagens|33,3h|
+    |Computadores na Educação|33,3h|
+    |Libras|33,3h|
+    |Componente Curricular Eletivo - CH Total Obrigatória|66,7h|
+    |Trabalho de Conclusão de Curso - Obrigatório|60h|
+    |Atividade Complementar - Obrigatório|40h|
+    |Estágio Curricular Supervisionado - Optativo|-|
+    |**Carga horária total mínima**|2.100,4h|
+    |**Carga horária total extensão**|11,1%|
+    |**Carga horária total máxima**|2.200,3h|
+
 ??? Success ":fontawesome-solid-user-graduate: Educação Física"
     > :material-book-education-outline: Início: 02/2025 :fontawesome-solid-flag-checkered: Conclusão: 02/2029
 
@@ -149,7 +221,7 @@
     **Declaração de matrícula de curso superior:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/DECLARACAO-MATRICULA-UFBRA.pdf){:download="DECLARACAO-MATRICULA-EF.pdf"}
 
     ---
-    <p style="text-align: center;">**Curso superior presencial (Bacharel) - Duração: 4 anos**</p>
+    <p style="text-align: center;">**Curso superior EAD (Bacharel) - Duração: 4 anos**</p>
     <p style="text-align: justify;">Cursando **Educação Física** pelo centro universitário UFBRA no Campus Centro/SJC detendo e vivenciando sólidos conhecimentos em ambiente acadêmico relacionados às competências:
 
     * Planejamento e Prescrição de Atividades Físicas para diferentes públicos e necessidades;

@@ -7,7 +7,7 @@
 ??? Success ":material-laptop: Grupo Card"
     ![Card](assets/images/experiencia-logo-card.png){width="30%"}
 
-    [https://www.grupocard.com.br](https://www.grupocard.com.br/){:target="_blank"}
+    [https://www.cardway.com.br](https://www.cardway.com.br/){:target="_blank"}
 
     > :material-badge-account-horizontal-outline: Entrada: 05/2023 :fontawesome-regular-handshake: Saída: 10/2023
 

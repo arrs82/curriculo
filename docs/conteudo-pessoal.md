@@ -80,7 +80,8 @@
 
 ??? Success ":material-school: Unifahe"
     <div align="center">
-    ##**Códigos Alfanuméricos**
+    **Códigos Alfanuméricos**
+
     | Nº | Disciplinas | Códigos Alfanuméricos |
     |----|-------------|----------------------|
     | **01** | **<span style="color:red;">Artes</span>** | **<small>EF69AR31, EF69AR35, EF69AR13, EF69AR20</small>** |
@@ -104,7 +105,8 @@
     </div>
 
     <div align="center">
-    ##**Comando Gemini - Geração de Planilha**
+    **Comando Gemini - Geração de Planilha**
+
     **[https://gemini.google.com](https://gemini.google.com/){:target="_blank"}**{:target="_blank"}
     </div>
 
@@ -113,7 +115,7 @@
     </div>
     ---
     <div align="center">
-    ##**Carta de Apresentação**
+    **Carta de Apresentação**
     </div>
 
     <div style="text-align: justify;">
@@ -128,7 +130,7 @@
 
     ---
     <div align="center">
-    ##**Práticas I e II - Incompleto**
+    **Práticas I e II - Incompleto**
     </div>
 
     <div style="text-align: justify;">
@@ -145,7 +147,7 @@
 
     ---
     <div align="center">
-    ##**Ausência dos 4 planos de aula juntamente com os códigos alfanuméricos**
+    **Ausência dos 4 planos de aula juntamente com os códigos alfanuméricos**
     </div>
 
     <div style="text-align: justify;">
@@ -161,7 +163,7 @@
     </div>
     ---
     <div align="center">
-    ##**Discrepância com os códigos alfanuméricos do módulo**
+    **Discrepância com os códigos alfanuméricos do módulo**
     </div>
 
     <div style="text-align: justify;">
@@ -177,7 +179,7 @@
     </div>
     ---
     <div align="center">
-    ##**Discrepância na entrevista**
+    **Discrepância na entrevista**
     </div>
 
     <div style="text-align: justify;">
@@ -193,7 +195,7 @@
     </div>
     ---
     <div align="center">
-    ##**Falha na abertura e visualização do PDF/docx/trabalho enviado**
+    **Falha na abertura e visualização do PDF/docx/trabalho enviado**
     </div>
 
     <div style="text-align: justify;">
