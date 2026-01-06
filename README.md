@@ -37,5 +37,5 @@ Template base inspirado em:
 > — *Salmos 23:4*
 
 ---
-© 2025 Alessandro Roberto dos Reis Santos
+© 2026 Alessandro Roberto dos Reis Santos
 
