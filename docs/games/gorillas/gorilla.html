@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>Gorillas QBasic</title>
+
+  <style type="text/css">
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      background: #000;
+      overflow: hidden;
+    }
+
+    #canvas-holder {
+      width: 100%;
+      height: 100%;
+      padding: 0;
+      margin: 0;
+      border: 0;
+      background: #000;
+    }
+
+    canvas {
+      width: 100% !important;
+      height: 100% !important;
+      display: block;
+      margin: 0;
+      padding: 0;
+    }
+
+    canvas:focus {
+      outline: none;
+    }
+  </style>
+
+  <!-- Scripts do jogo -->
+  <script type="text/javascript" src="./gorilla_files/ega8x14.js"></script>
+  <script type="text/javascript" src="./gorilla_files/gorilla.js"></script>
+</head>
+
+<body>
+  <div id="canvas-holder">
+    <canvas id="canvas" width="960" height="525" tabindex="1"></canvas>
+  </div>
+</body>
+</html>
+
+<button id="fullscreen-btn" style="
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  z-index: 1000;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  background: rgba(0,0,0,0.5);
+  border: 2px solid #fff;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+">
+  Tela Cheia
+</button>
+
+<!-- Input invisível para capturar teclado em mobile -->
+<input type="text" id="hidden-input" style="
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+  height: 0;
+  width: 0;
+">
+
+<script>
+  const canvasHolder = document.getElementById('canvas-holder');
+  const btn = document.getElementById('fullscreen-btn');
+  const hiddenInput = document.getElementById('hidden-input');
+  const canvas = document.getElementById('canvas');
+
+  // Função para detectar mobile
+  function isMobile() {
+    return /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+  }
+
+  btn.addEventListener('click', () => {
+    if (isMobile()) {
+      // Mobile: foca no input invisível para abrir teclado
+      hiddenInput.focus();
+
+      // Tenta fullscreen nativo (Android, alguns browsers)
+      if (canvasHolder.requestFullscreen) canvasHolder.requestFullscreen();
+      else if (canvasHolder.webkitRequestFullscreen) canvasHolder.webkitRequestFullscreen();
+      else if (canvasHolder.msRequestFullscreen) canvasHolder.msRequestFullscreen();
+    } else {
+      // Desktop: mantém seu comportamento atual
+      if (canvasHolder.requestFullscreen) {
+        canvasHolder.requestFullscreen();
+      } else if (canvasHolder.webkitRequestFullscreen) {
+        canvasHolder.webkitRequestFullscreen();
+      } else if (canvasHolder.msRequestFullscreen) {
+        canvasHolder.msRequestFullscreen();
+      }
+    }
+  });
+
+  // Efeito hover
+  btn.addEventListener('mouseover', () => {
+    btn.style.background = 'rgba(255,255,255,0.2)';
+    btn.style.transform = 'scale(1.05)';
+  });
+
+  btn.addEventListener('mouseout', () => {
+    btn.style.background = 'rgba(0,0,0,0.5)';
+    btn.style.transform = 'scale(1)';
+  });
+
+  // Captura teclado do input invisível e envia para o canvas
+  hiddenInput.addEventListener('keydown', (e) => {
+    canvas.dispatchEvent(new KeyboardEvent('keydown', e));
+  });
+
+  hiddenInput.addEventListener('keyup', (e) => {
+    canvas.dispatchEvent(new KeyboardEvent('keyup', e));
+  });
+</script>
+
+
+

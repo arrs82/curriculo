@@ -1,0 +1,78 @@
+# **Alessandro Roberto dos Reis Santos**
+
+<style>
+.circle-mask {
+  position: relative;
+  width: 350px;
+  height: 350px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: -110px;
+  margin-top: -20px;
+}
+
+.satelite {
+  position: absolute;
+  width: 305px;
+  height: 305px;
+  background-image: url(../assets/images/lupa.png);
+  background-size: cover;
+  border-radius: 50%;
+  animation: orbitSatelite 2s linear infinite;
+  transform-origin: center center;
+  animation-play-state: paused;
+  top: 35%;
+  left: 32%;
+  transform: translate(-50%, -50%) rotate(90deg) translateX(50px) translateY(30%) rotate(-90deg);
+  transition: transform 0.3s ease;
+}
+
+.circle-mask:hover .satelite {
+  animation-play-state: running;
+}
+
+@keyframes orbitSatelite {
+  0% {
+    transform: translate(-50%, -50%) rotate(28deg) translateX(13px) translateY(9%) rotate(-34deg);
+  }
+  100% {
+    transform: translate(-50%, -50%) rotate(388deg) translateX(13px) translateY(9%) rotate(-394deg);
+  }
+}
+
+.circle-mask img {
+  width: 70%;
+  height: 70%;
+  object-fit: cover;
+  cursor: pointer;
+}
+
+.circle-mask:hover img {
+  transform: scale(1.1);
+}
+
+.apresentacao {
+  position: absolute;
+  width: 255px;
+  height: 331px;
+  background-image: url(../assets/images/apresentacao.png);
+  background-size: cover;
+  top: 38%;
+  left: 29%;
+  transform: translate(-50%, -50%);
+  transition: transform 0.5s ease;
+  z-index: -1;
+}
+
+.circle-mask:hover .apresentacao {
+  transform: translate(17%, -50%);
+}
+</style>
+
+<div class="circle-mask">
+  <img src="../assets/images/curriculo.png" alt="curriculo" style="transform: translateY(-21%) translateX(-27%);">
+  <div class="satelite"></div>
+  <div class="apresentacao"></div>
+</div>

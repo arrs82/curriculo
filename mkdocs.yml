@@ -1,0 +1,175 @@
+# Project information
+site_name: Currículo Profissional
+site_url: https://www.alessandroroberto.com.br/
+site_author: Alessandro Roberto dos Reis Santos
+site_description: Currículo Profissional
+
+# Copyright
+copyright: © 2026 Currículo Profissional - Alessandro Roberto dos Reis Santos
+
+# Page tree
+nav:
+  - Página Inicial: index.md
+  - Apresentação Pessoal: apresentacao-pessoal.md
+  - Dados Pessoais: dados-pessoais.md
+  - Objetivos Profissionais: objetivos.md
+  - Formação Acadêmica: formacao-academica.md
+  - Cursos Extracurriculares: cursos-extracurriculares.md
+  - Informática: informatica.md
+  - Língua Estrangeira: lingua-estrangeira.md
+  - Experiência Profissional: experiencia-profissional.md
+  - Seminários Motivacionais: seminarios-motivacionais.md
+  - Portfólio de Criação: portfolio-criacao.md
+  # - Atari: games/atari/index.html
+  # - Monopoly: assets/html/monopoly-js.html
+  # - Projetos de Infraestrutura: projetos-infra.md
+  #     - Proxmox: projetos-infra/proxmox.md
+  #     - Pfsense Firewall: projetos-infra/pfsense-firewall.md
+  #     - Plex Media Server: projetos-infra/plex-media-server.md
+  #     - Material for Mkdocs: projetos-infra/material-mkdocs.md
+  #     - Linux (Comandos): projetos-infra/linux-comandos.md
+  #     - Tutoriais Diversos: projetos-infra/tutoriais-diversos.md
+  - Conteúdo Pessoal: conteudo-pessoal.md
+  - Sobre: sobre.md
+  # - Documentos Pessoais: documentos-pessoais.md
+  # - Ícones e Utilitários: icones.md
+
+# Configuration
+theme:
+  name: material
+  custom_dir: overrides
+  language: pt-BR
+  logo: assets/images/logo-curriculo.png
+  favicon: assets/images/favicons/favicon.ico
+  icon:
+    logo: fontawesome/solid/user-tie
+  features:
+    - announce.dismiss
+    - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+    - content.tooltips
+    - navigation.footer
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Alternar para o modo escuro
+    - scheme: slate
+      primary: blue grey
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Alternar para o modo claro
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+# Customization
+extra:
+  analytics:
+    provider: google
+    property: G-GCRKKC1EG7
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/aleha.santos/
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/aleha.santos82
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@aleha.santos
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/alessandroroberto82
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/aleha_santos
+    - icon: fontawesome/brands/whatsapp
+      link: https://wa.me/5512988678750
+  caption: true
+  lazy_load: true
+  align: center
+  generator: false
+
+# CSS e Javascript
+extra_css:
+  - assets/css/extra.css
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/styles/default.min.css
+  - https://cdnjs.cloudflare.com/ajax/libs/flag-icons/7.0.0/css/flag-icons.min.css
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.2/highlight.min.js
+  - assets/javascripts/highlight.js
+  - assets/javascripts/ipinfo.js
+  - assets/javascripts/iplogger.js
+  - assets/javascripts/fullscreen.js
+
+# Plugins
+plugins:
+  - search:
+      lang: pt
+  - minify:
+      minify_html: true
+  - git-revision-date-localized:
+      enable_creation_date: true
+      fallback_to_build_date: false
+      type: timeago
+      locale: pt
+
+# Extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: arrs82
+      repo: curriculo
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+        - name: python
+          class: python
+          format: !!python/name:pymdownx.superfences.fence_code_format
+        - name: "*"
+          class: "highlight"
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tilde

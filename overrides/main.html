@@ -1,0 +1,230 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+{{ super() }}
+
+{# 🌟 PRELOADING DA IMAGEM (Boa Prática) 🌟 #}
+<link rel="preload" href="{{ base_url }}/assets/images/cartao-de-visita.png" as="image">
+
+{% if page.file.name == "index" %}
+<style>
+/* HERO FULLSCREEN */
+.mdx-hero.homepage {
+position: fixed;
+inset: 0;
+width: 100vw;
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+z-index: 999;
+color: white;
+text-align: center;
+overflow: hidden;
+}
+
+/* 🛑 NOVO: CLASSE DE FADE-OUT PARA RESOLVER O LAG 🛑 */
+.mdx-hero.fade-out {
+  transition: opacity 0.5s ease-out; /* Transição leve e suave */
+  opacity: 0;
+  pointer-events: none; /* Impede cliques no elemento invisível */
+  /* Opcional: Para garantir que a animação pesada pare */
+  animation-play-state: paused !important; 
+}
+
+
+/* BACKGROUND ELEMENT (para animar zoom) */
+.mdx-hero::before {
+content: '';
+position: absolute;
+inset: 0;
+background-image: url('{{ base_url }}/assets/images/cartao-de-visita.png');
+background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;
+z-index: 0;
+transform: scale(1.2); /* zoom inicial desktop */
+animation: zoomDesktop 25s ease forwards;
+}
+
+/* Overlay escuro */
+.mdx-hero__overlay {
+position: absolute;
+inset: 0;
+background-color: rgba(0,0,0,0.5);
+z-index: 1;
+}
+
+/* Conteúdo (layout/disposição) */
+.mdx-hero__content {
+position: relative;
+z-index: 2;
+max-width: 700px;
+width: 90%;
+padding: 3rem 1rem;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+height: 100vh;
+}
+
+/* TÍTULO */
+.mdx-hero__content h1 {
+margin-top: 1.5rem;
+font-size: 2.3rem;
+line-height: 1.2;
+margin-bottom: 1.5rem;
+}
+
+/* CONTAINER DOS BOTÕES */
+.mdx-buttons {
+margin-top: auto;
+margin-bottom: 3rem;
+display: flex;
+gap: 1rem;
+flex-wrap: wrap;
+justify-content: center;
+}
+
+/* BOTÕES */
+.md-button {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 220px;
+height: 60px;
+font-size: 1rem;
+font-weight: 500;
+border-radius: 6px;
+text-decoration: none;
+text-align: center;
+transition: all 0.3s ease;
+box-sizing: border-box;
+}
+.md-button--primary { background-color: #dd2e57; color: white; }
+.md-button--primary:hover { background-color: #546d78; }
+.md-button--secondary { background-color: transparent; border: 2px solid white; color: white; }
+.md-button--secondary:hover { background-color: #25D366; color: white; }
+
+/* ZOOM DESKTOP */
+@keyframes zoomDesktop {
+0%{ transform: scale(1.2); }
+100% { transform: scale(1); }
+}
+
+/* RESPONSIVIDADE (Mantido) */
+/* MOBILE - portrait (vertical) */
+@media (max-width: 768px) and (orientation: portrait) {
+.mdx-hero::before {
+transform: scale(1.1);
+animation: zoomMobile 20s ease forwards;
+}
+@keyframes zoomMobile {
+0%{ transform: scale(1.1); }
+100% { transform: scale(1); }
+}
+
+.mdx-hero__content {
+padding: 2rem 1rem;
+height: auto;
+min-height: 100vh;
+justify-content: center;
+}
+.mdx-hero__content h1 {
+font-size: 1.6rem;
+margin-top: -1.5rem;
+margin-bottom: 3rem;
+}
+.mdx-buttons {
+margin-top: 2.5rem;
+margin-bottom: 2rem;
+transform: translateY(-30px);
+}
+}
+
+/* MOBILE - landscape (horizontal) */
+@media (max-width: 1024px) and (orientation: landscape) {
+.mdx-hero__content {
+padding: 1.5rem 1rem;
+height: auto;
+min-height: 100vh;
+justify-content: center;
+}
+.mdx-hero__content h1 {
+font-size: 1.9rem;
+margin-top: 4rem;
+margin-bottom: 2rem;
+}
+.mdx-buttons {
+margin-top: 1.5rem;
+margin-bottom: 7rem;
+transform: translateY(-15px);
+}
+}
+
+/* Remove elementos do tema */
+.md-header { display: none !important; }
+.md-typeset--homepage .md-tabs,
+.md-typeset--homepage .md-toolbar,
+.md-typeset--homepage .md-container { display: none !important; }
+
+html.md-typeset--homepage,
+body.md-typeset--homepage {
+overflow: hidden !important;
+height: 100vh !important;
+padding: 0 !important;
+margin: 0 !important;
+}
+</style>
+{% endif %}
+{% endblock %}
+
+{% block hero %}
+{% if page.file.name == "index" %}
+<section class="mdx-hero homepage" data-mdx-component="hero">
+<div class="mdx-hero__overlay"></div>
+<div class="mdx-hero__content">
+<h1>MEU<br><br>CURRÍCULO PROFISSIONAL</h1>
+<div class="mdx-buttons">
+<a href="{{ base_url }}/apresentacao-pessoal/" class="md-button md-button--primary">Ver Currículo</a>
+<a href="{{ base_url }}/dados-pessoais/" class="md-button md-button--secondary">Entrar em Contato</a>
+</div>
+</div>
+</section>
+{% endif %}
+{% endblock %}
+
+{% block content %}
+{% if not page.is_homepage %}
+{{ super() }}
+{% endif %}
+{% endblock %}
+
+{# 🛑 NOVO: SCRIPT DE CONTROLE DE PERFORMANCE 🛑 #}
+{% if page.file.name == "index" %}
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const heroSection = document.querySelector(".mdx-hero.homepage");
+    const navButtons = document.querySelectorAll(".mdx-buttons a");
+
+    if (!heroSection) return;
+
+    navButtons.forEach(function(button) {
+      button.addEventListener("click", function(e) {
+        // 1. Previne a navegação imediata do MkDocs (Impede o lag)
+        e.preventDefault();
+        const destination = this.href;
+
+        // 2. Inicia o fade-out (animação leve)
+        heroSection.classList.add("fade-out");
+        
+        // 3. Redireciona APÓS a transição suave de 500ms
+        setTimeout(function() {
+          window.location.href = destination;
+        }, 500); 
+      });
+    });
+  });
+</script>
+{% endif %}
