@@ -7,7 +7,7 @@
 ??? Success ":fontawesome-solid-dumbbell: SkyFit Academia"
     ![SkyFit](assets/images/skyfit.png){width="33%"}
 
-    [https://skyfitacademia.com](https://skyfitacademia.com/){:target="_blank"}
+    [@skyfitsaojosedoscampos](https://www.instagram.com/skyfitsaojosedoscampos/){:target="_blank"}
 
     > :material-badge-account-horizontal-outline: Entrada: 10/2025 :fontawesome-regular-handshake: Saída: Em exercício
 
@@ -31,12 +31,15 @@
     * Trabalho em equipe;
     * Responsabilidade e ética profissional;
     * Equilíbrio emocional;
-    * Resiliência.
+    * Resiliência;
+    * Montagem, ajustes e prescrição de treinos individuais via sistema ABC EVO.
+        
+        [:material-hand-pointing-right: Acesso online ao sistema ABC EVO](https://evo5.w12app.com.br/#/acesso/skyfitacademia/autenticacao){:target="_blank"}
     ---
     * **Profissiografia / Descrição das Atividades Laborais**
 
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/skyfit.pdf){:download="skyfit.pdf"} para análise e apreciação.
--->   
+-->
 ??? Success ":material-laptop: Grupo Card"
     ![Card](assets/images/experiencia-logo-card.png){width="30%"}
 
