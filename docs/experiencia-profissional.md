@@ -13,7 +13,7 @@
 
     **Segmento da Empresa:** Fítness e saúde
 
-    **Cargo:** Estagiário de Educação Física (Musculação/Personal)
+    **Cargo:** Estagiário de Educação Física
 
     **Departamento:** Musculação
 
