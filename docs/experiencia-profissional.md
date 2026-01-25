@@ -3,7 +3,40 @@
 <!DOCTYPE html><html lang="pt-BR"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><style>.circle-mask{position:relative;width:350px;height:350px;overflow:hidden;display:flex;justify-content:center;align-items:center;margin-bottom:-110px;margin-top:-20px}.satelite{position:absolute;width:305px;height:305px;background-image:url(../assets/images/lupa.png);background-size:cover;border-radius:50%;animation:orbitSatelite 2s linear infinite;transform-origin:center center;animation-play-state:paused;top:35%;left:32%;transform:translate(-50%,-50%) rotate(90deg) translateX(50px) translateY(30%) rotate(-90deg);transition:transform 0.3s ease}.circle-mask:hover .satelite{animation-play-state:running}@keyframes orbitSatelite{0%{transform:translate(-50%,-50%) rotate(28deg) translateX(13px) translateY(9%) rotate(-34deg)}100%{transform:translate(-50%,-50%) rotate(388deg) translateX(13px) translateY(9%) rotate(-394deg)}}.circle-mask img{width:70%;height:70%;object-fit:cover;cursor:pointer}.circle-mask:hover img{transform:scale(1.1)}.apresentacao{position:absolute;width:255px;height:331px;background-image:url(../assets/images/experiencia-profissional.png);background-size:cover;top:38%;left:29%;transform:translate(-50%,-50%);transition:transform 0.5s ease;z-index:-1}.circle-mask:hover .apresentacao{transform:translate(17%,-50%)}</style></head><body><div class="circle-mask"><img src="../assets/images/curriculo.png" alt="curriculo" style="transform: translateY(-21%) translateX(-27%);"><div class="satelite"></div><div class="apresentacao"></div></div></body></html>
 
 ## **Experiência Profissional**
+<!--
+??? Success ":fontawesome-solid-dumbbell: SkyFit Academia"
+    ![SkyFit](assets/images/skyfit.png){width="33%"}
 
+    [https://skyfitacademia.com](https://skyfitacademia.com/){:target="_blank"}
+
+    > :material-badge-account-horizontal-outline: Entrada: 10/2025 :fontawesome-regular-handshake: Saída: Em exercício
+
+    **Segmento da Empresa:** Fítness e saúde
+
+    **Cargo:** Estagiário de Educação Física (Musculação/Personal)
+
+    **Departamento:** Musculação
+
+    **Modalidade:** Estágio
+
+    **Atribuições:** <p style="text-align: justify;">Acompanhamento e orientação de alunos na sala de musculação, auxiliando na execução correta e segura dos exercícios; apoio na montagem e ajuste de treinos conforme objetivos individuais; organização do ambiente e dos equipamentos; observação postural, correção de movimentos e prevenção de lesões sob supervisão profissional; atendimento ao público e esclarecimento de dúvidas sobre uso dos aparelhos.</p>
+
+    **Competências técnicas/comportamentais desenvolvidas:**
+
+    * Fundamentos de musculação e treinamento resistido;
+    * Orientação e correção de exercícios físicos;
+    * Atendimento ao público;
+    * Relacionamento interpessoal;
+    * Comunicação verbal;
+    * Trabalho em equipe;
+    * Responsabilidade e ética profissional;
+    * Equilíbrio emocional;
+    * Resiliência.
+    ---
+    * **Profissiografia / Descrição das Atividades Laborais**
+
+        [:fontawesome-regular-file-pdf: Download](documentos/pdf/skyfit.pdf){:download="skyfit.pdf"} para análise e apreciação.
+-->   
 ??? Success ":material-laptop: Grupo Card"
     ![Card](assets/images/experiencia-logo-card.png){width="30%"}
 
@@ -35,8 +68,17 @@
     * Comunicação verbal e escrita.
     * Trabalho em equipe;
     * Resiliência.
+
+    **Tecnologias e ferramentas utilizadas em ambiente de desenvolvimento:**
+
+    ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown&logoColor=white)
+    ![MkDocs](https://img.shields.io/badge/MkDocs-526CFE?style=for-the-badge&logo=materialformkdocs&logoColor=white)
+    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
     ---
-    * **Profissioagrafia / Descrição das Atividades Laborais**
+    * **Profissiografia / Descrição das Atividades Laborais**
 
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/PPP-ASSISTENTE-DE-SUPORTE-TECNICO.pdf){:download="PPP-ASSISTENTE-DE-SUPORTE-TECNICO.pdf"} para análise e apreciação.
 
