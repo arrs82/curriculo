@@ -17,6 +17,8 @@
 
     **Diploma de curso superior:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/DIPLOMA-GRADUACAO-ARRS.pdf){:download="DIPLOMA-GRADUACAO-ARRS.pdf"}
 
+    **Ementa do curso:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/EMENTA-ETEP.pdf){:download="EMENTA-ETEP.pdf"}
+
     ---
     <p style="text-align: center;">**Curso superior presencial (Bacharel) - Duração: 4 anos**</p>
     <p style="text-align: justify;">Formado em **Administração de Empresas** pelo Centro Universitário ETEP com sólidos conhecimentos vivenciados em ambiente acadêmico relacionados às competências:
@@ -212,7 +214,7 @@
     |*Carga horária total máxima*|2.200,3h|
 --> 
 ??? Success ":fontawesome-solid-user-graduate: Educação Física"
-    > :material-book-education-outline: Início: 02/2025 :fontawesome-solid-flag-checkered: Conclusão: 02/2029
+    > :material-book-education-outline: Início: 08/2025 :fontawesome-solid-flag-checkered: Conclusão: 08/2029
 
     ![UFBRA](assets/images/ufbra-logo.png){width="30%"}![Formando](assets/images/alessandro/formando.png){width="15%"}
 
@@ -334,6 +336,8 @@
     [https://sp.senai.br/unidade/saojosedoscampos](https://sp.senai.br/unidade/saojosedoscampos/){:target="_blank"}
 
     **Certificado de curso técnico:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/CERTIFICADO-TECNICO-TI.pdf){:download="CERTIFICADO-TECNICO-TI.pdf"}
+
+    **Ementa do curso:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/EMENTA-SENAI.pdf){:download="EMENTA-SENAI.pdf"}
 
     ---
     <p style="text-align: center;">**Curso técnico presencial - Duração: 2 anos**</p>
