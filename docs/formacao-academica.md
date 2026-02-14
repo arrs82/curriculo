@@ -11,7 +11,7 @@
 ??? Success ":fontawesome-solid-user-graduate: Administração de Empresas"
     > :material-book-education-outline: Início: 01/2013 :fontawesome-solid-flag-checkered: Conclusão: 02/2019
 
-    ![ETEP](assets/images/etep-faculdade.png){width="30%"}![Formando](assets/images/alessandro/formando.png){width="15%"}
+    ![ETEP](assets/images/etep.png){width="30%"}![Formando](assets/images/alessandro/formando.png){width="15%"}
 
     [https://etep.edu.br](https://etep.edu.br/){:target="_blank"}
 

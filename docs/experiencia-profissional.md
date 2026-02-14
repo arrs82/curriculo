@@ -4,12 +4,47 @@
 
 ## **Experiência Profissional**
 
+??? Success ":fontawesome-solid-dumbbell: Novo Impacto Academia"
+    ![Logo-Novo-Impacto](assets/images/logo-novo-impacto.png){width="33%"}
+
+    [@novoimpactoacademia](https://www.instagram.com/novoimpactoacademia/){:target="_blank"}
+
+    > :material-badge-account-horizontal-outline: Entrada: 02/2026 :fontawesome-regular-handshake: Saída: Em exercício
+
+    **Segmento da Empresa:** Fítness e saúde
+
+    **Cargo:** Estagiário de Educação Física
+
+    **Departamento:** Musculação
+
+    **Modalidade:** Estágio
+
+    **Atribuições:** <p style="text-align: justify;">Suporte técnico aos alunos durante as atividades de treinamento resistido, assegurando a correta execução dos exercícios e a segurança na utilização dos equipamentos; colaboração na elaboração e atualização de programas de treino conforme metas e necessidades individuais; organização, zelo e manutenção pelo espaço físico e aparelhos; monitoramento postural e orientação preventiva para redução de riscos de lesões sob supervisão do profissional responsável; atendimento aos alunos, prestando esclarecimentos sobre métodos de treino e funcionamento dos equipamentos.</p>
+
+    **Competências técnicas/comportamentais desenvolvidas:**
+
+    * Princípios aplicados ao treinamento resistido e à musculação;
+    * Monitoramento e ajustes técnicos na execução de exercícios;
+    * Atendimento e suporte ao cliente;
+    * Habilidade de comunicação interpessoal;
+    * Comunicação clara e objetiva;
+    * Atuação colaborativa em equipe multidisciplinar;
+    * Postura ética e responsabilidade profissional;
+    * Inteligência emocional no ambiente esportivo;
+    * Capacidade de adaptação a diferentes perfis de alunos;
+    * Atuação em rodízio operacional no ambiente de musculação, assegurando suporte contínuo;
+    * Prescrição e atualização de treinos individualizados em sistema digital de gestão.
+    ---
+    **Referências das Experiências Laborais - Liderança Novo Impacto**
+
+    * Contato/Supervisão :material-hand-pointing-right: [(12) 99746-2207](https://wa.me/5512997462207){:target="_blank"}
+        
 ??? Success ":fontawesome-solid-dumbbell: SkyFit Academia"
-    ![SkyFit](assets/images/skyfit.png){width="33%"}
+    ![Logo-SkyFit](assets/images/logo-skyfit.png){width="33%"}
 
     [@skyfitsaojosedoscampos](https://www.instagram.com/skyfitsaojosedoscampos/){:target="_blank"}
 
-    > :material-badge-account-horizontal-outline: Entrada: 10/2025 :fontawesome-regular-handshake: Saída: Em exercício
+    > :material-badge-account-horizontal-outline: Entrada: 10/2025 :fontawesome-regular-handshake: Saída: 02/2026
 
     **Segmento da Empresa:** Fítness e saúde
 
@@ -36,12 +71,12 @@
         
         [:material-hand-pointing-right: Acesso online ao sistema ABC EVO](https://evo5.w12app.com.br/#/acesso/skyfitacademia/autenticacao){:target="_blank"}
     ---
-    * **Profissiografia / Descrição das Atividades Laborais**
+    **Referências das Experiências Laborais - Liderança SkyFit**
 
-        [:fontawesome-regular-file-pdf: Download](documentos/pdf/skyfit.pdf){:download="skyfit.pdf"} para análise e apreciação.
+    * Contato/Gerência :material-hand-pointing-right: [(12) 99779-8871](https://wa.me/5512997798871){:target="_blank"}
 
-??? Success ":material-laptop: Grupo Card"
-    ![Card](assets/images/experiencia-logo-card.png){width="30%"}
+??? Success ":material-laptop: Cardway"
+    ![Logo-Cardway](assets/images/logo-card-way.png){width="30%"}
 
     [https://www.cardway.com.br](https://www.cardway.com.br/){:target="_blank"}
 
@@ -55,13 +90,13 @@
 
     **Modalidade:** CLT
 
-    **Atribuições:** <p style="text-align: justify;">Integrante de equipe de suporte técnico/TI atuante com autonomia e diretamente no negócio da empresa ante às necessidades dos representantes e dos colaboradores do Grupo Card, prestando suporte orientado ao _troubleshooting_ dos mesmos, tendo como missão única e principal atender e superar as necessidades de nossos colaboradores internos e clientes finais, com ênfase em suporte técnico de _hardware_, _mobile_ e de periféricos diversos, além de experiência empírica em cabeamento estruturado _(EIA/TIA)_, contemplando ainda ampla participação na elaboração de toda a documentação técnica da empresa em ambiente de desenvolvimento de programação, como: _Markdown (MkDocs), HTML, CSS, Java Script e Git_.</p>
+    **Atribuições:** <p style="text-align: justify;">Integrante de equipe de suporte técnico/TI atuante com autonomia e diretamente no negócio da empresa ante às necessidades dos representantes e dos colaboradores da Cardway, prestando suporte orientado ao _troubleshooting_ dos mesmos, tendo como missão única e principal atender e superar as necessidades de nossos colaboradores internos e clientes finais, com ênfase em suporte técnico de _hardware_, _mobile_ e de periféricos diversos, além de experiência empírica em cabeamento estruturado _(EIA/TIA)_, contemplando ainda ampla participação na elaboração de toda a documentação técnica da empresa em ambiente de desenvolvimento de programação.</p>
 
     **Competências técnicas/comportamentais desenvolvidas:**
 
-    * _DevOps_ (_Markdown - HTML - CSS - JS - Git_);
+    * _DevOps_ (_Markdown - Material for MkDocs - HTML5 - CSS3 - JavaScript - Git - GitHub_);
     * Editor de vídeos e imagens;
-    * _Wiki_ (Elaboração e desenvolvimento de documentação técnica no formato [_MkDocs_](https://squidfunk.github.io/mkdocs-material/){:target="_blank"});
+    * _Wiki_ (Elaboração e desenvolvimento de documentação técnica no formato [_Material for MkDocs_](https://squidfunk.github.io/mkdocs-material/){:target="_blank"});
     * Suporte de _hardware_ de TI;
     * Suporte técnico de _mobile_;
     * Suporte para _help desk_;
@@ -74,19 +109,20 @@
 
     **Tecnologias e ferramentas utilizadas em ambiente de desenvolvimento:**
 
-    ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown&logoColor=white)
-    ![MkDocs](https://img.shields.io/badge/MkDocs-526CFE?style=for-the-badge&logo=materialformkdocs&logoColor=white)
-    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+    [![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/){:target="_blank"}
+    [![MkDocs](https://img.shields.io/badge/MkDocs-526CFE?style=for-the-badge&logo=materialformkdocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/){:target="_blank"}
+    [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html5.org/){:target="_blank"}
+    [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/){:target="_blank"}
+    [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/){:target="_blank"}
+    [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/){:target="_blank"}
+    [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/){:target="_blank"}
     ---
     * **Profissiografia / Descrição das Atividades Laborais**
 
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/PPP-ASSISTENTE-DE-SUPORTE-TECNICO.pdf){:download="PPP-ASSISTENTE-DE-SUPORTE-TECNICO.pdf"} para análise e apreciação.
 
 ??? Success ":fontawesome-solid-chalkboard-teacher: Proz Educação"
-    ![Proz](assets/images/experiencia-logo-proz.png){width="30%"}
+    ![Logo-Proz-Educacao](assets/images/logo-proz.png){width="30%"}
 
     [https://prozeducacao.com.br](https://prozeducacao.com.br/){:target="_blank"}
 
@@ -120,7 +156,7 @@
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/CONTRATO-RPA-AUTONOMO-DOCENCIA-PROZ.pdf){:download="CONTRATO-RPA-AUTONOMO-DOCENCIA-PROZ.pdf"} para análise e apreciação.
 
 ??? Success ":fontawesome-solid-industry: Johnson & Johnson"
-    ![Johnson](assets/images/experiencia-logo-johnson.png){width="33%"}
+    ![Logo-J&J](assets/images/logo-j&j.png){width="33%"}
 
     [https://www.jnjbrasil.com.br](https://www.jnjbrasil.com.br/){:target="_blank"}
 
@@ -152,7 +188,7 @@
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/PPP-J&J.pdf){:download="PPP-J&J.pdf"} para análise e apreciação.
 
 ??? Success " :material-town-hall: PMSJC"
-    ![PMSJC](assets/images/experiencia-logo-pmsjc.png){width="23%"}
+    ![Logo-PMSJC](assets/images/logo-pmsjc.png){width="23%"}
 
     [https://www.sjc.sp.gov.br](https://www.sjc.sp.gov.br/){:target="_blank"}
 
@@ -189,7 +225,7 @@
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/ESTAGIARIO-TI-PMSJC.pdf){:download="ESTAGIARIO-TI-PMSJC.pdf"} para análise e apreciação.
 
 ??? Success " :material-town-hall: PMSJC"
-    ![PMSJC](assets/images/experiencia-logo-pmsjc.png){width="23%"}
+    ![Logo-PMSJC](assets/images/logo-pmsjc.png){width="23%"}
 
     [https://www.sjc.sp.gov.br](https://www.sjc.sp.gov.br/){:target="_blank"}
 
@@ -221,7 +257,7 @@
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/ESTAGIARIO-ADMINISTRATIVO-PMSJC.pdf){:download="ESTAGIARIO-ADMINISTRATIVO-PMSJC.pdf"} para análise e apreciação.
 
 ??? Success ":fontawesome-solid-industry: General Motors"
-    ![GM](assets/images/experiencia-logo-gm.png){width="27%"}
+    ![Logo-GM](assets/images/logo-gm.png){width="27%"}
 
     [https://www.gm.com](https://www.gm.com/){:target="_blank"}
 
@@ -282,10 +318,10 @@
 
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/EXPERIENCIA-LIDERANCA-INJETORAS-GM.pdf){:download="EXPERIENCIA-LIDERANCA-INJETORAS-GM.pdf"} para análise e apreciação.
 
-??? Success ":material-airplane: Magnaghi Friuli Aerospace"
-    ![Friuli](assets/images/experiencia-logo-friuli.png){width="35%"}
+??? Success ":material-airplane: Magroup Magnaghi Aerospace"
+    ![Logo-Magnaghi-Friuli](assets/images/logo-magnaghi-friuli.png){width="35%"}
 
-    [https://www.magroup.net](https://www.magroup.net/){:target="_blank"}
+    [https://www.magroup.net](https://www.magroup.net/magnaghi-do-brasil/){:target="_blank"}
 
     > :material-badge-account-horizontal-outline: Entrada: 06/2003 :fontawesome-regular-handshake: Saída: 06/2004
 
@@ -323,8 +359,8 @@
 
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/PPP-AJUSTADOR-MECANICO.pdf){:download="PPP-AJUSTADOR-MECANICO.pdf"} para análise e apreciação.
 
-??? Success ":fontawesome-solid-industry: Precitech Inova"
-    ![Precitech](assets/images/experiencia-logo-precitech.png){width="33%"}
+??? Success ":fontawesome-solid-industry: PFF Inova"
+    ![Logo-PFF-Inova](assets/images/logo-pff-inova.png){width="33%"}
 
     [https://pffinova.com.br](https://pffinova.com.br/){:target="_blank"}
 
@@ -357,7 +393,7 @@
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/PPP-AJUSTADOR-FERRAMENTEIRO.pdf){:download="PPP-AJUSTADOR-FERRAMENTEIRO.pdf"} para análise e apreciação.
 
 ??? Success ":fontawesome-solid-industry: Ferrusmol Ferramentaria e Usinagem"
-    ![Ferrusmol](assets/images/experiencia-logo-ferrusmol.png){width="33%"}
+    ![Logo-Ferrusmol](assets/images/logo-ferrusmol.png){width="33%"}
 
     [https://ferrusmol.com.br](https://ferrusmol.com.br/){:target="_blank"}
 
@@ -390,7 +426,7 @@
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/PPP-TORNEIRO-MECANICO.pdf){:download="PPP-TORNEIRO-MECANICO.pdf"} para análise e apreciação.
 
 ??? Success ":material-airplane: ITA/CTA"
-    ![ITA-CTA](assets/images/experiencia-logo-ita.png){width="33%"}
+    ![Logo-ITA-CTA](assets/images/logo-ita-cta.png){width="33%"}
 
     [http://www.ita.br](http://www.ita.br/){:target="_blank"}
 
@@ -424,7 +460,7 @@
         [:fontawesome-regular-file-pdf: Download](documentos/pdf/ESTAGIARIO-ITA-CTA.pdf){:download="ESTAGIARIO-ITA-CTA.pdf"} para análise e apreciação.
 
 ??? Success ":simple-homeassistantcommunitystore: Fundhas "
-    ![Fundhas](assets/images/experiencia-logo-fundhas.png){width="33%"}
+    ![Logo-Fundhas](assets/images/logo-fundhas.png){width="33%"}
 
     [https://fundhas.org.br](https://fundhas.org.br/){:target="_blank"}
 
