@@ -8,6 +8,7 @@
 
 ## **Conteúdo**
 
+<!--
 ### Aplicativos Diversos
 
 ??? Success ":material-human: Z-Anatomy"
@@ -27,6 +28,7 @@
             ▶️ Tela Cheia
         </button>
     </div>
+-->
 
 ### Jogos on-line
 
@@ -75,6 +77,39 @@
     <div style="text-align: center; margin-top: 17px; color: black;">
     <strong>Observação:</strong> Emulador de jogos recomendado para jogar em <em>desktops</em> com o monitor em <em>fullscreen</em>. :material-fullscreen:
     </div>
+
+### Filmes & Séries
+
+??? Success ":material-plex: Plex Server"
+    <p style="text-align:center;">
+    <strong>Acesse o meu catálogo de mídias!</strong>
+    </p>
+    <p style="text-align:center;">
+    [![Plex Server](assets/images/button-plex.png){width="30%"}](https://app.plex.tv/desktop/#!/media/77544c2a17d13a153ad5b8e0edb6b9fb4adab571){:target="_blank"}
+    </p>
+
+    ---
+    **CONTA PLEX (VISITANTES)**
+
+    1. Clique em **Entrar** na parte/barra superior direita
+
+    2. Clique na terceira opção na janela laranja, em **Continuar com e-mail**
+
+    3. **E-mail ou nome de usuário:** curriculo.plex
+
+    4. **Senha:** Invite-especial2026*
+
+    5. **Verification code:** Peça para mim a autorização do seu acesso :material-hand-pointing-right: [(12) 98867-8750](https://wa.me/5512988678750){:target="_blank"}
+
+    ---
+    **MEU ACERVO (SERVIDOR PARTICULAR)**
+
+    * Mais de 3.000 filmes
+    * Mais de 100 séries
+    * Mais de 150 desenhos e animes
+    * Mais de 30 novelas e minisséries
+     
+    ![Plex Home](assets/images/plex-home.png){width="100%"}
 
 ### Linux
 
