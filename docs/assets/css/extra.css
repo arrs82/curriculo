@@ -343,3 +343,31 @@ td span.material-icons {
     z-index: 2147483647;
 }
 
+/* Suavidade */
+.plex-zoom {
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+
+/* Desktop */
+.plex-zoom:hover {
+  transform: scale(1.1);
+}
+
+/* Mobile */
+.plex-zoom:active {
+  transform: scale(1.1);
+}
+
+.plex-steps {
+  text-align: justify;
+}
+
+.plex-steps ol {
+  padding-left: 1.5rem;
+}
+
+.plex-steps li {
+  margin-bottom: 0.8rem;
+}
+

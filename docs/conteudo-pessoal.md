@@ -85,31 +85,56 @@
     <strong>Acesse o meu catálogo de mídias!</strong>
     </p>
     <p style="text-align:center;">
-    [![Plex Server](assets/images/button-plex.png){width="30%"}](https://app.plex.tv/desktop/#!/media/77544c2a17d13a153ad5b8e0edb6b9fb4adab571){:target="_blank"}
+    [![Plex Server](assets/images/button-plex.png){width="35%" .plex-zoom}](https://app.plex.tv/desktop/#!/media/77544c2a17d13a153ad5b8e0edb6b9fb4adab571){:target="_blank"}
     </p>
 
     ---
-    **CONTA PLEX (VISITANTES)**
+    **CONTA PLEX (VISITANTES) - PASSO A PASSO**
 
-    1. Clique em **Entrar** na parte/barra superior direita
+    <div class="plex-steps">
+    <ol>
+    <li>Clique em <strong>Entrar</strong> na parte/barra superior direita</li>
 
-    2. Clique na terceira opção na janela laranja, em **Continuar com e-mail**
+    <li>Clique na terceira opção na janela laranja, em <strong>Continuar com e-mail</strong></li>
 
-    3. **E-mail ou nome de usuário:** curriculo.plex
+    <li><strong>E-mail ou nome de usuário:</strong> curriculo.plex</li>
 
-    4. **Senha:** Invite-especial2026*
+    <li><strong>Senha:</strong> Invite-especial2026*</li>
 
-    5. **Verification code:** Peça para mim a autorização do seu acesso :material-hand-pointing-right: [(12) 98867-8750](https://wa.me/5512988678750){:target="_blank"}
+    <li><strong>Código de verificação:</strong> Peça para mim, via whatsapp, a autorização do seu acesso 
+    <span class="tw-emoji">:material-hand-pointing-right:</span> 
+    <a href="https://wa.me/5512988678750" target="_blank">(12) 98867-8750</a>
+    </li>
+    </ol>
+    </div>
+
+    <p style="text-align: justify;">
+    <strong>Observação:</strong> Detalhe, se o procedimento for realizado em sua TV Smart, possivelmente você conseguirá buscar e encontrar o _app_ PLEX na loja do <em>Android</em> vinculado à sua conta Google. Basta baixá-lo, instalá-lo e fazer o login com os dados que disponibilizei aqui.
+    </p> 
 
     ---
-    **MEU ACERVO (SERVIDOR PARTICULAR)**
+    **MEU ACERVO (SERVIDOR PARTICULAR - MINHA "NETFLIX" PESSOAL)**
 
     * Mais de 3.000 filmes
     * Mais de 100 séries
     * Mais de 150 desenhos e animes
     * Mais de 30 novelas e minisséries
      
-    ![Plex Home](assets/images/plex-home.png){width="100%"}
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/UwPyUdeBQ98?background=1?autoplay=1" title="Passo a Passo de Acesso ao meu PLEX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
+    ---
+    <p style="text-align:center;">
+    <strong>DIVIRTA-SE, MAS DIVIRTA-SE COM MUITA QUALIDADE E NO CONFORTO DE SUA CASA!</strong>
+    </p>
+    <p style="text-align:center;">
+    <strong>É FILMES, SÉRIES, NOVELAS E DESENHOS QUE NÃO ACABAM MAIS...</strong>
+    </p>
+    <p style="text-align:center;">
+    ![Plex Server](assets/images/alessandro-sofa.png){width="80%"}
+    </p>
+    
 
 ### Linux
 
