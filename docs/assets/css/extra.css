@@ -75,14 +75,6 @@ h2 {
   z-index: 1; /* Ajuste o z-index conforme necessário */
 }
 
-/* Estilos para o bloco note info */
-.???note.info {
-  border-left: 3px solid #007bff; /* Cor da borda */
-  background-color: #f0f0f0; /* Cor de fundo */
-  padding: 10px; /* Espaçamento interno */
-  margin-bottom: 20px; /* Espaçamento inferior */
-}
-
 /* Estilos para o contêiner da imagem e texto */
 .image-with-text {
   display: flex; /* Usando flexbox para alinhar itens */
