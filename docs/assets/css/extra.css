@@ -343,21 +343,33 @@ td span.material-icons {
     z-index: 2147483647;
 }
 
-/* Suavidade */
+/* =========================
+   ZOOM BOTÃO PLEX
+========================= */
+
 .plex-zoom {
+  display: inline-block; /* importante para transformar corretamente */
   transition: transform 0.3s ease;
   cursor: pointer;
 }
 
-/* Desktop */
-.plex-zoom:hover {
-  transform: scale(1.1);
+/* Desktop (dispositivos com mouse) */
+@media (hover: hover) {
+  .plex-zoom:hover {
+    transform: scale(1.1);
+  }
 }
 
-/* Mobile */
-.plex-zoom:active {
-  transform: scale(1.1);
+/* Mobile (touch) */
+@media (hover: none) {
+  .plex-zoom:active {
+    transform: scale(1.12);
+  }
 }
+
+/* =========================
+   LISTA JUSTIFICADA
+========================= */
 
 .plex-steps {
   text-align: justify;
