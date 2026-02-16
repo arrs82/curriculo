@@ -82,24 +82,26 @@
 
 ??? Success ":material-plex: Plex Server"
     <p style="text-align:center;">
-    <strong>Acesse o meu catálogo de mídias!</strong>
+    <strong>ACESSE O MEU CATÁLOGO DE MÍDIAS</strong>
     </p>
     <p style="text-align:center;">
     [![Plex Server](assets/images/button-plex.png){width="35%" .plex-zoom}](https://app.plex.tv/desktop/#!/media/77544c2a17d13a153ad5b8e0edb6b9fb4adab571){:target="_blank"}
     </p>
 
     ---
-    **CONTA PLEX (VISITANTES) - PASSO A PASSO**
-
+    <p style="text-align:center;">
+    <strong>CONTA PLEX (VISITANTES) - PASSO A PASSO</strong>
+    </p>
+    
     <div class="plex-steps">
     <ol>
     <li>Clique em <strong>Entrar</strong> na parte/barra superior direita</li>
 
-    <li>Clique na terceira opção na janela laranja, em <strong>Continuar com e-mail</strong></li>
+    <li>Clique na terceira opção, na janela laranja, em <strong>Continuar com e-mail</strong></li>
 
-    <li><strong>E-mail ou nome de usuário:</strong> curriculo.plex</li>
+    <li><strong>E-mail ou nome de usuário:</strong> <span style="color: red;">curriculo.plex</span></li>
 
-    <li><strong>Senha:</strong> Invite-especial2026*</li>
+    <li><strong>Senha:</strong> <span style="color: red;">Invite-especial2026*</span></li>
 
     <li><strong>Código de verificação:</strong> Peça para mim, via whatsapp, a autorização do seu acesso 
     <span class="tw-emoji">:material-hand-pointing-right:</span> 
@@ -112,25 +114,27 @@
     <strong>Observação:</strong> Detalhe, se o procedimento for realizado em sua TV Smart, possivelmente você conseguirá buscar e encontrar o _app_ PLEX na loja do <em>Android</em> vinculado à sua conta Google. Basta baixá-lo, instalá-lo e fazer o login com os dados que disponibilizei aqui.
     </p> 
 
-    ---
-    **MEU ACERVO (SERVIDOR PARTICULAR - MINHA "NETFLIX" PESSOAL)**
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/lnswy5T8SAk?background=1?autoplay=1" title="Passo a Passo de Acesso ao meu PLEX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 
+    <p style="text-align:center;"><em>
+    "Divirta-se, mas divirta-se com muita qualidade e no conforto de sua casa!"
+    </em></p>
+
+    <p style="text-align:center;"><em>
+    "É filmes, séries, novelas e desenhos que não acabam mais..."
+    </em></p>
+    ---
+    <p style="text-align:center;">
+    <strong>MEU ACERVO (SERVIDOR PARTICULAR - MINHA "NETFLIX" PESSOAL)</strong>
+    </p>
+    
     * Mais de 3.000 filmes
     * Mais de 100 séries
     * Mais de 150 desenhos e animes
     * Mais de 30 novelas e minisséries
-     
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/UwPyUdeBQ98?background=1?autoplay=1" title="Passo a Passo de Acesso ao meu PLEX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-
-    ---
-    <p style="text-align:center;">
-    <strong>DIVIRTA-SE, MAS DIVIRTA-SE COM MUITA QUALIDADE E NO CONFORTO DE SUA CASA!</strong>
-    </p>
-    <p style="text-align:center;">
-    <strong>É FILMES, SÉRIES, NOVELAS E DESENHOS QUE NÃO ACABAM MAIS...</strong>
-    </p>
+         
     <p style="text-align:center;">
     ![Plex Server](assets/images/alessandro-sofa.png){width="80%"}
     </p>
