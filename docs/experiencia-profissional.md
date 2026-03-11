@@ -34,6 +34,8 @@
     * Capacidade de adaptação a diferentes perfis de alunos;
     * Atuação em rodízio operacional no ambiente de musculação, assegurando suporte contínuo;
     * Prescrição e atualização de treinos individualizados em sistema digital de gestão.
+
+        [:material-hand-pointing-right: Acesso online ao sistema Pacto Soluções](https://lgn.pactosolucoes.com.br/pt/auth){:target="_blank"}
     ---
     **Referências das Experiências Laborais - Liderança Novo Impacto**
 

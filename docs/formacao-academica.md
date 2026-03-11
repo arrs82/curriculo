@@ -15,6 +15,8 @@
 
     [https://etep.edu.br](https://etep.edu.br/){:target="_blank"}
 
+    **Endereço/Localização:** [Google Maps](https://maps.google.com/?cid=4262562701277012067&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ){:target="_blank"}
+
     **Diploma de curso superior:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/DIPLOMA-GRADUACAO-ARRS.pdf){:download="DIPLOMA-GRADUACAO-ARRS.pdf"}
 
     **Ementa do curso:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/EMENTA-ETEP.pdf){:download="EMENTA-ETEP.pdf"}
@@ -220,11 +222,13 @@
 
     [https://ufbra.com.br/](https://ufbra.com.br){:target="_blank"}
 
+    **Endereço/Localização:** [Google Maps](https://maps.google.com/?cid=12846333323558079120&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ){:target="_blank"}
+
     **Declaração de matrícula de curso superior:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/DECLARACAO-MATRICULA-UFBRA.pdf){:download="DECLARACAO-MATRICULA-EF.pdf"}
 
     ---
     <p style="text-align: center;">**Curso superior (Bacharel) - Duração: 4 anos**</p>
-    <p style="text-align: justify;">Cursando **Educação Física** pelo centro universitário UFBRA no Campus Centro/SJC detendo e vivenciando sólidos conhecimentos em ambiente acadêmico relacionados às competências:
+    <p style="text-align: justify;">Cursando **Educação Física** pelo centro universitário UFBRA, detendo e vivenciando sólidos conhecimentos em ambiente acadêmico relacionados às competências:
 
     * Planejamento e Prescrição de Atividades Físicas para diferentes públicos e necessidades;
     * Avaliação Física e Funcional (antropometria, testes de aptidão);
@@ -335,6 +339,8 @@
 
     [https://sp.senai.br/unidade/saojosedoscampos](https://sp.senai.br/unidade/saojosedoscampos/){:target="_blank"}
 
+    **Endereço/Localização:** [Google Maps](https://maps.google.com/?cid=11208546067842125494&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ){:target="_blank"}
+
     **Certificado de curso técnico:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/CERTIFICADO-TECNICO-TI.pdf){:download="CERTIFICADO-TECNICO-TI.pdf"}
 
     **Ementa do curso:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/EMENTA-SENAI.pdf){:download="EMENTA-SENAI.pdf"}
@@ -400,11 +406,13 @@
 
     [https://cephas.org.br](https://cephas.org.br/){:target="_blank"}
 
+    **Endereço/Localização:** [Google Maps](https://maps.google.com/?cid=822472689309129607&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ){:target="_blank"}
+
     **Certificado de curso técnico:** [:fontawesome-regular-file-pdf: Download](documentos/pdf/CERTIFICADO-TECNICO-MEC.pdf){:download="CERTIFICADO-TECNICO-MEC.pdf"}
 
     ---
     <p style="text-align: center;">**Curso técnico presencial - Duração: 2 anos**</p>
-    <p style="text-align: justify;">Formado como **Técnico em Mecânica** pela escola CEPHAS - Colégio de Educação Profissional "Hélio Augusto de Souza"  com sólidos conhecimentos vivenciados em ambiente acadêmico relacionados às competências:
+    <p style="text-align: justify;">Formado como **Técnico em Mecânica** pela escola CEPHAS - Colégio de Educação Profissional "Hélio Augusto de Souza" com sólidos conhecimentos vivenciados em ambiente acadêmico relacionados às competências:
 
     * Planejamento e Controle de Produção;
     * Métodos e Processos;

@@ -127,7 +127,7 @@
     </em></p>
     ---
     <p style="text-align:center;">
-    <strong>MEU ACERVO (SERVIDOR PARTICULAR - MINHA "NETFLIX" PESSOAL)</strong>
+    <strong>MEU ACERVO DE 37 TB (SERVIDOR PARTICULAR - MINHA "NETFLIX" PESSOAL)</strong>
     </p>
     
     * Mais de 3.000 filmes
