@@ -4,12 +4,48 @@
 
 ## **Experiência Profissional**
 
+??? Success ":fontawesome-solid-dumbbell: Panobianco Academia"
+    ![Logo-Panobianco](assets/images/logo-panobianco.png){width="33%"}
+
+    [@panobiancosjcmontecastelo](https://www.instagram.com/panobiancosjcmontecastelo/){:target="_blank"}
+
+    > :material-badge-account-horizontal-outline: Entrada: 03/2026 :fontawesome-regular-handshake: Saída: Em exercício
+
+    **Segmento da Empresa:** Fítness e saúde
+
+    **Cargo:** Estagiário de Educação Física
+
+    **Departamento:** Musculação
+
+    **Modalidade:** Estágio
+
+    **Atribuições:** <p style="text-align: justify;">Acompanhamento e orientação de alunos na sala de musculação, auxiliando na execução correta e segura dos exercícios; apoio na montagem e ajuste de treinos conforme objetivos individuais; organização do ambiente e dos equipamentos; observação postural, correção de movimentos e prevenção de lesões sob supervisão profissional; atendimento ao público e esclarecimento de dúvidas sobre uso dos aparelhos.</p>
+
+    **Competências técnicas/comportamentais desenvolvidas:**
+
+    * Fundamentos de musculação e treinamento resistido;
+    * Orientação e correção de exercícios físicos;
+    * Atendimento ao público;
+    * Relacionamento interpessoal;
+    * Comunicação verbal;
+    * Trabalho em equipe;
+    * Responsabilidade e ética profissional;
+    * Equilíbrio emocional;
+    * Resiliência;
+    * Montagem, ajustes e prescrição de treinos individuais via sistema ABC EVO.
+        
+        [:material-hand-pointing-right: Acesso online ao sistema ABC EVO](https://evo5.w12app.com.br/#/acesso/panobiancos/autenticacao){:target="_blank"}
+    ---
+    **Referências das Experiências Laborais - Liderança Panobianco**
+
+    * Contato/Supervisão :material-hand-pointing-right: [(12) 99779-8871](https://wa.me/5512997798871){:target="_blank"}
+
 ??? Success ":fontawesome-solid-dumbbell: Novo Impacto Academia"
     ![Logo-Novo-Impacto](assets/images/logo-novo-impacto.png){width="33%"}
 
     [@novoimpactoacademia](https://www.instagram.com/novoimpactoacademia/){:target="_blank"}
 
-    > :material-badge-account-horizontal-outline: Entrada: 02/2026 :fontawesome-regular-handshake: Saída: Em exercício
+    > :material-badge-account-horizontal-outline: Entrada: 02/2026 :fontawesome-regular-handshake: Saída: 04/2026
 
     **Segmento da Empresa:** Fítness e saúde
 
@@ -39,7 +75,7 @@
     ---
     **Referências das Experiências Laborais - Liderança Novo Impacto**
 
-    * Contato/Supervisão :material-hand-pointing-right: [(12) 99746-2207](https://wa.me/5512997462207){:target="_blank"}
+    * Contato/Supervisão :material-hand-pointing-right: [(12) 99245-9777](https://wa.me/5512992459777){:target="_blank"}
         
 ??? Success ":fontawesome-solid-dumbbell: SkyFit Academia"
     ![Logo-SkyFit](assets/images/logo-skyfit.png){width="33%"}

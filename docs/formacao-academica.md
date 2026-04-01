@@ -267,7 +267,7 @@
     |Metodologia da Pesquisa Científica|80h|
     |Arte, Cultura e Educação|80h|
     |Projeto Multidisciplinar Final I - Educação Física Bacharelado|Cursando|
-    |Psicologia do Desenvolvimento e do Esporte|Cursando|
+    |Psicologia do Desenvolvimento e do Esporte|80h|
     |Anatomia Aplicada ao Exercício|Cursando|
     |Fisiologia Básica|Cursando|
     |Controle e Aprendizagem Motora|Cursando|
