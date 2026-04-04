@@ -38,7 +38,7 @@
     ---
     **Referências das Experiências Laborais - Liderança Panobianco**
 
-    * Contato/Supervisão :material-hand-pointing-right: [(12) 99779-8871](https://wa.me/5512997798871){:target="_blank"}
+    * Contato/Supervisão :material-hand-pointing-right: [(12) 99245-9777](https://wa.me/5512992459777){:target="_blank"}
 
 ??? Success ":fontawesome-solid-dumbbell: Novo Impacto Academia"
     ![Logo-Novo-Impacto](assets/images/logo-novo-impacto.png){width="33%"}
