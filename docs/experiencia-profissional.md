@@ -35,6 +35,9 @@
     * Montagem, ajustes e prescrição de treinos individuais via sistema ABC EVO.
         
         [:material-hand-pointing-right: Acesso online ao sistema ABC EVO](https://evo5.w12app.com.br/#/acesso/panobiancos/autenticacao){:target="_blank"}
+    <center>
+    ![Alessandro-Panobianco](assets/images/ale-panobianco.png){width="50%"}
+    </center>
     ---
     **Referências das Experiências Laborais - Liderança Panobianco**
 
@@ -72,6 +75,9 @@
     * Prescrição e atualização de treinos individualizados em sistema digital de gestão.
 
         [:material-hand-pointing-right: Acesso online ao sistema Pacto Soluções](https://lgn.pactosolucoes.com.br/pt/auth){:target="_blank"}
+    <center>
+    ![Alessandro-NovaImpacto](assets/images/ale-novaimpacto.png){width="50%"}
+    </center>
     ---
     **Referências das Experiências Laborais - Liderança Novo Impacto**
 
@@ -108,6 +114,9 @@
     * Montagem, ajustes e prescrição de treinos individuais via sistema ABC EVO.
         
         [:material-hand-pointing-right: Acesso online ao sistema ABC EVO](https://evo5.w12app.com.br/#/acesso/skyfitacademia/autenticacao){:target="_blank"}
+    <center>
+    ![Alessandro-SkyFit](assets/images/ale-skyfit.png){width="50%"}
+    </center>
     ---
     **Referências das Experiências Laborais - Liderança SkyFit**
 
