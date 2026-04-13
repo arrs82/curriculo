@@ -81,7 +81,7 @@
     ---
     **Referências das Experiências Laborais - Liderança Novo Impacto**
 
-    * Contato/Supervisão :material-hand-pointing-right: [(12) 99245-9777](https://wa.me/5512992459777){:target="_blank"}
+    * Contato/Supervisão :material-hand-pointing-right: [(12) 99746-2207](https://wa.me/5512997462207){:target="_blank"}
         
 ??? Success ":fontawesome-solid-dumbbell: SkyFit Academia"
     ![Logo-SkyFit](assets/images/logo-skyfit.png){width="33%"}
