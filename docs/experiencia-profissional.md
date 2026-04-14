@@ -44,7 +44,7 @@
     * Contato/Supervisão :material-hand-pointing-right: [(12) 99245-9777](https://wa.me/5512992459777){:target="_blank"}
 
 ??? Success ":fontawesome-solid-dumbbell: Novo Impacto Academia"
-    ![Logo-Novo-Impacto](assets/images/logo-novo-impacto.png){width="33%"}
+    ![Logo-Academia-Novo-Impacto](assets/images/logo-novo-impacto.png){width="33%"}
 
     [@novoimpactoacademia](https://www.instagram.com/novoimpactoacademia/){:target="_blank"}
 
