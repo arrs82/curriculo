@@ -9,7 +9,7 @@
 
     [@panobiancosjcmontecastelo](https://www.instagram.com/panobiancosjcmontecastelo/){:target="_blank"}
 
-    > :material-badge-account-horizontal-outline: Entrada: 03/2026 :fontawesome-regular-handshake: Saída: Em exercício
+    > :material-badge-account-horizontal-outline: Entrada: 03/2026 :fontawesome-regular-handshake: Saída: 05/2026
 
     **Segmento da Empresa:** Fítness e saúde
 
@@ -41,7 +41,7 @@
     ---
     **Referências das Experiências Laborais - Liderança Panobianco**
 
-    * Contato/Supervisão :material-hand-pointing-right: [(12) 99245-9777](https://wa.me/5512992459777){:target="_blank"}
+    * Contato/Supervisão :material-hand-pointing-right: [(19) 97411-1164](https://wa.me/5519974111164){:target="_blank"}
 
 ??? Success ":fontawesome-solid-dumbbell: Novo Impacto Academia"
     ![Logo-Academia-Novo-Impacto](assets/images/logo-novo-impacto.png){width="33%"}

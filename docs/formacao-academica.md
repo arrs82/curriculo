@@ -268,7 +268,7 @@
     |Arte, Cultura e Educação|80h|
     |Projeto Multidisciplinar Final I - Educação Física Bacharelado|Cursando|
     |Psicologia do Desenvolvimento e do Esporte|80h|
-    |Anatomia Aplicada ao Exercício|Cursando|
+    |Anatomia Aplicada ao Exercício|80h|
     |Fisiologia Básica|Cursando|
     |Controle e Aprendizagem Motora|Cursando|
     |Comunicação e Expressão|Cursando|
