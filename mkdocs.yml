@@ -3,6 +3,7 @@ site_name: Currículo Profissional
 site_url: https://www.alessandroroberto.com.br/
 site_author: Alessandro Roberto dos Reis Santos
 site_description: Currículo Profissional
+use_directory_urls: true
 
 # Copyright
 # copyright: © 2026 Currículo Profissional - Alessandro Roberto dos Reis Santos
@@ -20,8 +21,9 @@ nav:
   - Experiência Profissional: experiencia-profissional.md
   - Seminários Motivacionais: seminarios-motivacionais.md
   - Portfólio de Criação: portfolio-criacao.md
-  # - Atari: games/atari/index.html
-  # - Monopoly: assets/html/monopoly-js.html
+  # - Acesso Plex: docs/acesso/acesso-plex/index.html
+  # - Atari: games/atari/
+  # - Monopoly: games/monopoly/
   # - Projetos de Infraestrutura: projetos-infra.md
   #     - Proxmox: projetos-infra/proxmox.md
   #     - Pfsense Firewall: projetos-infra/pfsense-firewall.md
