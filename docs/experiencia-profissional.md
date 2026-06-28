@@ -4,6 +4,43 @@
 
 ## **Experiência Profissional**
 
+??? Success ":fontawesome-solid-dumbbell: Phoenix Box & Fit"
+    ![Logo-Phoenix](assets/images/logo-phoenix.png){width="40%"}
+
+    [@phoenix_fit_sjc](https://www.instagram.com/phoenixbox_fit_sjc/){:target="_blank"}
+
+    > :material-badge-account-horizontal-outline: Entrada: 06/2026 :fontawesome-regular-handshake: Saída: Até o momento
+
+    **Segmento da Empresa:** Fítness e saúde
+
+    **Cargo:** Estagiário de Educação Física
+
+    **Departamento:** Musculação
+
+    **Modalidade:** Estágio
+
+    **Atribuições:** <p style="text-align: justify;">Acompanhamento e orientação de alunos na sala de musculação, auxiliando na execução correta e segura dos exercícios; apoio na montagem e ajuste de treinos conforme objetivos individuais; organização do ambiente e dos equipamentos; observação postural, correção de movimentos e prevenção de lesões sob supervisão profissional; atendimento ao público e esclarecimento de dúvidas sobre uso dos aparelhos.</p>
+
+    **Competências técnicas/comportamentais desenvolvidas:**
+
+    * Fundamentos de musculação e treinamento resistido;
+    * Orientação e correção de exercícios físicos;
+    * Atendimento ao público;
+    * Relacionamento interpessoal;
+    * Comunicação verbal;
+    * Trabalho em equipe;
+    * Responsabilidade e ética profissional;
+    * Equilíbrio emocional;
+    * Resiliência;
+            
+    <center>
+    ![Alessandro-Phoenix](assets/images/ale-phoenix.png){width="50%"}
+    </center>
+    ---
+    **Referências das Experiências Laborais - Liderança Phoenix**
+
+    * Contato/Supervisão :material-hand-pointing-right: [(12) 99176-4711](https://wa.me/5512991764711){:target="_blank"}
+    
 ??? Success ":fontawesome-solid-dumbbell: Panobianco Academia"
     ![Logo-Panobianco](assets/images/logo-panobianco.png){width="33%"}
 
