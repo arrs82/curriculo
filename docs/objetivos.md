@@ -70,7 +70,7 @@
     !!! example ":material-video-vintage: **Prestador de Serviços (Freelance)**"
         <p style="text-align: justify;">
         Atuante como **prestador de serviços** em restrospectivas animadas de aniversários, casamentos, confraternizações, empresarial, filhos do coração, etc.</p>
-        <p style="text-align: justify;">Equipamentos de ponta e de última geração, acompanhados dos melhores softwares pagos e atuais, ambos utilizados para a realização com excelente qualidade de todo o projeto e trabalho de áudio/visual.</p>
+        <p style="text-align: justify;">Se necessário, detenho equipamentos de ponta e de última geração, teleprompt, chroma Key móvel, acompanhados dos melhores softwares pagos e atuais, ambos utilizados para a realização com excelente qualidade de todo o projeto e trabalho de áudio/visual.</p>
         ---
         <p style="text-align: justify;">:material-clipboard-text-play-outline: Saiba e veja mais em meu [Portfólio de Criação](portfolio-criacao.md).
         </p>
