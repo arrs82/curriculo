@@ -1,0 +1,323 @@
+<!DOCTYPE html><html lang=pt-BR> <head><meta charset=UTF-8><meta name=viewport content="width=device-width, initial-scale=1.0"><title>404 - Página não encontrada</title><link rel=icon type=image/x-icon href=/assets/images/favicons/favicon.ico><style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #546d78;
+      color: #fff;
+      text-align: center;
+      font-family: "Open Sans", sans-serif;
+      font-size: 1.3rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+    }
+
+    body h1 {
+      font-size: 2.5rem;
+    }
+
+    .message {
+      max-width: 700px;
+      margin: 2rem auto 0 auto;
+    }
+
+    @keyframes floating {
+      to { top: 1.5rem; }
+    }
+
+    .gandalf {
+      position: relative;
+      width: 400px;
+      height: 400px;
+      margin: 0 auto;
+      top: 1rem;
+      animation: floating 1s infinite alternate ease-in-out;
+    }
+
+    .gandalf div { position: absolute; }
+
+    .gandalf::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 400px;
+      height: 400px;
+      background-color: #1a2130;
+      border-radius: 50%;
+    }
+
+    .fireball {
+      bottom: -10px;
+      left: 50px;
+      width: 300px;
+      height: 100px;
+      border-radius: 50%;
+      background: radial-gradient(#EFAC41, #DE8531, #6C1305, black);
+      border: 5px solid #000;
+    }
+
+    .skirt {
+      bottom: 50px;
+      left: 100px;
+      border-bottom: 230px solid #ededed;
+      border-left: 100px solid transparent;
+      border-right: 100px solid transparent;
+      filter: drop-shadow(0 0 6px #d7d7d7);
+    }
+    .skirt::before {
+      content: "";
+      position: absolute;
+      background-color: #ededed;
+      width: 100px;
+      height: 21px;
+      top: 230px;
+      left: 0px;
+      border-bottom-right-radius: 180%;
+      border-bottom-left-radius: 100%;
+    }
+    .skirt::after {
+      content: "";
+      position: absolute;
+      background-color: #ededed;
+      width: 100px;
+      height: 28px;
+      top: 230px;
+      left: -100px;
+      border-bottom-right-radius: 80%;
+      border-bottom-left-radius: 180%;
+    }
+
+    .sleeves::before, .sleeves::after {
+      content: "";
+      position: absolute;
+      border-bottom: 70px solid #ededed;
+      filter: drop-shadow(0 0 6px #d7d7d7);
+    }
+    .sleeves::before {
+      top: 130px;
+      left: 191px;
+      border-left: 100px solid transparent;
+      border-right: 40px solid transparent;
+      transform: rotate(-34deg);
+    }
+    .sleeves::after {
+      top: 127px;
+      left: 70px;
+      border-left: 40px solid transparent;
+      border-right: 100px solid transparent;
+      transform: rotate(41deg);
+    }
+
+    .shoulders {
+      background-color: #ededed;
+      border-radius: 50%;
+      width: 100px;
+      height: 130px;
+      left: 150px;
+      top: 120px;
+      position: absolute;
+    }
+    .shoulders .hand {
+      width: 33px;
+      height: 26px;
+      border-radius: 50%;
+      background-color: #ffd8ad;
+      top: -6px;
+      position: absolute;
+    }
+    .shoulders .hand.left {
+      left: -70px;
+      transform: rotate(-20deg);
+    }
+    .shoulders .hand.left::after {
+      content: "";
+      position: absolute;
+      background-color: #e6e6e6;
+      width: 126px;
+      height: 8px;
+      border-radius: 4px;
+      transform: rotate(-105deg);
+      transform-origin: bottom;
+      top: -48px;
+      left: -56px;
+    }
+    .shoulders .hand.right {
+      right: -70px;
+      transform: rotate(20deg);
+    }
+    .shoulders .hand.right::after {
+      content: "";
+      position: absolute;
+      background-color: #bf5507;
+      width: 250px;
+      height: 5px;
+      border-radius: 2.5px;
+      transform: rotate(-78deg);
+      transform-origin: left;
+      bottom: -100px;
+      left: 0;
+    }
+
+    .head {
+      width: 80px;
+      height: 90px;
+      top: 80px;
+      left: 160px;
+      background-color: #ffd8ad;
+      border-radius: 50%;
+      position: absolute;
+    }
+    .head::before {
+      content: "";
+      position: absolute;
+      background-color: #000;
+      width: 13px;
+      height: 5px;
+      border-radius: 3px;
+      top: 42px;
+      left: 22px;
+      transform: rotate(19deg);
+    }
+    .head::after {
+      content: "";
+      position: absolute;
+      background-color: #000;
+      width: 13px;
+      height: 5px;
+      border-radius: 3px;
+      top: 42px;
+      right: 22px;
+      transform: rotate(-19deg);
+    }
+
+    .head .hair {
+      width: 70px;
+      height: 30px;
+      background-color: #c2beb5;
+      border-radius: 50%;
+      top: 0;
+      left: 5px;
+      position: absolute;
+    }
+    .head .hair::before {
+      content: "";
+      position: absolute;
+      background-color: #c2beb5;
+      filter: drop-shadow(2px 5px 0 #b9b6ad);
+      top: 13px;
+      left: -16px;
+      width: 25px;
+      height: 100px;
+      border-top-left-radius: 34px;
+      border-top-right-radius: 15px;
+      border-bottom-left-radius: 100px;
+      border-bottom-right-radius: 20px;
+      transform: rotate(8deg);
+    }
+    .head .hair::after {
+      content: "";
+      position: absolute;
+      background-color: #c2beb5;
+      filter: drop-shadow(2px 5px 0 #b9b6ad);
+      top: 13px;
+      right: -16px;
+      width: 25px;
+      height: 100px;
+      border-top-left-radius: 15px;
+      border-top-right-radius: 34px;
+      border-bottom-left-radius: 20px;
+      border-bottom-right-radius: 100px;
+      transform: rotate(-10deg);
+    }
+
+    .head .beard {
+      top: 64px;
+      left: 5px;
+      border-top: 80px solid #c2beb5;
+      border-left: 35px solid transparent;
+      border-right: 35px solid transparent;
+      border-radius: 30px;
+      filter: drop-shadow(2px 5px 0 #b9b6ad);
+      position: absolute;
+    }
+    .head .beard::before {
+      content: "";
+      position: absolute;
+      background-color: pink;
+      width: 20px;
+      height: 5px;
+      border-radius: 40%;
+      top: -70px;
+      left: -9px;
+    }
+
+    .button-container {
+      display: flex;
+      justify-content: center;
+      margin-top: 0rem;
+    }
+
+    .the-one-ring {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 95px;
+      height: 95px;
+      border-radius: 50%;
+      position: relative;
+      background: radial-gradient(circle at 50% 50%, #f4c20d 0%, #a68b44 100%);
+      box-shadow: 0 0 10px rgba(255, 215, 0, 0.5), 0 0 20px rgba(255, 215, 0, 0.3);
+      text-decoration: none;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      overflow: hidden;
+    }
+
+    .the-one-ring::before {
+      content: '';
+      position: absolute;
+      top: 9px;
+      left: 9px;
+      right: 9px;
+      bottom: 9px;
+      border-radius: 50%;
+      background-color: #546d78;
+      z-index: 1;
+    }
+
+    .the-one-ring:hover {
+      transform: scale(1.1);
+      box-shadow: 0 0 15px rgba(255, 215, 0, 0.8), 0 0 30px rgba(255, 215, 0, 0.6), 0 0 45px rgba(255, 215, 0, 0.4);
+    }
+
+    .ring-text {
+      font-size: 1rem;
+      font-weight: bold;
+      color: #000;
+      text-shadow: 0 0 5px #ffdb58, 0 0 10px #ffdb58;
+      z-index: 2;
+    }
+
+    /* Adiciona estilos responsivos para telas de até 600px */
+    @media (max-width: 600px) {
+      .gandalf {
+        /* Reduz a escala da ilustração inteira para caber na tela */
+        transform: scale(0.6);
+        /* Ajusta o posicionamento para a nova escala */
+        top: 0;
+        margin-bottom: 0;
+        /* Altera a velocidade da animação para um valor mais lento */
+        animation-duration: 2.5s;
+      }
+
+      body h1 {
+        font-size: 1.8rem;
+      }
+
+      .message {
+        margin-top: 1rem;
+      }
+    }
+  </style></head> <body> <div class=gandalf> <div class=fireball></div> <div class=skirt></div> <div class=sleeves></div> <div class=shoulders> <div class="hand left"></div> <div class="hand right"></div> </div> <div class=head> <div class=hair></div> <div class=beard></div> </div> </div> <div class=message> <h1 style="font-size: 90px; margin: 0;">404</h1> <h1><em>"VOCÊ... NÃO VAI PASSAR DAQUI!"</em></h1> <p>Opa, o Gandalf está bloqueando o caminho da pasta!<br> Talvez você tenha errado o endereço da URL? Ou você tentou ir para um lugar diferente? Tipo... Vila dos Hobbits? Pare de ser enxerido... </p> </div> <div class=button-container> <a href=/ class=the-one-ring> <span class=ring-text>Página Inicial</span> </a> </div> </body> </html>
